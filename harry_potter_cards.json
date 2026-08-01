@@ -2,7 +2,7 @@
   {
     "id": 84,
     "cardNumber": "01-001",
-    "cardName": "Albus Dumbledore",
+    "cardName": "アルバス・ダンブルドア",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -15,21 +15,21 @@
     "mp": null,
     "ap": 10,
     "dp": 10,
-    "text": "(Always) Whenever you play a Magic Card, Ready this character",
+    "text": "〔常時〕\n自分がMagicカードをプレイした場合、活動状態になる。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -41,7 +41,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -50,7 +50,7 @@
   {
     "id": 85,
     "cardNumber": "01-002",
-    "cardName": "Rubeus Hagrid",
+    "cardName": "ルビウス・ハグリッド",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -63,17 +63,17 @@
     "mp": null,
     "ap": 9,
     "dp": 9,
-    "text": "(Trigger)(Enter) Ready all 「Harry Potter」 Cards",
+    "text": "〔自動〕〔エントリー〕\r\n味方「ハリー・ポッター」のカード全てを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -85,14 +85,14 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 41,
-        "question": "Pt003「Harry Potter」の「味方の[Gryffindor]Card1枚までを、活動状態にする。」によって、PartnerCardを活動状態にできますか。",
-        "answer": "できません。対象となる場所（MPフィールド、デッキなど）が指定されてない効果は、決闘場のCardのみを指定できます。",
+        "question": "Pt003「ハリー・ポッター」の「味方の【グリフィンドール】カード1枚までを、活動状態にする。」によって、Partnerカードを活動状態にできますか。",
+        "answer": "できません。対象となる場所（MPフィールド、デッキなど）が指定されてない効果は、決闘場のカードのみを指定できます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -101,7 +101,7 @@
   {
     "id": 86,
     "cardNumber": "01-003",
-    "cardName": "Harry Potter",
+    "cardName": "ハリー・ポッター",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -114,21 +114,21 @@
     "mp": null,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Move up to one alllied Character with Cost 4 or less from the Supporter Zone to the Main Zone",
+    "text": "〔Pリンク【グリフィンドール】〕〔自動〕〔エントリー〕\nサポートフィールドにいる、コスト4以下の味方キャラ1枚までを、メインフィールドに移す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -140,20 +140,20 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 56,
-        "question": "メインフィールドに味方キャラが2枚いるとき、01-003「Harry Potter」をプレイし、01-003を捨て札にしてサポートフィールドのコスト4以下の味方キャラをメインフィールドに移すことは可能でしょうか。",
+        "question": "メインフィールドに味方キャラが2枚いるとき、01-003「ハリー・ポッター」をプレイし、01-003を捨て札にしてサポートフィールドのコスト4以下の味方キャラをメインフィールドに移すことは可能でしょうか。",
         "answer": "可能です。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 57,
-        "question": "01-003「Harry Potter」の「サポートフィールドにいる、コスト4以下の味方キャラ1枚までを、メインフィールドに移す。」によって、メインフィールドに移ったキャラは、Attackできますか。",
-        "answer": "そのターン中にプレイされたキャラでなければ、すぐにAttackすることができます。",
+        "question": "01-003「ハリー・ポッター」の「サポートフィールドにいる、コスト4以下の味方キャラ1枚までを、メインフィールドに移す。」によって、メインフィールドに移ったキャラは、アタックできますか。",
+        "answer": "そのターン中にプレイされたキャラでなければ、すぐにアタックすることができます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -162,7 +162,7 @@
   {
     "id": 89,
     "cardNumber": "01-004",
-    "cardName": "Ron Weasley ＆ Hermione Granger",
+    "cardName": "ロン・ウィーズリー＆ハーマイオニー・グレンジャー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -175,25 +175,25 @@
     "mp": null,
     "ap": 5,
     "dp": 5,
-    "text": "(P-Link[Gryffindor])(Always) Gain(Haste)",
+    "text": "〔Pリンク【グリフィンドール】〕〔常時〕\n〔速攻〕を得る。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 13,
-        "value": "Witch"
+        "value": "魔女"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -205,7 +205,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -214,7 +214,7 @@
   {
     "id": 91,
     "cardNumber": "01-005",
-    "cardName": "Neville Longbottom",
+    "cardName": "ネビル・ロングボトム",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -227,21 +227,21 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "≪Supporter≫\n(P-Link[Gryffindor])(Declare)(Your Main Phase)(Rest) Give up to one allied character +2/+2 until End of Turn",
+    "text": "≪サポーター≫\n〔Pリンク【グリフィンドール】〕〔宣言〕〔自分のメインフェイズ〕⤵\n味方キャラ1枚までを、ターン終了時まで、+2/+2する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -253,7 +253,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -262,7 +262,7 @@
   {
     "id": 92,
     "cardNumber": "01-006",
-    "cardName": "Draco Malfoy",
+    "cardName": "ドラコ・マルフォイ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -275,21 +275,21 @@
     "mp": null,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link[Slytherine])(Trigger)(Enter) Down up to one character an opponent controls with cost 4 or less",
+    "text": "〔Pリンク【スリザリン】〕〔自動〕〔エントリー〕\n相手メインフィールドいる、コストが4以下のキャラ1枚までを、ダウンさせる。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -301,7 +301,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -310,7 +310,7 @@
   {
     "id": 93,
     "cardNumber": "01-007",
-    "cardName": "Draco Malfoy",
+    "cardName": "ドラコ・マルフォイ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -323,21 +323,21 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "≪Supporter≫\n(P-Link[Slytherine])(Declare)(Your Main Phase)(Rest) Give up to two characters an opponent controlls get -1/-1 until the end of the turn",
+    "text": "≪サポーター≫\n〔Pリンク【スリザリン】〕〔宣言〕〔自分のメインフェイズ〕⤵\n相手キャラ2枚までを、ターン終了時まで、-1/-1する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -349,7 +349,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -358,7 +358,7 @@
   {
     "id": 94,
     "cardNumber": "01-008",
-    "cardName": "Albus Dumbledore",
+    "cardName": "アルバス・ダンブルドア",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -371,21 +371,21 @@
     "mp": null,
     "ap": 7,
     "dp": 7,
-    "text": "(P-Link「Albus Dumbledore」)(Always)(Once per Turn) Whenever you play a Magic Card, Draw 1 Card",
+    "text": "〔Pリンク「アルバス・ダンブルドア」〕〔常時〕〔ターン1回〕\n自分がMagicカードをプレイした場合、カードを1枚引く。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -397,14 +397,14 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 58,
-        "question": "01-008「Albus Dumbledore」の「(Always)(Once per Turn)\n自分がMagicCardをプレイした場合、Cardを1枚引く。」を、Your Turnに1回発動した場合、次のOpponent's Turnでも1回発動することはできますか。",
-        "answer": "可能です。(Always)(Once per Turn)は、お互いのプレイヤーのターンで、ターン中に1回だけ発動します。",
+        "question": "01-008「アルバス・ダンブルドア」の「〔常時〕〔ターン1回〕\n自分がMagicカードをプレイした場合、カードを1枚引く。」を、自分のターンに1回発動した場合、次の相手のターンでも1回発動することはできますか。",
+        "answer": "可能です。〔常時〕〔ターン1回〕は、お互いのプレイヤーのターンで、ターン中に1回だけ発動します。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -413,7 +413,7 @@
   {
     "id": 96,
     "cardNumber": "01-009",
-    "cardName": "Minerva McGonagall",
+    "cardName": "ミネルバ・マクゴナガル",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -426,25 +426,25 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Trigger)(Enter) Down up to one character an opponent controls with AP 4 or less",
+    "text": "〔自動〕〔エントリー〕\n相手メインフィールドにいる、元々のAPが4以下のキャラ1枚までを、ダウンさせる。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 13,
-        "value": "Witch"
+        "value": "魔女"
       }
     ],
     "specialIcons": [
@@ -456,7 +456,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -465,7 +465,7 @@
   {
     "id": 98,
     "cardNumber": "01-010",
-    "cardName": "Severus Snape",
+    "cardName": "セブルス・スネイプ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -478,25 +478,25 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Trigger)(Enter)(Attack) Send up to one character your opponent controls from the Support Zone to the Discard Pile",
+    "text": "〔自動〕〔エントリー〕〔アタック〕\n相手サポートフィールドにいる、コスト2以下のキャラ1枚までを、捨て札にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -508,7 +508,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -517,7 +517,7 @@
   {
     "id": 100,
     "cardNumber": "01-011",
-    "cardName": "Severus Snape",
+    "cardName": "セブルス・スネイプ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -530,25 +530,25 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Slytherine])(Trigger)(Enter) Give up to one non-Syltherine character an opponent controls -3/-3 until End of Turn",
+    "text": "〔Pリンク【スリザリン】〕〔自動〕〔エントリー〕\n【スリザリン】以外の、相手キャラ1枚までを、ターン終了時まで、-3/-3する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -560,7 +560,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -569,7 +569,7 @@
   {
     "id": 101,
     "cardNumber": "01-012",
-    "cardName": "Harry Potter",
+    "cardName": "ハリー・ポッター",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -582,30 +582,30 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Trigger)(Attack)(Once per Turn) You may Rest one Muggle Card in the Main Zone, Ready this Character",
+    "text": "〔自動〕〔アタック〕〔ターン1回〕\nメインフィールドにいる、味方の【マグル】カード1枚を休息状態にし、このカードを活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 15,
-        "value": "Dursleys"
+        "value": "ダーズリー家"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 59,
-        "question": "01-012「Harry Potter」の「メインフィールドにいる、味方の[Muggle]Card1枚を休息状態にし、このCardを活動状態にする。」は、このターンにメインフィールドに出た味方[Muggle]Cardも休息にできますか。",
+        "question": "01-012「ハリー・ポッター」の「メインフィールドにいる、味方の【マグル】カード1枚を休息状態にし、このカードを活動状態にする。」は、このターンにメインフィールドに出た味方【マグル】カードも休息にできますか。",
         "answer": "可能です。",
         "updatedAt": "2026-04-24"
       }
@@ -615,7 +615,7 @@
   {
     "id": 102,
     "cardNumber": "01-013",
-    "cardName": "Harry Potter",
+    "cardName": "ハリー・ポッター",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -628,21 +628,21 @@
     "mp": 1,
     "ap": 5,
     "dp": 6,
-    "text": "(Trigger)(Your End Phase) Ready up to 2 Allied Gryffindor Characters",
+    "text": "〔自動〕〔自分のターン終了時〕\nコスト4以下の味方の【グリフィンドール】カード2枚までを活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -654,7 +654,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -663,7 +663,7 @@
   {
     "id": 103,
     "cardNumber": "01-014",
-    "cardName": "Ron Weasley",
+    "cardName": "ロン・ウィーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -676,21 +676,21 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Give up to 2 allied characters +1/+1 until End of Turn",
+    "text": "〔Pリンク【グリフィンドール】〕〔自動〕〔エントリー〕\n味方キャラ2枚までを、ターン終了時まで、+1/+1する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -702,7 +702,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -711,7 +711,7 @@
   {
     "id": 104,
     "cardNumber": "01-015",
-    "cardName": "Ron Weasley",
+    "cardName": "ロン・ウィーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -724,21 +724,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Teamwork)：[Gryffindor]",
+    "text": "〔連携〕：【グリフィンドール】",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -750,7 +750,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -759,7 +759,7 @@
   {
     "id": 105,
     "cardNumber": "01-016",
-    "cardName": "Hermione Granger",
+    "cardName": "ハーマイオニー・グレンジャー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -772,21 +772,21 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Draw 1 Card \n\n ≪Break≫Draw 2 Cards then discard 1 Card",
+    "text": "〔Pリンク【グリフィンドール】〕〔自動〕〔エントリー〕\nカードを1枚引く。\n\n≪ブレイク≫カードを2枚引き、手札1枚を捨て札にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 13,
-        "value": "Witch"
+        "value": "魔女"
       }
     ],
     "specialIcons": [
@@ -798,7 +798,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -807,7 +807,7 @@
   {
     "id": 106,
     "cardNumber": "01-017",
-    "cardName": "Hermione Granger",
+    "cardName": "ハーマイオニー・グレンジャー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -820,21 +820,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Down up to one character an opponent controls with Original AP 2 or less.",
+    "text": "〔Pリンク【グリフィンドール】〕〔自動〕〔エントリー〕\n相手メインフィールドにいる、元々のAPが2以下のキャラ1枚までを、ダウンさせる。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 13,
-        "value": "Witch"
+        "value": "魔女"
       }
     ],
     "specialIcons": [
@@ -846,7 +846,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -855,7 +855,7 @@
   {
     "id": 107,
     "cardNumber": "01-018",
-    "cardName": "Neville Longbottom",
+    "cardName": "ネビル・ロングボトム",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -868,21 +868,21 @@
     "mp": 1,
     "ap": 3,
     "dp": 4,
-    "text": "(P-Link[Gryffindor])(Trigger)(Down) Ready up to one allied character.",
+    "text": "〔Pリンク【グリフィンドール】〕〔自動〕〔ダウン〕\n味方キャラ1枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -894,7 +894,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -903,7 +903,7 @@
   {
     "id": 108,
     "cardNumber": "01-019",
-    "cardName": "Draco Malfoy",
+    "cardName": "ドラコ・マルフォイ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -916,21 +916,21 @@
     "mp": 1,
     "ap": 5,
     "dp": 4,
-    "text": "(Trigger)(Enter) Send up to one character an opponent controls from the Support Zone to the Discard Pile.",
+    "text": "〔自動〕〔エントリー〕\nサポートフィールドにいる、相手キャラ1枚までを、捨て札にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -942,7 +942,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -951,7 +951,7 @@
   {
     "id": 109,
     "cardNumber": "01-020",
-    "cardName": "Draco Malfoy",
+    "cardName": "ドラコ・マルフォイ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -964,21 +964,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Slytherine])(Always)(Your Turn) When this character Duels, give both characters in the Duel get -2/-2 until End of Turn. \n\n  ≪Break≫Rest up to one character an opponent controls.",
+    "text": "〔Pリンク【スリザリン】〕〔常時〕〔自分のターン〕\nこのカードと決闘中の相手キャラを、-2/-2する。\n\n≪ブレイク≫相手キャラ1枚までを、休息状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -990,14 +990,14 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 60,
-        "question": "01-020「Draco Malfoy」の「このCardとDuelの相手キャラを、-2/-2する。」は、Duelの相手キャラと、このCard自身の2枚を-2/-2する効果ですか。",
-        "answer": "いいえ。このCardの決闘相手である相手キャラのみを-2/-2する効果です。",
+        "question": "01-020「ドラコ・マルフォイ」の「このカードと決闘中の相手キャラを、-2/-2する。」は、決闘中の相手キャラと、このカード自身の2枚を-2/-2する効果ですか。",
+        "answer": "いいえ。このカードの決闘相手である相手キャラのみを-2/-2する効果です。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -1006,7 +1006,7 @@
   {
     "id": 110,
     "cardNumber": "01-021",
-    "cardName": "Vincent Crabbe",
+    "cardName": "ビンセント・クラッブ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1019,21 +1019,21 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(P-Link[Slytherine])(Trigger)(Enter) Draw 1 Card. \n\n  ≪Break≫ Draw 2 Cards then discard 1 Card.",
+    "text": "〔Pリンク【スリザリン】〕〔自動〕〔エントリー〕\nカードを1枚引く。\n\n≪ブレイク≫カードを2枚引き、手札1枚を捨て札にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -1045,7 +1045,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -1054,7 +1054,7 @@
   {
     "id": 111,
     "cardNumber": "01-022",
-    "cardName": "Gregory Goyle",
+    "cardName": "グレゴリー・ゴイル",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1067,21 +1067,21 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "(P-Link[Slytherine])(Trigger)(Down) Give up to one character an opponent controls -2/-2 until End of Turn. \r\r  ≪Break≫ Give up to one character an opponent controls -2/-2 until End of Turn ",
+    "text": "〔Pリンク【スリザリン】〕〔自動〕〔ダウン〕\n相手キャラ1枚までを、ターン終了時まで、-2/-2する。\n\n≪ブレイク≫相手キャラ1枚までを、ターン終了時まで、-2/-2する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -1093,14 +1093,14 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 61,
-        "question": "Your Turn中、相手の01-022「Gregory Goyle」がDownし、「相手キャラ1枚までを、ターン終了時まで、-2/-2する。」によって、S01-002「Harry Potter」が-2/-2され、DPが0になったことで休息状態になりました。このターンの終了時、「(Trigger)(Your End Phase)味方キャラ1枚までを活動状態にする。」で、-2/-2されたS01-002「Harry Potter」を活動状態にする場合、どうなりますか。",
-        "answer": "まず、手番のプレイヤー（自分）から、ターン終了時の処理を行います。S01-002「Harry Potter」が一度活動状態になりますが、DPが0なので再度休息状態になります。次に手番ではないプレイヤー（相手）の01-022「Gregory Goyle」の「相手キャラ1枚までを、ターン終了時まで、-2/-2する。」の効果の継続が終了します。",
+        "question": "自分のターン中、相手の01-022「グレゴリー・ゴイル」がダウンし、「相手キャラ1枚までを、ターン終了時まで、-2/-2する。」によって、S01-002「ハリー・ポッター」が-2/-2され、DPが0になったことで休息状態になりました。このターンの終了時、「〔自動〕〔自分のターン終了時〕味方キャラ1枚までを活動状態にする。」で、-2/-2されたS01-002「ハリー・ポッター」を活動状態にする場合、どうなりますか。",
+        "answer": "まず、手番のプレイヤー（自分）から、ターン終了時の処理を行います。S01-002「ハリー・ポッター」が一度活動状態になりますが、DPが0なので再度休息状態になります。次に手番ではないプレイヤー（相手）の01-022「グレゴリー・ゴイル」の「相手キャラ1枚までを、ターン終了時まで、-2/-2する。」の効果の継続が終了します。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -1109,7 +1109,7 @@
   {
     "id": 112,
     "cardNumber": "01-023",
-    "cardName": "Albus Dumbledore",
+    "cardName": "アルバス・ダンブルドア",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1122,21 +1122,21 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link「Albus Dumbledore」)(Trigger)(Your End Phase) Ready this card \n\n≪Break≫ Ready up to one character you control",
+    "text": "〔Pリンク「アルバス・ダンブルドア」〕〔自動〕〔自分のターン終了時〕\nこのカードを活動状態にする。\n\n≪ブレイク≫味方キャラ1枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -1148,7 +1148,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -1157,7 +1157,7 @@
   {
     "id": 113,
     "cardNumber": "01-024",
-    "cardName": "Minerva McGonagall",
+    "cardName": "ミネルバ・マクゴナガル",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1170,25 +1170,25 @@
     "mp": 1,
     "ap": 4,
     "dp": 7,
-    "text": "(Trigger)(Block) Gain (Counterattack) \n\n  ≪Break≫ Give up to one character you control (Counterattack) until end of turn",
+    "text": "〔自動〕〔ブロック〕\n〔反撃〕を得る。\n\n≪ブレイク≫味方キャラ1枚は、ターン終了時まで、〔反撃〕を得る。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 13,
-        "value": "Witch"
+        "value": "魔女"
       }
     ],
     "specialIcons": [
@@ -1200,13 +1200,13 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 62,
-        "question": "休息状態の01-024「Minerva McGonagall」が攻撃された場合、Counterattackは発動しますか。",
+        "question": "休息状態の01-024「ミネルバ・マクゴナガル」が攻撃された場合、反撃は発動しますか。",
         "answer": "発動しません。",
         "updatedAt": "2026-04-24"
       }
@@ -1216,7 +1216,7 @@
   {
     "id": 114,
     "cardNumber": "01-025",
-    "cardName": "Minerva McGonagall",
+    "cardName": "ミネルバ・マクゴナガル",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1229,25 +1229,25 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(P-Link「Albus Dumbledore」)(Trigger)(Enter)Draw 1 Card. \n\n≪Break≫ Draw 2 Cards then discard 1 Card.",
+    "text": "〔Pリンク「アルバス・ダンブルドア」〕〔自動〕〔エントリー〕\nカードを1枚引く。\n\n≪ブレイク≫カードを2枚引き、手札1枚を捨て札にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 13,
-        "value": "Witch"
+        "value": "魔女"
       }
     ],
     "specialIcons": [
@@ -1259,7 +1259,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -1268,7 +1268,7 @@
   {
     "id": 115,
     "cardNumber": "01-026",
-    "cardName": "Severus Snape",
+    "cardName": "セブルス・スネイプ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1281,25 +1281,25 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Trigger)(Enter) Down up to one character controlled by an opponent with cost 2 or less",
+    "text": "〔自動〕〔エントリー〕\nコスト2以下の相手キャラ1枚までを、ダウンさせる。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -1311,7 +1311,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -1320,7 +1320,7 @@
   {
     "id": 116,
     "cardNumber": "01-027",
-    "cardName": "Quirinus Quirrell",
+    "cardName": "クィリナス・クィレル",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1333,21 +1333,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Trigger)(Enter) Rest up to one Card in an Opponent's Mana Zone \n\n  ≪Break≫ Rest up to one Card in an Opponent's Mana Zone",
+    "text": "〔自動〕〔エントリー〕\n相手のMPフィールドのカード1枚を休息状態にする。\n\n≪ブレイク≫相手のMPフィールドのカード1枚を休息状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -1359,14 +1359,14 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 63,
-        "question": "01-027「Quirinus Quirrell」の「相手のMPフィールドのCard1枚を休息状態にする。」でMPCardを対象にすることはできますか。",
-        "answer": "できません。MPCardは、MPフィールドにあるCardとして扱いません。",
+        "question": "01-027「クィリナス・クィレル」の「相手のMPフィールドのカード1枚を休息状態にする。」でMPカードを対象にすることはできますか。",
+        "answer": "できません。MPカードは、MPフィールドにあるカードとして扱いません。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -1375,7 +1375,7 @@
   {
     "id": 117,
     "cardNumber": "01-028",
-    "cardName": "Mrs. Norris",
+    "cardName": "ミセス・ノリス",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1388,24 +1388,24 @@
     "mp": 1,
     "ap": 0,
     "dp": 2,
-    "text": "(Trigger)(Enter) Rest up to one character controlled by an opponent with cost 2 or less\n\n≪Break≫ Rest up to one character controlled by an opponent ",
+    "text": "〔自動〕〔エントリー〕\nコスト2以下の相手キャラ1枚までを、休息状態にする。\n\n≪ブレイク≫相手キャラ1枚までを、休息状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 17,
-        "value": "Magical Creature"
+        "value": "魔法生物"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -1414,7 +1414,7 @@
   {
     "id": 119,
     "cardNumber": "01-029",
-    "cardName": "Vernon Dursley",
+    "cardName": "バーノン・ダーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1427,24 +1427,24 @@
     "mp": null,
     "ap": 3,
     "dp": 3,
-    "text": "(P-Link[Dursleys])(Trigger)(Enter) Rest up to one [Wizard] or [Witch] Card controlled by an opponent",
+    "text": "〔Pリンク【ダーズリー家】〕〔自動〕〔エントリー〕\n相手【魔法使い】または【魔女】のカード1枚までを、休息状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 15,
-        "value": "Dursleys"
+        "value": "ダーズリー家"
       },
       {
         "id": 18,
-        "value": "Muggle"
+        "value": "マグル"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -1453,7 +1453,7 @@
   {
     "id": 120,
     "cardNumber": "01-030",
-    "cardName": "Petunia Dursley",
+    "cardName": "ペチュニア・ダーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1466,24 +1466,24 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(P-Link[Dursleys])(Always) Magic Cards in all player's hands costs are increased by 1 \n\n  ≪Break≫ Rest up to one [Wizard] or [Witch] Card an opponent controls",
+    "text": "〔Pリンク【ダーズリー家】〕〔常時〕\n全てのプレイヤーの手札にあるMagicカードは、コスト+1を得る。\n\n≪ブレイク≫相手【魔法使い】または【魔女】のカード1枚までを休息状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 15,
-        "value": "Dursleys"
+        "value": "ダーズリー家"
       },
       {
         "id": 18,
-        "value": "Muggle"
+        "value": "マグル"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -1492,7 +1492,7 @@
   {
     "id": 121,
     "cardNumber": "01-031",
-    "cardName": "Dudley Dursley",
+    "cardName": "ダドリー・ダーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1505,24 +1505,24 @@
     "mp": 1,
     "ap": 1,
     "dp": 1,
-    "text": "(P-Link[Dursleys])(Trigger)(Enter) Give up to one [Wizard] or [Witch] Character controlled by an opponent -2/-2 until End of Turn \n\n  ≪Break≫ Give up to one [Wizard]or [Witch] Character controlled by an opponent -2/-2 until End of Turn ",
+    "text": "〔Pリンク【ダーズリー家】〕〔自動〕〔エントリー〕\n相手【魔法使い】または【魔女】のカード1枚までを、ターン終了時まで-2/-2する。\n\n≪ブレイク≫相手【魔法使い】または【魔女】のカード1枚までを、ターン終了時まで-2/-2する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 15,
-        "value": "Dursleys"
+        "value": "ダーズリー家"
       },
       {
         "id": 18,
-        "value": "Muggle"
+        "value": "マグル"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -1531,7 +1531,7 @@
   {
     "id": 122,
     "cardNumber": "01-032",
-    "cardName": "Wingardium Leviosa",
+    "cardName": "ウィンガーディアム・レヴィオーサ",
     "cardType": {
       "id": 10,
       "value": "Magic"
@@ -1544,7 +1544,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Duel) Give up to one Character controlled by an opponent -3/-3 for this Duel \n\n≪Break≫ Rest up to one Character controlled by an opponent until End of Turn",
+    "text": "〔使用〕〔決闘中〕\n決闘中の相手キャラ1枚までを、この決闘中、-3/-3する。\n\n≪ブレイク≫相手キャラ1枚までを、休息状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -1552,14 +1552,14 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 36,
-        "question": "(Duel)は、どのタイミングでUseできますか。",
-        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにAttackする」の項目の、「4：(Duel)のUseタイミング①」「7：(Duel)のUseタイミング②」でUseできます。",
+        "question": "〔決闘中〕は、どのタイミングで使用できますか。",
+        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにアタックする」の項目の、「4：〔決闘中〕の使用タイミング①」「7：〔決闘中〕の使用タイミング②」で使用できます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -1568,7 +1568,7 @@
   {
     "id": 124,
     "cardNumber": "01-033",
-    "cardName": "Admission Letter",
+    "cardName": "入学許可証",
     "cardType": {
       "id": 11,
       "value": "Item"
@@ -1581,26 +1581,26 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Your Main Phase)\nLook at the top 2 cards of your Deck, You may reveal one [Wizard] or [Witch] from among them and add it to your hand, then place the other cards on the bottom of your deck in any order \n\n≪Break≫ Draw 1 card",
+    "text": "〔使用〕〔自分のメインフェイズ〕\nデッキの上から2枚を見て、その中から【魔法使い】または【魔女】のカード1枚までを公開し、手札に移す。その後、残りのカードを任意の順番でデッキの下に移す。\n\n≪ブレイク≫カードを1枚引く。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 19,
-        "value": "Letter"
+        "value": "手紙"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 78,
-        "question": "01-033「Admission Letter」の「デッキの上から2枚を見て、その中から[Wizard]または[Witch]のCard1枚までを公開し、手札に移す。」によって、手札にCardを移さなかった場合、「その後、残りのCardを任意の順番でデッキの下に移す。」は発動しますか。",
+        "question": "01-033「入学許可証」の「デッキの上から2枚を見て、その中から【魔法使い】または【魔女】のカード1枚までを公開し、手札に移す。」によって、手札にカードを移さなかった場合、「その後、残りのカードを任意の順番でデッキの下に移す。」は発動しますか。",
         "answer": "発動します。",
         "updatedAt": "2026-04-24"
       }
@@ -1610,7 +1610,7 @@
   {
     "id": 126,
     "cardNumber": "01-034",
-    "cardName": "Hogwarts Express",
+    "cardName": "ホグワーツ特急",
     "cardType": {
       "id": 11,
       "value": "Item"
@@ -1623,7 +1623,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Your Main Phase) Move up to one [Hogwarts] Character from your Support Zone to your Main Zone\n\n≪Break≫ You may use this card without paying it's Cost",
+    "text": "〔使用〕〔自分のメインフェイズ〕\nサポートフィールドにいる、味方の【ホグワーツ】カード1枚までを、メインフィールドに移す。\n\n≪ブレイク≫このカードを、無償で使用できる。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -1631,14 +1631,14 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 57,
-        "question": "01-003「Harry Potter」の「サポートフィールドにいる、コスト4以下の味方キャラ1枚までを、メインフィールドに移す。」によって、メインフィールドに移ったキャラは、Attackできますか。",
-        "answer": "そのターン中にプレイされたキャラでなければ、すぐにAttackすることができます。",
+        "question": "01-003「ハリー・ポッター」の「サポートフィールドにいる、コスト4以下の味方キャラ1枚までを、メインフィールドに移す。」によって、メインフィールドに移ったキャラは、アタックできますか。",
+        "answer": "そのターン中にプレイされたキャラでなければ、すぐにアタックすることができます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -1647,7 +1647,7 @@
   {
     "id": 128,
     "cardNumber": "01-035",
-    "cardName": "Common Room",
+    "cardName": "談話室",
     "cardType": {
       "id": 9,
       "value": "Location"
@@ -1660,7 +1660,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Trigger)(Your End Phase) Ready up to 1 Character with the same House as your Partner \n\n  Houses are: [Gryffindor][Slytherine][Ravenclaw][Hufflepuff]",
+    "text": "〔自動〕〔自分のターン終了時〕\n自分のパートナーと同じ寮のキャラ1枚までを活動状態にする。\n\n※寮とは【グリフィンドール】【スリザリン】【レイブンクロー】【ハッフルパフ】を示す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -1668,7 +1668,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -1677,7 +1677,7 @@
   {
     "id": 129,
     "cardNumber": "01-036",
-    "cardName": "Cupboard Under the Stairs",
+    "cardName": "階段下の物置部屋",
     "cardType": {
       "id": 9,
       "value": "Location"
@@ -1690,7 +1690,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Always) If you control a [Muggle] character in the Main Zone, All allied 「Harry Potter」 have +0/+2",
+    "text": "〔常時〕\nメインフィールドに味方の【マグル】カードがいる場合、味方「ハリー・ポッター」全てを、±0/+2をする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -1698,7 +1698,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -1707,7 +1707,7 @@
   {
     "id": 130,
     "cardNumber": "01-037",
-    "cardName": "Harry Potter",
+    "cardName": "ハリー・ポッター",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1720,21 +1720,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Gryffindor])(Trigger)(Attack) Give up to one allied Character +2/+2 until End of Turn \n\n  ≪Break≫ Read up to one Allied Character",
+    "text": "〔Pリンク【グリフィンドール】〕〔自動〕〔アタック〕\n味方キャラ1枚までを、ターン終了時まで、+2/+2する。\n\n≪ブレイク≫味方キャラ1枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -1746,7 +1746,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -1755,7 +1755,7 @@
   {
     "id": 131,
     "cardNumber": "01-038",
-    "cardName": "Ron Weasley",
+    "cardName": "ロン・ウィーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1768,21 +1768,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Gryffindor])(Trigger)(Attack) Give up to one allied character (Charge) until End of Turn\n\n≪Break≫ Ready up to one Allied Character",
+    "text": "〔Pリンク【グリフィンドール】〕〔自動〕〔アタック〕\n味方キャラ1枚までは、ターン終了時まで、〔突進〕を得る。\n\n≪ブレイク≫味方キャラ1枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -1794,7 +1794,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -1803,7 +1803,7 @@
   {
     "id": 132,
     "cardNumber": "01-039",
-    "cardName": "Hermione Granger",
+    "cardName": "ハーマイオニー・グレンジャー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1816,21 +1816,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Gryffindor])(Trigger)(Attack) The next Magic Card you play has it's cost reduced by 2 \n\n≪Break≫ Ready up to 1 allied character",
+    "text": "〔Pリンク【グリフィンドール】〕〔自動〕〔アタック〕\n自分が次にプレイするMagicカード1枚を、コスト-2する。\n\n≪ブレイク≫味方キャラ1枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 13,
-        "value": "Witch"
+        "value": "魔女"
       }
     ],
     "specialIcons": [
@@ -1842,13 +1842,13 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 47,
-        "question": "Pt006「Albus Dumbledore」の「自分が次にプレイする[Professor]のCard1枚は、コスト-1を得る。」をUseした後、そのターンに[Professor]のCardをプレイしなかった場合どうなりますか。",
+        "question": "Pt006「アルバス・ダンブルドア」の「自分が次にプレイする【教師】のカード1枚は、コスト-1を得る。」を使用した後、そのターンに【教師】のカードをプレイしなかった場合どうなりますか。",
         "answer": "効果はそのターン中に消えます。以降のターンに効果は引き継がれません。",
         "updatedAt": "2026-04-24"
       }
@@ -1858,7 +1858,7 @@
   {
     "id": 133,
     "cardNumber": "01-040",
-    "cardName": "Percy Weasley",
+    "cardName": "パーシー・ウィーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1871,21 +1871,21 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "≪Break≫ Ready up to one allied character and return this card to your hand.",
+    "text": "≪ブレイク≫味方キャラ1枚までを、活動状態にし、このカードを手札に移す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -1897,7 +1897,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -1906,7 +1906,7 @@
   {
     "id": 134,
     "cardNumber": "01-041",
-    "cardName": "Fred Weasley",
+    "cardName": "フレッド・ウィーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1919,21 +1919,21 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(Always)If you control a 「George Weasley」 character on your main field while this card is in your hand, the cost to play this card is reduced by 2 \n\n≪Break≫ If you control a 「George Weasley」 in your Main Zone, move this Character to your Main Zone",
+    "text": "〔常時〕\nこのカードが手札にある状態で、自分のメインフィールドに「ジョージ・ウィーズリー」のカードがいる場合、このカードをコスト-2する。\n\n≪ブレイク≫自分のメインフィールドに「ジョージ・ウィーズリー」のカードがいる場合、このカードをメインフィールドに出す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -1945,14 +1945,14 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 64,
-        "question": "「George Weasley」のCardがメインフィールドにいる場合、メインフィールドにいる01-041「Fred Weasley」のCardのコストはいくつですか。",
-        "answer": "4です。手札以外で「(Always)このCardが手札にある状態で、自分のメインフィールドに「Fred Weasley」のCardがいる場合、このCardをコスト-2する。」は発動しません。",
+        "question": "「ジョージ・ウィーズリー」のカードがメインフィールドにいる場合、メインフィールドにいる01-041「フレッド・ウィーズリー」のカードのコストはいくつですか。",
+        "answer": "4です。手札以外で「〔常時〕このカードが手札にある状態で、自分のメインフィールドに「フレッド・ウィーズリー」のカードがいる場合、このカードをコスト-2する。」は発動しません。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -1961,7 +1961,7 @@
   {
     "id": 135,
     "cardNumber": "01-042",
-    "cardName": "George Weasley",
+    "cardName": "ジョージ・ウィーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -1974,21 +1974,21 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(Always) If you control a 「Fred Weasley」character on your main field while this card is in your hand, the cost to play this card is reduced by 2 \n\n≪Break≫ If you control a 「Fred Weasley」 in your Main Zone, move this Character to your Main Zone",
+    "text": "〔常時〕\nこのカードが手札にある状態で、自分のメインフィールドに「フレッド・ウィーズリー」のカードがいる場合、このカードをコスト-2する。\n\n≪ブレイク≫自分のメインフィールドに「フレッド・ウィーズリー」のカードがいる場合、このカードをメインフィールドに出す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -2000,14 +2000,14 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 64,
-        "question": "「George Weasley」のCardがメインフィールドにいる場合、メインフィールドにいる01-041「Fred Weasley」のCardのコストはいくつですか。",
-        "answer": "4です。手札以外で「(Always)このCardが手札にある状態で、自分のメインフィールドに「Fred Weasley」のCardがいる場合、このCardをコスト-2する。」は発動しません。",
+        "question": "「ジョージ・ウィーズリー」のカードがメインフィールドにいる場合、メインフィールドにいる01-041「フレッド・ウィーズリー」のカードのコストはいくつですか。",
+        "answer": "4です。手札以外で「〔常時〕このカードが手札にある状態で、自分のメインフィールドに「フレッド・ウィーズリー」のカードがいる場合、このカードをコスト-2する。」は発動しません。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -2016,7 +2016,7 @@
   {
     "id": 136,
     "cardNumber": "01-043",
-    "cardName": "Draco Malfoy",
+    "cardName": "ドラコ・マルフォイ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2029,21 +2029,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Slytherine])(Trigger)(Attack) Choose up to one character an opponent controls; its cost is reduced by 2 until End of Turn",
+    "text": "〔Pリンク【スリザリン】〕〔自動〕〔アタック〕\n相手キャラ1枚までを、ターン終了時まで、コスト-2する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -2055,7 +2055,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -2064,7 +2064,7 @@
   {
     "id": 137,
     "cardNumber": "01-044",
-    "cardName": "Draco Malfoy",
+    "cardName": "ドラコ・マルフォイ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2077,21 +2077,21 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(Taunt)\n\n ≪Break≫ Rest up to one Character an opponent controls",
+    "text": "〔挑発〕\n\n≪ブレイク≫相手キャラ1枚までを、休息状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -2103,7 +2103,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -2112,7 +2112,7 @@
   {
     "id": 138,
     "cardNumber": "01-045",
-    "cardName": "Susan Bones",
+    "cardName": "スーザン・ボーンズ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2125,21 +2125,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "≪Break≫ Move up to 1 allied character in the Support Zone to the Main Zone, and return this card to your hand",
+    "text": "≪ブレイク≫サポートフィールドにいる味方キャラ1枚までを、メインフィールドに移し、このカードを手札に移す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 20,
-        "value": "Hufflepuff"
+        "value": "ハッフルパフ"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 13,
-        "value": "Witch"
+        "value": "魔女"
       }
     ],
     "specialIcons": [
@@ -2151,14 +2151,14 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 51,
-        "question": "「≪Break≫このCardを、サポートフィールドに出す。」のBreakをUseした場合、そのCardはサポートフィールドから捨て札に行きますか。",
-        "answer": "いいえ、Break効果の処理によって、ライフ以外の場所に移動したCardは、捨て札には行きません。",
+        "question": "「≪ブレイク≫このカードを、サポートフィールドに出す。」のブレイクを使用した場合、そのカードはサポートフィールドから捨て札に行きますか。",
+        "answer": "いいえ、ブレイク効果の処理によって、ライフ以外の場所に移動したカードは、捨て札には行きません。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -2167,7 +2167,7 @@
   {
     "id": 139,
     "cardNumber": "01-046",
-    "cardName": "Albus Dumbledore",
+    "cardName": "アルバス・ダンブルドア",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2180,21 +2180,21 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Always) Whenever a Magic Card is played, this character gets +2/+2 until the end of the turn",
+    "text": "〔常時〕\nMagicカードがプレイされた場合、このカードを、ターン終了時まで、+2/+2する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -2206,7 +2206,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -2215,7 +2215,7 @@
   {
     "id": 140,
     "cardNumber": "01-047",
-    "cardName": "Albus Dumbledore",
+    "cardName": "アルバス・ダンブルドア",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2228,21 +2228,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Always)(Your Turn) All [Professor] characters you control have +1/+1",
+    "text": "〔常時〕〔自分のターン〕\n味方の【教師】カード全てを、+1/+1する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -2254,13 +2254,13 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 65,
-        "question": "01-047「Albus Dumbledore」の「味方の[Professor]Card全てを、+1/+1する。」は、01-047「Albus Dumbledore」自身も対象になりますか。",
+        "question": "01-047「アルバス・ダンブルドア」の「味方の【教師】カード全てを、+1/+1する。」は、01-047「アルバス・ダンブルドア」自身も対象になりますか。",
         "answer": "対象になります。",
         "updatedAt": "2026-04-24"
       }
@@ -2270,7 +2270,7 @@
   {
     "id": 141,
     "cardNumber": "01-048",
-    "cardName": "Minerva McGonagall",
+    "cardName": "ミネルバ・マクゴナガル",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2283,25 +2283,25 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Trigger)(Enter) Place one card from your hand into the Mana Zone",
+    "text": "〔自動〕〔エントリー〕\n手札1枚までをMPフィールドに置く。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 13,
-        "value": "Witch"
+        "value": "魔女"
       }
     ],
     "specialIcons": [
@@ -2313,13 +2313,13 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 66,
-        "question": "01-048「Minerva McGonagall」の「手札1枚までをMPフィールドに置く。」によって、MPフィールドに置くCardは活動状態で置かれますか。",
+        "question": "01-048「ミネルバ・マクゴナガル」の「手札1枚までをMPフィールドに置く。」によって、MPフィールドに置くカードは活動状態で置かれますか。",
         "answer": "活動状態で置かれます。休息状態と指定がされていないものは、すべて活動状態で置かれます。",
         "updatedAt": "2026-04-24"
       }
@@ -2329,7 +2329,7 @@
   {
     "id": 142,
     "cardNumber": "01-049",
-    "cardName": "Severus Snape",
+    "cardName": "セブルス・スネイプ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2342,25 +2342,25 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(P-Link[Slytherine])(Trigger)(Enter) Your opponent may return up to one Rested characters you control to your hand.",
+    "text": "〔Pリンク【スリザリン】〕〔自動〕〔エントリー〕\n相手は、休息状態の自分のキャラ1枚を、手札に移す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -2372,25 +2372,25 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 67,
-        "question": "01-049「Severus Snape」の「相手は、休息状態の自分のキャラ1枚を、手札に移す。」は、どのプレイヤーがどのキャラを手札に戻しますか。",
+        "question": "01-049「セブルス・スネイプ」の「相手は、休息状態の自分のキャラ1枚を、手札に移す。」は、どのプレイヤーがどのキャラを手札に戻しますか。",
         "answer": "相手プレイヤーが、相手プレイヤーの決闘場にある休息状態のキャラを1枚選び、手札に戻します。その際、相手はサポートフィールドのキャラを選ぶことも可能です。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 68,
-        "question": "01-049「Severus Snape」をプレイした場合、相手の決闘場に休息状態のキャラがいない場合どうなりますか。",
+        "question": "01-049「セブルス・スネイプ」をプレイした場合、相手の決闘場に休息状態のキャラがいない場合どうなりますか。",
         "answer": "何も起こりません。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 69,
-        "question": "01-049「Severus Snape」をプレイして、相手がS01-012「Wand」を装備したキャラを手札に戻す場合、S01-012「Wand」はどうなりますか。",
+        "question": "01-049「セブルス・スネイプ」をプレイして、相手がS01-012「杖」を装備したキャラを手札に戻す場合、S01-012「杖」はどうなりますか。",
         "answer": "捨て札に移ります。",
         "updatedAt": "2026-04-24"
       }
@@ -2400,7 +2400,7 @@
   {
     "id": 143,
     "cardNumber": "01-050",
-    "cardName": "Rolanda Hooch",
+    "cardName": "ロランダ・フーチ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2413,21 +2413,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "≪Supporter≫ \n(P-Link「Albus Dumbledore」)(Declare)(Duel)(Rest) GIve up to one [Professor] character you control +1/+1 until End of Turn",
+    "text": "≪サポーター≫\n〔Pリンク「アルバス・ダンブルドア」〕〔宣言〕〔決闘中〕⤵\n味方の【教師】カード1枚までを、ターン終了時まで+1/+1する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 13,
-        "value": "Witch"
+        "value": "魔女"
       }
     ],
     "specialIcons": [
@@ -2439,19 +2439,19 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 36,
-        "question": "(Duel)は、どのタイミングでUseできますか。",
-        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにAttackする」の項目の、「4：(Duel)のUseタイミング①」「7：(Duel)のUseタイミング②」でUseできます。",
+        "question": "〔決闘中〕は、どのタイミングで使用できますか。",
+        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにアタックする」の項目の、「4：〔決闘中〕の使用タイミング①」「7：〔決闘中〕の使用タイミング②」で使用できます。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 70,
-        "question": "01-050\t「ロランダ・フーチ」の「(P-Link「Albus Dumbledore」)(Declare)(Duel)⤵　味方の[Professor]Card1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度(Declare)(Duel)⤵を発動することはできますか。",
+        "question": "01-050\t「ロランダ・フーチ」の「〔Pリンク「アルバス・ダンブルドア」〕〔宣言〕〔決闘中〕⤵　味方の【教師】カード1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度〔宣言〕〔決闘中〕⤵を発動することはできますか。",
         "answer": "可能です。",
         "updatedAt": "2026-04-24"
       }
@@ -2461,7 +2461,7 @@
   {
     "id": 144,
     "cardNumber": "01-051",
-    "cardName": "Filius Flitwick",
+    "cardName": "フィリウス・フリットウィック",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2474,25 +2474,25 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "(P-Link「Albus Dumbledore」)(Trigger)(Your End Phase) Ready up to one Allied Character\n\n≪Break≫Ready up to 1 allied [Professor] Character.",
+    "text": "〔Pリンク「アルバス・ダンブルドア」〕〔自動〕〔自分のターン終了時〕\n味方キャラ1枚までを、活動状態にする。\n\n≪ブレイク≫味方の【教師】カード1枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 21,
-        "value": "Ravenclaw"
+        "value": "レイブンクロー"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -2504,7 +2504,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -2513,7 +2513,7 @@
   {
     "id": 145,
     "cardNumber": "01-052",
-    "cardName": "Quirinus Quirrell",
+    "cardName": "クィリナス・クィレル",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2526,21 +2526,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "≪Break≫ Rest up to one character an opponent controls, and return this card to your hand.",
+    "text": "≪ブレイク≫相手キャラ1枚までを、休息状態にし、このカードを手札に移す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -2552,14 +2552,14 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 51,
-        "question": "「≪Break≫このCardを、サポートフィールドに出す。」のBreakをUseした場合、そのCardはサポートフィールドから捨て札に行きますか。",
-        "answer": "いいえ、Break効果の処理によって、ライフ以外の場所に移動したCardは、捨て札には行きません。",
+        "question": "「≪ブレイク≫このカードを、サポートフィールドに出す。」のブレイクを使用した場合、そのカードはサポートフィールドから捨て札に行きますか。",
+        "answer": "いいえ、ブレイク効果の処理によって、ライフ以外の場所に移動したカードは、捨て札には行きません。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -2568,7 +2568,7 @@
   {
     "id": 146,
     "cardNumber": "01-053",
-    "cardName": "Rubeus Hagrid",
+    "cardName": "ルビウス・ハグリッド",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2581,17 +2581,17 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Always)This character cannot attack Partners",
+    "text": "〔常時〕\nこのカードは、パートナーにアタックできない。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -2603,20 +2603,20 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 71,
-        "question": "01-053「Rubeus Hagrid」は、相手のキャラがすべて活動状態の場合、相手のキャラにAttackできますか。",
+        "question": "01-053「ルビウス・ハグリッド」は、相手のキャラがすべて活動状態の場合、相手のキャラにアタックできますか。",
         "answer": "できません。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 72,
-        "question": "01-053「Rubeus Hagrid」は、パートナーをAttackできるCardと2枚でAttackを行う場合、パートナーにAttackすることはできますか。",
-        "answer": "できません。Card2枚でのAttackは、AttackのDeclareを行う際に、同じ対象をAttackできるキャラ2枚を休息状態にすることで行えます。",
+        "question": "01-053「ルビウス・ハグリッド」は、パートナーをアタックできるカードと2枚でアタックを行う場合、パートナーにアタックすることはできますか。",
+        "answer": "できません。カード2枚でのアタックは、アタックの宣言を行う際に、同じ対象をアタックできるキャラ2枚を休息状態にすることで行えます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -2625,7 +2625,7 @@
   {
     "id": 147,
     "cardNumber": "01-054",
-    "cardName": "Argus Filch",
+    "cardName": "アーガス・フィルチ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2638,26 +2638,26 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Always)While this Character is in play, you cannot play Magic Cards",
+    "text": "〔常時〕\nこのカードの決闘中、自分はMagicカードをプレイできない。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 73,
-        "question": "01-054「Argus Filch」が相手キャラからAttackされ、そのAttackを他の味方キャラでBlockしました。このDuel、自分はMagicCardをプレイすることはできますか。",
+        "question": "01-054「アーガス・フィルチ」が相手キャラからアタックされ、そのアタックを他の味方キャラでブロックしました。この決闘中、自分はMagicカードをプレイすることはできますか。",
         "answer": "可能です。",
         "updatedAt": "2026-04-24"
       }
@@ -2667,7 +2667,7 @@
   {
     "id": 148,
     "cardNumber": "01-055",
-    "cardName": "Nearly Headless Nick",
+    "cardName": "ほとんど首無しニック",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2680,35 +2680,35 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate up to one[Gryffindor]Character you control \n\n≪Break≫ Activate one allied character",
+    "text": "≪サポーター≫\n〔宣言〕〔相手のターン〕〔決闘中〕〈このカードを捨て札にする〉\n味方の【グリフィンドール】カード1枚までを、活動状態にする。\n\n≪ブレイク≫味方キャラ1枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 22,
-        "value": "Ghost"
+        "value": "ゴースト"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 36,
-        "question": "(Duel)は、どのタイミングでUseできますか。",
-        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにAttackする」の項目の、「4：(Duel)のUseタイミング①」「7：(Duel)のUseタイミング②」でUseできます。",
+        "question": "〔決闘中〕は、どのタイミングで使用できますか。",
+        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにアタックする」の項目の、「4：〔決闘中〕の使用タイミング①」「7：〔決闘中〕の使用タイミング②」で使用できます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -2717,7 +2717,7 @@
   {
     "id": 149,
     "cardNumber": "01-056",
-    "cardName": "The Blood Baron",
+    "cardName": "血みどろ男爵",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2730,35 +2730,35 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate up to one[Slytherine]character you control \n\n≪Break≫ Activate up to one allied character",
+    "text": "≪サポーター≫\n〔宣言〕〔相手のターン〕〔決闘中〕〈このカードを捨て札にする〉\n味方の【スリザリン】カード1枚までを、活動状態にする。\n\n≪ブレイク≫味方キャラ1枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 22,
-        "value": "Ghost"
+        "value": "ゴースト"
       },
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 36,
-        "question": "(Duel)は、どのタイミングでUseできますか。",
-        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにAttackする」の項目の、「4：(Duel)のUseタイミング①」「7：(Duel)のUseタイミング②」でUseできます。",
+        "question": "〔決闘中〕は、どのタイミングで使用できますか。",
+        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにアタックする」の項目の、「4：〔決闘中〕の使用タイミング①」「7：〔決闘中〕の使用タイミング②」で使用できます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -2767,7 +2767,7 @@
   {
     "id": 150,
     "cardNumber": "01-057",
-    "cardName": "The Gray Lady",
+    "cardName": "灰色のレディ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2780,35 +2780,35 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Ready up to one[Ravenclaw]character you control \n\n≪Break≫ Activate up to one allied Character",
+    "text": "≪サポーター≫\n〔宣言〕〔相手のターン〕〔決闘中〕〈このカードを捨て札にする〉\n味方の【レイブンクロー】カード1枚までを、活動状態にする。\n\n≪ブレイク≫味方キャラ1枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 22,
-        "value": "Ghost"
+        "value": "ゴースト"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 21,
-        "value": "Ravenclaw"
+        "value": "レイブンクロー"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 36,
-        "question": "(Duel)は、どのタイミングでUseできますか。",
-        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにAttackする」の項目の、「4：(Duel)のUseタイミング①」「7：(Duel)のUseタイミング②」でUseできます。",
+        "question": "〔決闘中〕は、どのタイミングで使用できますか。",
+        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにアタックする」の項目の、「4：〔決闘中〕の使用タイミング①」「7：〔決闘中〕の使用タイミング②」で使用できます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -2817,7 +2817,7 @@
   {
     "id": 151,
     "cardNumber": "01-058",
-    "cardName": "The Fat Frier",
+    "cardName": "太った修道士",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2830,35 +2830,35 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate up to one[Hufflepuff]character you control \n\n≪Break≫ Activate up to one allied character",
+    "text": "≪サポーター≫\n〔宣言〕〔相手のターン〕〔決闘中〕〈このカードを捨て札にする〉\n味方の【ハッフルパフ】カード1枚までを、活動状態にする。\n\n≪ブレイク≫味方キャラ1枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 22,
-        "value": "Ghost"
+        "value": "ゴースト"
       },
       {
         "id": 20,
-        "value": "Hufflepuff"
+        "value": "ハッフルパフ"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 36,
-        "question": "(Duel)は、どのタイミングでUseできますか。",
-        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにAttackする」の項目の、「4：(Duel)のUseタイミング①」「7：(Duel)のUseタイミング②」でUseできます。",
+        "question": "〔決闘中〕は、どのタイミングで使用できますか。",
+        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにアタックする」の項目の、「4：〔決闘中〕の使用タイミング①」「7：〔決闘中〕の使用タイミング②」で使用できます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -2867,7 +2867,7 @@
   {
     "id": 152,
     "cardNumber": "01-059",
-    "cardName": "The Fat Lady",
+    "cardName": "太った婦人",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2880,31 +2880,31 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate one card in your Mana Zone",
+    "text": "≪サポーター≫\n〔宣言〕〔相手のターン〕〔決闘中〕〈このカードを捨て札にする〉\n自分のMPフィールドのカード1枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 23,
-        "value": "Portrait"
+        "value": "肖像画"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 36,
-        "question": "(Duel)は、どのタイミングでUseできますか。",
-        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにAttackする」の項目の、「4：(Duel)のUseタイミング①」「7：(Duel)のUseタイミング②」でUseできます。",
+        "question": "〔決闘中〕は、どのタイミングで使用できますか。",
+        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにアタックする」の項目の、「4：〔決闘中〕の使用タイミング①」「7：〔決闘中〕の使用タイミング②」で使用できます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -2913,7 +2913,7 @@
   {
     "id": 153,
     "cardNumber": "01-060",
-    "cardName": "Harry Potter",
+    "cardName": "ハリー・ポッター",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2926,24 +2926,24 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link[Dursleys])(Always)This Card's cost is reduce by 1 for each[Muggle]Character in your Support Zone",
+    "text": "〔Pリンク【ダーズリー家】〕〔常時〕\n手札にある場合、サポートフィールドにいる味方の【マグル】カード1枚につき、コスト-1を得る。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 15,
-        "value": "Dursleys"
+        "value": "ダーズリー家"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -2952,7 +2952,7 @@
   {
     "id": 154,
     "cardNumber": "01-061",
-    "cardName": "Harry Potter",
+    "cardName": "ハリー・ポッター",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -2965,42 +2965,42 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Always)This card enters rested \n\n(Trigger)(Enter)You may return a[Muggle]Character from the Main Zone to your hand, if you did, Ready this character",
+    "text": "〔常時〕\nこのカードは休息状態でフィールドに出る。\n\n〔自動〕〔エントリー〕\nメインフィールドにいる味方の【マグル】カード1枚を手札に移し、このカードを活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 15,
-        "value": "Dursleys"
+        "value": "ダーズリー家"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 74,
-        "question": "01-061「Harry Potter」の「(Trigger)(Enter)　メインフィールドにいる味方の[Muggle]Card1枚を手札に移し、このCardを活動状態にする。」は、メインフィールドに味方の[Muggle]Cardがある場合、必ず手札に戻す必要はありますか。",
-        "answer": "メインフィールドに味方の[Muggle]Cardがある場合、必ず手札に戻す必要があります。また、メインフィールドに味方の[Muggle]Cardがない場合、「このCardを活動状態にする。」は発動しません。",
+        "question": "01-061「ハリー・ポッター」の「〔自動〕〔エントリー〕　メインフィールドにいる味方の【マグル】カード1枚を手札に移し、このカードを活動状態にする。」は、メインフィールドに味方の【マグル】カードがある場合、必ず手札に戻す必要はありますか。",
+        "answer": "メインフィールドに味方の【マグル】カードがある場合、必ず手札に戻す必要があります。また、メインフィールドに味方の【マグル】カードがない場合、「このカードを活動状態にする。」は発動しません。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 75,
-        "question": "メインフィールドに味方の[Muggle]Cardが無い場合、01-061「Harry Potter」の「このCardを活動状態にする。」は、発動しますか。",
+        "question": "メインフィールドに味方の【マグル】カードが無い場合、01-061「ハリー・ポッター」の「このカードを活動状態にする。」は、発動しますか。",
         "answer": "発動しません。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 76,
-        "question": "01-061「Harry Potter」をサポートフィールドにプレイした場合、(Always)や(Trigger)(Enter)は発動しますか。",
+        "question": "01-061「ハリー・ポッター」をサポートフィールドにプレイした場合、〔常時〕や〔自動〕〔エントリー〕は発動しますか。",
         "answer": "発動しません。",
         "updatedAt": "2026-04-24"
       }
@@ -3010,7 +3010,7 @@
   {
     "id": 155,
     "cardNumber": "01-062",
-    "cardName": "Harry Potter",
+    "cardName": "ハリー・ポッター",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -3023,24 +3023,24 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(P-Link[Dursleys])(Always)(Once per Turn)Whenever an allied[Muggle]character is downed, draw 1 Card",
+    "text": "〔Pリンク【ダーズリー家】〕〔常時〕〔ターン1回〕\n味方の【マグル】カードがダウンした場合、カードを1枚引く。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 15,
-        "value": "Dursleys"
+        "value": "ダーズリー家"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -3049,7 +3049,7 @@
   {
     "id": 156,
     "cardNumber": "01-063",
-    "cardName": "Vernon Dursley",
+    "cardName": "バーノン・ダーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -3062,24 +3062,24 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "(Trigger)(Attack)Move up to one[Muggle]Character from your hand to the Main Zone",
+    "text": "〔自動〕〔アタック〕\n手札からコスト2以下の【マグル】カード1枚までを、メインフィールドに出す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 15,
-        "value": "Dursleys"
+        "value": "ダーズリー家"
       },
       {
         "id": 18,
-        "value": "Muggle"
+        "value": "マグル"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -3088,7 +3088,7 @@
   {
     "id": 157,
     "cardNumber": "01-064",
-    "cardName": "Vernon Dursley",
+    "cardName": "バーノン・ダーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -3101,30 +3101,30 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "(Trigger)(Enter)Discard one[Letter]Card then your opponent discards one Card",
+    "text": "〔自動〕〔エントリー〕\n手札から【手紙】カード1枚を捨て札にする。その後、相手は手札1枚を捨て札にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 15,
-        "value": "Dursleys"
+        "value": "ダーズリー家"
       },
       {
         "id": 18,
-        "value": "Muggle"
+        "value": "マグル"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 77,
-        "question": "01-064「Vernon Dursley」をプレイし、手札から[Letter]Card1枚を捨て札にできない場合、「その後、相手は手札1枚を捨て札にする。」は発動しますか。",
+        "question": "01-064「バーノン・ダーズリー」をプレイし、手札から【手紙】カード1枚を捨て札にできない場合、「その後、相手は手札1枚を捨て札にする。」は発動しますか。",
         "answer": "発動しません。",
         "updatedAt": "2026-04-24"
       }
@@ -3134,7 +3134,7 @@
   {
     "id": 158,
     "cardNumber": "01-065",
-    "cardName": "Petunia Dursley",
+    "cardName": "ペチュニア・ダーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -3147,31 +3147,31 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(Trigger)(Enter)Reveak the top card of your opponent's deck, if a Magic Card is revealed, your opponent discards 1 card \n\n≪Break≫Your Opponent discards 1 card",
+    "text": "〔自動〕〔エントリー〕\n相手のデッキの上から1枚を表向きにする。Magicカードが表になった場合、相手は、手札1枚を捨て札にする。\n\n≪ブレイク≫相手は、手札1枚を捨て札にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 15,
-        "value": "Dursleys"
+        "value": "ダーズリー家"
       },
       {
         "id": 18,
-        "value": "Muggle"
+        "value": "マグル"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 79,
-        "question": "01-065「Petunia Dursley」で表向きにしたCardは、表向きのままですか、裏向きに戻しますか。",
-        "answer": "表向きのままゲームを進行しますが、デッキにある表向きのCardは、デッキをシャッフルする効果・デッキを見る効果・デッキから公開される効果の対象に含まれ、山札の上や下などに戻る際は、裏向きにしてデッキに戻します。",
+        "question": "01-065「ペチュニア・ダーズリー」で表向きにしたカードは、表向きのままですか、裏向きに戻しますか。",
+        "answer": "表向きのままゲームを進行しますが、デッキにある表向きのカードは、デッキをシャッフルする効果・デッキを見る効果・デッキから公開される効果の対象に含まれ、山札の上や下などに戻る際は、裏向きにしてデッキに戻します。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -3180,7 +3180,7 @@
   {
     "id": 159,
     "cardNumber": "01-066",
-    "cardName": "Petunia Dursley",
+    "cardName": "ペチュニア・ダーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -3193,24 +3193,24 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(Trigger)(Block)Ready up to one allied[Muggle]character",
+    "text": "〔自動〕〔ブロック〕\n他の味方の【マグル】カード1枚を活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 15,
-        "value": "Dursleys"
+        "value": "ダーズリー家"
       },
       {
         "id": 18,
-        "value": "Muggle"
+        "value": "マグル"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -3219,7 +3219,7 @@
   {
     "id": 160,
     "cardNumber": "01-067",
-    "cardName": "Dudley Dursley",
+    "cardName": "ダドリー・ダーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -3232,24 +3232,24 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(Always)(Your Turn)Give「Harry Potter」Characters controlled by an Opponent and this Card +3/+0",
+    "text": "〔常時〕〔自分のターン〕\n相手の「ハリー・ポッター」のカードと決闘中、このカードを、+3/±0する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 15,
-        "value": "Dursleys"
+        "value": "ダーズリー家"
       },
       {
         "id": 18,
-        "value": "Muggle"
+        "value": "マグル"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -3258,7 +3258,7 @@
   {
     "id": 161,
     "cardNumber": "01-068",
-    "cardName": "Dudley Dursley",
+    "cardName": "ダドリー・ダーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -3271,31 +3271,31 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "(Trigger)(Start of Your Turn)(Your End Phase)If there is a「Harry Potter」character in the Main Zone, Down that character",
+    "text": "〔自動〕〔自分のターン開始時〕〔自分のターン終了時〕\nメインフィールドに「ハリー・ポッター」のカードがいる場合、ダウンする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 15,
-        "value": "Dursleys"
+        "value": "ダーズリー家"
       },
       {
         "id": 18,
-        "value": "Muggle"
+        "value": "マグル"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 80,
-        "question": "01-068「Dudley Dursley」は、相手のメインフィールドに「Harry Potter」のCardがいる場合でもDownしますか。",
-        "answer": "はい、Downします。",
+        "question": "01-068「ダドリー・ダーズリー」は、相手のメインフィールドに「ハリー・ポッター」のカードがいる場合でもダウンしますか。",
+        "answer": "はい、ダウンします。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -3304,7 +3304,7 @@
   {
     "id": 162,
     "cardNumber": "01-069",
-    "cardName": "Griphook",
+    "cardName": "グリップフック",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -3317,17 +3317,17 @@
     "mp": 1,
     "ap": 1,
     "dp": 1,
-    "text": "(Trigger)(Enter)(Down)Draw 1 card then Discard 1 card",
+    "text": "〔自動〕〔エントリー〕〔ダウン〕\nカードを1枚引き、手札1枚を捨て札にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 24,
-        "value": "Goblin"
+        "value": "小鬼"
       },
       {
         "id": 17,
-        "value": "Magical Creature"
+        "value": "魔法生物"
       }
     ],
     "specialIcons": [
@@ -3339,7 +3339,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -3348,7 +3348,7 @@
   {
     "id": 163,
     "cardNumber": "01-070",
-    "cardName": "Garrick Ollivander",
+    "cardName": "ギャリック・オリバンダー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -3361,13 +3361,13 @@
     "mp": 1,
     "ap": 0,
     "dp": 3,
-    "text": "(Trigger)(Enter)Move up to one「Wand」card from your Discard Pile to your Hand",
+    "text": "〔自動〕〔エントリー〕\n自分の捨て札にある、名称に「杖」を含むカード1枚までを、手札に移す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -3379,7 +3379,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -3388,7 +3388,7 @@
   {
     "id": 164,
     "cardNumber": "01-071",
-    "cardName": "Troll",
+    "cardName": "トロール",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -3401,24 +3401,24 @@
     "mp": 1,
     "ap": 6,
     "dp": 2,
-    "text": "",
+    "text": null,
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 25,
-        "value": "Troll"
+        "value": "トロール"
       },
       {
         "id": 17,
-        "value": "Magical Creature"
+        "value": "魔法生物"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -3427,7 +3427,7 @@
   {
     "id": 165,
     "cardNumber": "01-072",
-    "cardName": "Hedwig",
+    "cardName": "ヘドウィグ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -3440,20 +3440,20 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪Supporter≫(Always)Reduce the cost of[Letter]Cards you play by 1 \n\n≪Break≫ Move up to one[Letter]Card from your Discard Pile to your Hand",
+    "text": "≪サポーター≫〔常時〕\n自分が使用する【手紙】カードは、コスト-1を得る。\n\n≪ブレイク≫自分の捨て札にある【手紙】カード1枚までを手札に移す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 17,
-        "value": "Magical Creature"
+        "value": "魔法生物"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -3462,7 +3462,7 @@
   {
     "id": 166,
     "cardNumber": "01-073",
-    "cardName": "Fluffy",
+    "cardName": "フラッフィー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -3475,27 +3475,27 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "(Always)If this card is added to your hand by a Magic Card, you may reveal this card; if you do, Place it in the Main Zone \n\n≪Break≫ Rest up to one Character controlled by an Opponent",
+    "text": "〔常時〕\nこのカードが、Magicカードの効果でデッキから手札に移る場合、相手に見せてもよい。そうした場合、このカードを、メインフィールドに出す。\n\n≪ブレイク≫相手キャラ1枚までを、休息状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 17,
-        "value": "Magical Creature"
+        "value": "魔法生物"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 81,
         "question": "01-073「フラッフィー」が、01-076「アロホモラ」の効果で、デッキから手札に移る場合の処理はどうなりますか。",
-        "answer": "まず、01-076「アロホモラ」の効果でCardを2枚引き、この2枚を他の手札と混ぜる前に、その中にある01-073「フラッフィー」を任意の枚数相手に見せて、メインフィールドに出します。その後、01-076「アロホモラ」の「手札1枚を捨て札にする。」を処理します。",
+        "answer": "まず、01-076「アロホモラ」の効果でカードを2枚引き、この2枚を他の手札と混ぜる前に、その中にある01-073「フラッフィー」を任意の枚数相手に見せて、メインフィールドに出します。その後、01-076「アロホモラ」の「手札1枚を捨て札にする。」を処理します。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -3504,7 +3504,7 @@
   {
     "id": 167,
     "cardNumber": "01-074",
-    "cardName": "Wingardium Leviosa",
+    "cardName": "ウィンガード・レビオーサ",
     "cardType": {
       "id": 10,
       "value": "Magic"
@@ -3517,7 +3517,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Duel)(During Your Turn)All characters in the Duel get +0/-5 until the End of your opponent's next Turn",
+    "text": "〔使用〕〔決闘中〕〔自分のターン中〕\n決闘中の全てのキャラを、次の相手のターン終了時まで、±0/-5する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3525,25 +3525,25 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 36,
-        "question": "(Duel)は、どのタイミングでUseできますか。",
-        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにAttackする」の項目の、「4：(Duel)のUseタイミング①」「7：(Duel)のUseタイミング②」でUseできます。",
+        "question": "〔決闘中〕は、どのタイミングで使用できますか。",
+        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにアタックする」の項目の、「4：〔決闘中〕の使用タイミング①」「7：〔決闘中〕の使用タイミング②」で使用できます。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 82,
-        "question": "味方キャラ2枚でのAttackを行ったDuelに、自分が01-074「ウィンガード・レビオーサ」をプレイした場合、Duelの味方キャラ2枚は両方とも±0/-5されますか。",
-        "answer": "はい、Duelの味方キャラ2枚の両方が±0/-5されます。",
+        "question": "味方キャラ2枚でのアタックを行った決闘中に、自分が01-074「ウィンガード・レビオーサ」をプレイした場合、決闘中の味方キャラ2枚は両方とも±0/-5されますか。",
+        "answer": "はい、決闘中の味方キャラ2枚の両方が±0/-5されます。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 83,
-        "question": "01-074「ウィンガード・レビオーサ」をプレイした後にBlockDeclareを行ったキャラは、±0/-5されますか。",
+        "question": "01-074「ウィンガード・レビオーサ」をプレイした後にブロック宣言を行ったキャラは、±0/-5されますか。",
         "answer": "いいえ、±0/-5されません。",
         "updatedAt": "2026-04-24"
       }
@@ -3553,7 +3553,7 @@
   {
     "id": 168,
     "cardNumber": "01-075",
-    "cardName": "Sunshine, Daisies, Butter Mellow",
+    "cardName": "お陽さま　ヒナ菊　とろけたバター",
     "cardType": {
       "id": 10,
       "value": "Magic"
@@ -3566,7 +3566,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Your Main Phase)Change up to 0[Rat]Charactes Yellow \n\n≪Break≫ You can use this card for Free",
+    "text": "〔使用〕〔自分のメインフェイズ〕\n【ねずみ】のカード0枚までを黄色にする。\n\n≪ブレイク≫このカードを、無償で使用できる。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3574,7 +3574,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -3583,7 +3583,7 @@
   {
     "id": 169,
     "cardNumber": "01-076",
-    "cardName": "Alohomora",
+    "cardName": "アロホモラ",
     "cardType": {
       "id": 10,
       "value": "Magic"
@@ -3596,7 +3596,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Your Main Phase) \n\n≪Break≫ you may use this card for Free",
+    "text": "〔使用〕〔自分のメインフェイズ〕\nカードを2枚引き、手札1枚を捨て札にする。\n\n≪ブレイク≫このカードを、無償で使用できる。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3604,14 +3604,14 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 81,
         "question": "01-073「フラッフィー」が、01-076「アロホモラ」の効果で、デッキから手札に移る場合の処理はどうなりますか。",
-        "answer": "まず、01-076「アロホモラ」の効果でCardを2枚引き、この2枚を他の手札と混ぜる前に、その中にある01-073「フラッフィー」を任意の枚数相手に見せて、メインフィールドに出します。その後、01-076「アロホモラ」の「手札1枚を捨て札にする。」を処理します。",
+        "answer": "まず、01-076「アロホモラ」の効果でカードを2枚引き、この2枚を他の手札と混ぜる前に、その中にある01-073「フラッフィー」を任意の枚数相手に見せて、メインフィールドに出します。その後、01-076「アロホモラ」の「手札1枚を捨て札にする。」を処理します。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -3620,7 +3620,7 @@
   {
     "id": 170,
     "cardNumber": "01-077",
-    "cardName": "Remembrall",
+    "cardName": "思い出し玉",
     "cardType": {
       "id": 11,
       "value": "Item"
@@ -3633,7 +3633,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Trigger)(Enter)Place the bottom card of your deck under this Card(Trigger)(Your End Phase)Move the card under this card to your hand, then Discard this Card。",
+    "text": "〔自動〕〔エントリー〕\n自分のデッキの下から1枚を、このカードの下に裏向きで重ねる。\n\n〔自動〕〔自分のターン終了時〕\nこのカードの下に重ねられているカード1枚を手札に移し、このカードを捨て札にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3641,13 +3641,13 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 84,
-        "question": "01-077「思い出し玉」で、裏向きで重ねたCardの内容を確認することはできますか。",
+        "question": "01-077「思い出し玉」で、裏向きで重ねたカードの内容を確認することはできますか。",
         "answer": "できません。",
         "updatedAt": "2026-04-24"
       }
@@ -3657,7 +3657,7 @@
   {
     "id": 171,
     "cardNumber": "01-078",
-    "cardName": "Headmaster's Card",
+    "cardName": "校長先生のカード",
     "cardType": {
       "id": 11,
       "value": "Item"
@@ -3670,7 +3670,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Trigger)(Enter)Place one 「Albus Dumbledore」Character from your hand to the Main Zone, at the beginning of your next turn, return that card to your hand",
+    "text": "〔自動〕〔エントリー〕\nこのカードを捨て札にし、自分の手札から「アルバス・ダンブルドア」のカード1枚を、メインフィールドに出す。次の自分のターン開始時にそのカードを手札に戻す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3678,14 +3678,14 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 85,
-        "question": "01-078「校長先生のCard」でメインフィールドに出した「Albus Dumbledore」が、次のYour Turn開始時にサポートフィールドにいる場合、手札に戻りますか。",
-        "answer": "決闘場にいる限り、手札に戻ります。ただし、出したCardが一度でも決闘場から離れていた場合、手札に戻る効果は発動しません。",
+        "question": "01-078「校長先生のカード」でメインフィールドに出した「アルバス・ダンブルドア」が、次の自分のターン開始時にサポートフィールドにいる場合、手札に戻りますか。",
+        "answer": "決闘場にいる限り、手札に戻ります。ただし、出したカードが一度でも決闘場から離れていた場合、手札に戻る効果は発動しません。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -3694,7 +3694,7 @@
   {
     "id": 172,
     "cardNumber": "01-079",
-    "cardName": "Moving Stairs",
+    "cardName": "動く階段",
     "cardType": {
       "id": 9,
       "value": "Location"
@@ -3707,7 +3707,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Declare)(Duel)⑤〈Discard one Card from your Hand〉Change the target of your Opponent's attack to a character you control of your choice",
+    "text": "〔宣言〕〔決闘中〕⑤〈手札1枚を捨て札にする〉\n相手のアタック対象を、味方キャラ1枚に変更する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3715,19 +3715,19 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 36,
-        "question": "(Duel)は、どのタイミングでUseできますか。",
-        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにAttackする」の項目の、「4：(Duel)のUseタイミング①」「7：(Duel)のUseタイミング②」でUseできます。",
+        "question": "〔決闘中〕は、どのタイミングで使用できますか。",
+        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにアタックする」の項目の、「4：〔決闘中〕の使用タイミング①」「7：〔決闘中〕の使用タイミング②」で使用できます。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 86,
-        "question": "01-079「動く階段」で相手のAttack対象を、活動状態の味方キャラ1枚に変更することはできますか。",
+        "question": "01-079「動く階段」で相手のアタック対象を、活動状態の味方キャラ1枚に変更することはできますか。",
         "answer": "できません。",
         "updatedAt": "2026-04-24"
       }
@@ -3737,7 +3737,7 @@
   {
     "id": 173,
     "cardNumber": "01-080",
-    "cardName": "Platform 9 3/4",
+    "cardName": "9と3/4番線",
     "cardType": {
       "id": 9,
       "value": "Location"
@@ -3750,7 +3750,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Trigger)(Your End Phase)Discard one card, then move one[Hogwarts]card to the Main Zone",
+    "text": "〔自動〕〔自分のターン終了時〕\n手札1枚を捨て札にし、味方の【ホグワーツ】カード1枚までをメインフィールドに移す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3758,31 +3758,31 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 87,
-        "question": "01-080「9と3/4番線」の「(Trigger)(Your End Phase)　手札1枚を捨て札にし、味方の[ホグワーツ]Card1枚までをメインフィールドに移す。」は、どこからメインフィールドに移しますか。",
-        "answer": "サポートフィールドから、味方の[ホグワーツ]Card1枚までをメインフィールドに移します。",
+        "question": "01-080「9と3/4番線」の「〔自動〕〔自分のターン終了時〕　手札1枚を捨て札にし、味方の【ホグワーツ】カード1枚までをメインフィールドに移す。」は、どこからメインフィールドに移しますか。",
+        "answer": "サポートフィールドから、味方の【ホグワーツ】カード1枚までをメインフィールドに移します。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 88,
         "question": "01-080「9と3/4番線」は、ターン終了時に、手札を捨てず、メインフィールドに移さないことも選べますか。",
-        "answer": "選べません。(Trigger)(Your End Phase)は必ず発動しなければなりません。サポートフィールドに味方の[ホグワーツ]Card1枚がない場合でも、手札1枚を捨てる必要があります。",
+        "answer": "選べません。〔自動〕〔自分のターン終了時〕は必ず発動しなければなりません。サポートフィールドに味方の【ホグワーツ】カード1枚がない場合でも、手札1枚を捨てる必要があります。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 89,
-        "question": "01-080「9と3/4番線」の効果で、S01-002「Harry Potter」がサポートフィールドからメインフィールドに移った場合、そのターンに「(Trigger)(Your End Phase)味方キャラ1枚までを活動状態にする。」は発動しますか。",
-        "answer": "発動しません。ターンの終了時に処理が発生する効果を解決する時点で、効果が発動できない状態のCardは、その後効果が発動できる状態になったとしても、効果を発動することはできません。",
+        "question": "01-080「9と3/4番線」の効果で、S01-002「ハリー・ポッター」がサポートフィールドからメインフィールドに移った場合、そのターンに「〔自動〕〔自分のターン終了時〕味方キャラ1枚までを活動状態にする。」は発動しますか。",
+        "answer": "発動しません。ターンの終了時に処理が発生する効果を解決する時点で、効果が発動できない状態のカードは、その後効果が発動できる状態になったとしても、効果を発動することはできません。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 90,
-        "question": "自分の手札が無い場合、01-080「9と3/4番線」の「味方の[ホグワーツ]Card1枚までをメインフィールドに移す。」を発動できますか。",
+        "question": "自分の手札が無い場合、01-080「9と3/4番線」の「味方の【ホグワーツ】カード1枚までをメインフィールドに移す。」を発動できますか。",
         "answer": "できません。",
         "updatedAt": "2026-04-24"
       }
@@ -3792,7 +3792,7 @@
   {
     "id": 174,
     "cardNumber": "01-081",
-    "cardName": "Ollivander's Shop",
+    "cardName": "オリバンダーの店",
     "cardType": {
       "id": 9,
       "value": "Location"
@@ -3805,7 +3805,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Declare)(Your Main Phase)① (Rest) Look at the top 10 cards of your Deck, you may equip a 「Wand」card from among them to a Character you control, then shuffle the Deck",
+    "text": "〔宣言〕〔自分のメインフェイズ〕①⤵\nデッキの上から10枚を見て、その中から「杖」のカード1枚までを抜き出し、味方キャラ1枚に装備する。その後、デッキをシャッフルする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3813,20 +3813,20 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 78,
-        "question": "01-033「Admission Letter」の「デッキの上から2枚を見て、その中から[Wizard]または[Witch]のCard1枚までを公開し、手札に移す。」によって、手札にCardを移さなかった場合、「その後、残りのCardを任意の順番でデッキの下に移す。」は発動しますか。",
+        "question": "01-033「入学許可証」の「デッキの上から2枚を見て、その中から【魔法使い】または【魔女】のカード1枚までを公開し、手札に移す。」によって、手札にカードを移さなかった場合、「その後、残りのカードを任意の順番でデッキの下に移す。」は発動しますか。",
         "answer": "発動します。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 91,
-        "question": "01-081「オリバンダーの店」は、「Wand」を装備できる味方キャラがいない場合でも、「Wand」を抜き出すことはできますか。",
-        "answer": "できません。「Wand」を装備できる味方キャラがいない場合は、デッキの上から10枚の中に戻ります。",
+        "question": "01-081「オリバンダーの店」は、「杖」を装備できる味方キャラがいない場合でも、「杖」を抜き出すことはできますか。",
+        "answer": "できません。「杖」を装備できる味方キャラがいない場合は、デッキの上から10枚の中に戻ります。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -3835,7 +3835,7 @@
   {
     "id": 44,
     "cardNumber": "Pt003",
-    "cardName": "Harry Potter",
+    "cardName": "ハリー・ポッター",
     "cardType": {
       "id": 7,
       "value": "Partner"
@@ -3848,47 +3848,47 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this duel \n\n(Declare)(Your Main Phase)(Once Per Game)Activate up to one allied[Gryffindor]character",
+    "text": "〔アシスト〕①⤵ \n味方キャラ1枚までを、この決闘中、+1/±0する。\n\n〔宣言〕〔自分のメインフェイズ〕〔ゲーム中1回〕\n味方の【グリフィンドール】カード1枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 39,
-        "question": "Pt003「Harry Potter」の「味方の[Gryffindor]Card1枚までを、活動状態にする。」によって、このターン既にAttackしたキャラを活動状態にした場合、そのキャラクターはAttackすることは可能ですか。",
+        "question": "Pt003「ハリー・ポッター」の「味方の【グリフィンドール】カード1枚までを、活動状態にする。」によって、このターン既にアタックしたキャラを活動状態にした場合、そのキャラクターはアタックすることは可能ですか。",
         "answer": "可能です。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 40,
-        "question": "Pt003「Harry Potter」の「味方の[Gryffindor]Card1枚までを、活動状態にする。」によって、このターン既に(Trigger)(Attack)を発動したキャラを活動状態にして再度Attackを行う場合、(Trigger)(Attack)は発動しますか。",
-        "answer": "(Once per Turn)等の条件が無い限り、発動します。",
+        "question": "Pt003「ハリー・ポッター」の「味方の【グリフィンドール】カード1枚までを、活動状態にする。」によって、このターン既に〔自動〕〔アタック〕を発動したキャラを活動状態にして再度アタックを行う場合、〔自動〕〔アタック〕は発動しますか。",
+        "answer": "〔ターン1回〕等の条件が無い限り、発動します。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 41,
-        "question": "Pt003「Harry Potter」の「味方の[Gryffindor]Card1枚までを、活動状態にする。」によって、PartnerCardを活動状態にできますか。",
-        "answer": "できません。対象となる場所（MPフィールド、デッキなど）が指定されてない効果は、決闘場のCardのみを指定できます。",
+        "question": "Pt003「ハリー・ポッター」の「味方の【グリフィンドール】カード1枚までを、活動状態にする。」によって、Partnerカードを活動状態にできますか。",
+        "answer": "できません。対象となる場所（MPフィールド、デッキなど）が指定されてない効果は、決闘場のカードのみを指定できます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -3897,7 +3897,7 @@
   {
     "id": 46,
     "cardNumber": "Pt004",
-    "cardName": "Hermione Granger",
+    "cardName": "ハーマイオニー・グレンジャー",
     "cardType": {
       "id": 7,
       "value": "Partner"
@@ -3910,47 +3910,47 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this Duel\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)Move two Magic Cards from your discard pile to the bottom of your deck, and move up to one allied Character from your Support Zone to your Main Zone.",
+    "text": "〔アシスト〕①⤵ \r\n味方キャラ1枚までを、この決闘中、+1/±0する。\r\n\r\n〔宣言〕〔自分のメインフェイズ〕〔ゲーム中1回〕\r\n自分の捨て札からMagicカード2枚をデッキの下に移し、サポートフィールドにいる、味方キャラ1枚までを、メインフィールドに移す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 13,
-        "value": "Witch"
+        "value": "魔女"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 42,
-        "question": "Pt004「Hermione Granger」の「自分の捨て札からMagicCard2枚をデッキの下に移し、サポートフィールドにいる、味方キャラ1枚までを、メインフィールドに移す。」によって、デッキの下に移すCardの順番は選べますか。",
+        "question": "Pt004「ハーマイオニー・グレンジャー」の「自分の捨て札からMagicカード2枚をデッキの下に移し、サポートフィールドにいる、味方キャラ1枚までを、メインフィールドに移す。」によって、デッキの下に移すカードの順番は選べますか。",
         "answer": "選べます。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 43,
-        "question": "Pt004「Hermione Granger」の「自分の捨て札からMagicCard2枚をデッキの下に移し、サポートフィールドにいる、味方キャラ1枚までを、メインフィールドに移す。」をUseする際、サポートフィールドに味方キャラがいない場合でも効果をUseできますか。",
-        "answer": "Useできます。「自分の捨て札からMagicCard2枚をデッキの下に移し、」までを処理することは可能です。",
+        "question": "Pt004「ハーマイオニー・グレンジャー」の「自分の捨て札からMagicカード2枚をデッキの下に移し、サポートフィールドにいる、味方キャラ1枚までを、メインフィールドに移す。」を使用する際、サポートフィールドに味方キャラがいない場合でも効果を使用できますか。",
+        "answer": "使用できます。「自分の捨て札からMagicカード2枚をデッキの下に移し、」までを処理することは可能です。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 57,
-        "question": "01-003「Harry Potter」の「サポートフィールドにいる、コスト4以下の味方キャラ1枚までを、メインフィールドに移す。」によって、メインフィールドに移ったキャラは、Attackできますか。",
-        "answer": "そのターン中にプレイされたキャラでなければ、すぐにAttackすることができます。",
+        "question": "01-003「ハリー・ポッター」の「サポートフィールドにいる、コスト4以下の味方キャラ1枚までを、メインフィールドに移す。」によって、メインフィールドに移ったキャラは、アタックできますか。",
+        "answer": "そのターン中にプレイされたキャラでなければ、すぐにアタックすることができます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -3959,7 +3959,7 @@
   {
     "id": 48,
     "cardNumber": "Pt005",
-    "cardName": "Draco Malfoy",
+    "cardName": "ドラコ・マルフォイ",
     "cardType": {
       "id": 7,
       "value": "Partner"
@@ -3972,28 +3972,28 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 until end of turn \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)Reduce the cost of up to one Character controlled by an opponent by 3 until End of Turn",
+    "text": "〔アシスト〕①⤵ \r\n味方キャラ1枚までを、この決闘中、+1/±0する。\r\n\r\n〔宣言〕〔自分のメインフェイズ〕〔ゲーム中1回〕\r\n相手キャラ1枚までを、ターン終了時まで、コスト-3する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
@@ -4015,7 +4015,7 @@
   {
     "id": 50,
     "cardNumber": "Pt006",
-    "cardName": "Albus Dumbledore",
+    "cardName": "アルバス・ダンブルドア",
     "cardType": {
       "id": 7,
       "value": "Partner"
@@ -4028,40 +4028,40 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this Duel \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)The next[Professor]Card you play has it's cost reduced by 1",
+    "text": "〔アシスト〕①⤵ \r\n味方キャラ1枚までを、この決闘中、+1/±0する。\r\n\r\n〔宣言〕〔自分のメインフェイズ〕〔ゲーム中1回〕\r\n自分が次にプレイする【教師】のカード1枚は、コスト-1を得る。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [
       {
         "id": 46,
-        "question": "Pt006「Albus Dumbledore」の「自分が次にプレイする[Professor]のCard1枚は、コスト-1を得る。」をUseした後、コストが1の[Professor]のCardは0コストでプレイできますか。",
+        "question": "Pt006「アルバス・ダンブルドア」の「自分が次にプレイする【教師】のカード1枚は、コスト-1を得る。」を使用した後、コストが1の【教師】のカードは0コストでプレイできますか。",
         "answer": "可能です。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 47,
-        "question": "Pt006「Albus Dumbledore」の「自分が次にプレイする[Professor]のCard1枚は、コスト-1を得る。」をUseした後、そのターンに[Professor]のCardをプレイしなかった場合どうなりますか。",
+        "question": "Pt006「アルバス・ダンブルドア」の「自分が次にプレイする【教師】のカード1枚は、コスト-1を得る。」を使用した後、そのターンに【教師】のカードをプレイしなかった場合どうなりますか。",
         "answer": "効果はそのターン中に消えます。以降のターンに効果は引き継がれません。",
         "updatedAt": "2026-04-24"
       }
@@ -4071,7 +4071,7 @@
   {
     "id": 52,
     "cardNumber": "Pt007",
-    "cardName": "Harry Potter",
+    "cardName": "ハリー・ポッター",
     "cardType": {
       "id": 7,
       "value": "Partner"
@@ -4084,24 +4084,24 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this Duel \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)if you control 3[Muggle]Cards in your Main Zone, draw 2 cards",
+    "text": "〔アシスト〕①⤵ \r\n味方キャラ1枚までを、この決闘中、+1/±0する。\r\n\r\n〔宣言〕〔自分のメインフェイズ〕〔ゲーム中1回〕\r\n自分のメインフィールドに【マグル】のカードが3枚いる場合、カードを2枚引く。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 15,
-        "value": "Dursleys"
+        "value": "ダーズリー家"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -4110,7 +4110,7 @@
   {
     "id": 87,
     "cardNumber": "01-003a",
-    "cardName": "Harry Potter",
+    "cardName": "ハリー・ポッター",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -4123,21 +4123,21 @@
     "mp": null,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter)\r\nサポートフィールドにいる、コスト4以下の味方キャラ1枚までを、メインフィールドに移す。",
+    "text": "〔Pリンク【グリフィンドール】〕〔自動〕〔エントリー〕\r\nサポートフィールドにいる、コスト4以下の味方キャラ1枚までを、メインフィールドに移す。",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -4149,7 +4149,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -4158,7 +4158,7 @@
   {
     "id": 88,
     "cardNumber": "01-003b",
-    "cardName": "Harry Potter",
+    "cardName": "ハリー・ポッター",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -4171,21 +4171,21 @@
     "mp": null,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter)\r\nサポートフィールドにいる、コスト4以下の味方キャラ1枚までを、メインフィールドに移す。",
+    "text": "〔Pリンク【グリフィンドール】〕〔自動〕〔エントリー〕\r\nサポートフィールドにいる、コスト4以下の味方キャラ1枚までを、メインフィールドに移す。",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -4197,7 +4197,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -4206,7 +4206,7 @@
   {
     "id": 90,
     "cardNumber": "01-004a",
-    "cardName": "Ron Weasley＆Hermione Granger",
+    "cardName": "ロン・ウィーズリー＆ハーマイオニー・グレンジャー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -4219,25 +4219,25 @@
     "mp": null,
     "ap": 5,
     "dp": 5,
-    "text": "(P-Link[Gryffindor])(Always)\r\n(Haste)を得る。",
+    "text": "〔Pリンク【グリフィンドール】〕〔常時〕\r\n〔速攻〕を得る。",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 13,
-        "value": "Witch"
+        "value": "魔女"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -4249,7 +4249,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -4258,7 +4258,7 @@
   {
     "id": 95,
     "cardNumber": "01-008a",
-    "cardName": "Albus Dumbledore",
+    "cardName": "アルバス・ダンブルドア",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -4271,21 +4271,21 @@
     "mp": null,
     "ap": 7,
     "dp": 7,
-    "text": "(P-Link「Albus Dumbledore」)(Always)(Once per Turn)\r\n自分がMagicCardをプレイした場合、Cardを1枚引く。",
+    "text": "〔Pリンク「アルバス・ダンブルドア」〕〔常時〕〔ターン1回〕\r\n自分がMagicカードをプレイした場合、カードを1枚引く。",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -4297,7 +4297,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -4306,7 +4306,7 @@
   {
     "id": 97,
     "cardNumber": "01-009a",
-    "cardName": "Minerva McGonagall",
+    "cardName": "ミネルバ・マクゴナガル",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -4319,25 +4319,25 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Trigger)(Enter)\r\n相手メインフィールドにいる、元々のAPが4以下のキャラ1枚までを、Downさせる。",
+    "text": "〔自動〕〔エントリー〕\r\n相手メインフィールドにいる、元々のAPが4以下のキャラ1枚までを、ダウンさせる。",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 13,
-        "value": "Witch"
+        "value": "魔女"
       }
     ],
     "specialIcons": [
@@ -4349,7 +4349,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -4358,7 +4358,7 @@
   {
     "id": 99,
     "cardNumber": "01-010a",
-    "cardName": "Severus Snape",
+    "cardName": "セブルス・スネイプ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -4371,25 +4371,25 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Trigger)(Enter)(Attack)\r\n相手サポートフィールドにいる、コスト2以下のキャラ1枚までを、捨て札にする。",
+    "text": "〔自動〕〔エントリー〕〔アタック〕\r\n相手サポートフィールドにいる、コスト2以下のキャラ1枚までを、捨て札にする。",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -4401,7 +4401,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -4410,7 +4410,7 @@
   {
     "id": 118,
     "cardNumber": "01-028a",
-    "cardName": "Mrs. Norris",
+    "cardName": "ミセス・ノリス",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -4423,24 +4423,24 @@
     "mp": 1,
     "ap": 0,
     "dp": 2,
-    "text": "(Trigger)(Enter)\r\nコスト2以下の相手キャラ1枚までを、休息状態にする。\r\n\r\n≪Break≫相手キャラ1枚までを、休息状態にする。",
+    "text": "〔自動〕〔エントリー〕\r\nコスト2以下の相手キャラ1枚までを、休息状態にする。\r\n\r\n≪ブレイク≫相手キャラ1枚までを、休息状態にする。",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 17,
-        "value": "Magical Creature"
+        "value": "魔法生物"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -4449,7 +4449,7 @@
   {
     "id": 123,
     "cardNumber": "01-032a",
-    "cardName": "Wingardium Leviosa",
+    "cardName": "ウィンガーディアム・レヴィオーサ",
     "cardType": {
       "id": 10,
       "value": "Magic"
@@ -4462,7 +4462,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Duel)\r\nDuelの相手キャラ1枚までを、このDuel、-3/-3する。\r\n\r\n≪Break≫相手キャラ1枚までを、休息状態にする。",
+    "text": "〔使用〕〔決闘中〕\r\n決闘中の相手キャラ1枚までを、この決闘中、-3/-3する。\r\n\r\n≪ブレイク≫相手キャラ1枚までを、休息状態にする。",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [],
@@ -4470,7 +4470,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -4479,7 +4479,7 @@
   {
     "id": 125,
     "cardNumber": "01-033a",
-    "cardName": "Admission Letter",
+    "cardName": "入学許可証",
     "cardType": {
       "id": 11,
       "value": "Item"
@@ -4492,20 +4492,20 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Your Main Phase)\r\nデッキの上から2枚を見て、その中から[Wizard]または[Witch]のCard1枚までを公開し、手札に移す。その後、残りのCardを任意の順番でデッキの下に移す。\r\n\r\n≪Break≫Cardを1枚引く。",
+    "text": "〔使用〕〔自分のメインフェイズ〕\r\nデッキの上から2枚を見て、その中から【魔法使い】または【魔女】のカード1枚までを公開し、手札に移す。その後、残りのカードを任意の順番でデッキの下に移す。\r\n\r\n≪ブレイク≫カードを1枚引く。",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 19,
-        "value": "Letter"
+        "value": "手紙"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -4514,7 +4514,7 @@
   {
     "id": 127,
     "cardNumber": "01-034a",
-    "cardName": "Hogwarts Express",
+    "cardName": "ホグワーツ特急",
     "cardType": {
       "id": 11,
       "value": "Item"
@@ -4527,7 +4527,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Your Main Phase)\r\nサポートフィールドにいる、味方の[ホグワーツ]Card1枚までを、メインフィールドに移す。\r\n\r\n≪Break≫このCardを、無償でUseできる。",
+    "text": "〔使用〕〔自分のメインフェイズ〕\r\nサポートフィールドにいる、味方の【ホグワーツ】カード1枚までを、メインフィールドに移す。\r\n\r\n≪ブレイク≫このカードを、無償で使用できる。",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [],
@@ -4535,7 +4535,7 @@
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -4544,7 +4544,7 @@
   {
     "id": 45,
     "cardNumber": "Pt003a",
-    "cardName": "Harry Potter",
+    "cardName": "ハリー・ポッター",
     "cardType": {
       "id": 7,
       "value": "Partner"
@@ -4557,28 +4557,28 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest)\r\n味方キャラ1枚までを、このDuel、+1/±0する。\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)\r\n味方の[Gryffindor]Card1枚までを、活動状態にする。",
+    "text": "〔アシスト〕①⤵ \r\n味方キャラ1枚までを、この決闘中、+1/±0する。\r\n\r\n〔宣言〕〔自分のメインフェイズ〕〔ゲーム中1回〕\r\n味方の【グリフィンドール】カード1枚までを、活動状態にする。",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -4587,7 +4587,7 @@
   {
     "id": 47,
     "cardNumber": "Pt004a",
-    "cardName": "Hermione Granger",
+    "cardName": "ハーマイオニー・グレンジャー",
     "cardType": {
       "id": 7,
       "value": "Partner"
@@ -4600,28 +4600,28 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest)\r\n味方キャラ1枚までを、このDuel、+1/±0する。\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)\r\n自分の捨て札からMagicCard2枚をデッキの下に移し、サポートフィールドにいる、味方キャラ1枚までを、メインフィールドに移す。",
+    "text": "〔アシスト〕①⤵ \r\n味方キャラ1枚までを、この決闘中、+1/±0する。\r\n\r\n〔宣言〕〔自分のメインフェイズ〕〔ゲーム中1回〕\r\n自分の捨て札からMagicカード2枚をデッキの下に移し、サポートフィールドにいる、味方キャラ1枚までを、メインフィールドに移す。",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 13,
-        "value": "Witch"
+        "value": "魔女"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -4630,7 +4630,7 @@
   {
     "id": 49,
     "cardNumber": "Pt005a",
-    "cardName": "Draco Malfoy",
+    "cardName": "ドラコ・マルフォイ",
     "cardType": {
       "id": 7,
       "value": "Partner"
@@ -4643,28 +4643,28 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest)\r\n味方キャラ1枚までを、このDuel、+1/±0する。\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)\r\n相手キャラ1枚までを、ターン終了時まで、コスト-3する。",
+    "text": "〔アシスト〕①⤵ \r\n味方キャラ1枚までを、この決闘中、+1/±0する。\r\n\r\n〔宣言〕〔自分のメインフェイズ〕〔ゲーム中1回〕\r\n相手キャラ1枚までを、ターン終了時まで、コスト-3する。",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -4673,7 +4673,7 @@
   {
     "id": 51,
     "cardNumber": "Pt006a",
-    "cardName": "Albus Dumbledore",
+    "cardName": "アルバス・ダンブルドア",
     "cardType": {
       "id": 7,
       "value": "Partner"
@@ -4686,28 +4686,28 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest)\r\n味方キャラ1枚までを、このDuel、+1/±0する。\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)\r\n自分が次にプレイする[Professor]のCard1枚は、コスト-1を得る。",
+    "text": "〔アシスト〕①⤵ \r\n味方キャラ1枚までを、この決闘中、+1/±0する。\r\n\r\n〔宣言〕〔自分のメインフェイズ〕〔ゲーム中1回〕\r\n自分が次にプレイする【教師】のカード1枚は、コスト-1を得る。",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -4716,7 +4716,7 @@
   {
     "id": 53,
     "cardNumber": "Pt007a",
-    "cardName": "Harry Potter",
+    "cardName": "ハリー・ポッター",
     "cardType": {
       "id": 7,
       "value": "Partner"
@@ -4729,24 +4729,24 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest)\r\n味方キャラ1枚までを、このDuel、+1/±0する。\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)\r\n自分のメインフィールドに[Muggle]のCardが3枚いる場合、Cardを2枚引く。",
+    "text": "〔アシスト〕①⤵ \r\n味方キャラ1枚までを、この決闘中、+1/±0する。\r\n\r\n〔宣言〕〔自分のメインフェイズ〕〔ゲーム中1回〕\r\n自分のメインフィールドに【マグル】のカードが3枚いる場合、カードを2枚引く。",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 15,
-        "value": "Dursleys"
+        "value": "ダーズリー家"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 1,
-        "value": "Booster Pack／『Harry Potterと賢者の石』 Part.1"
+        "value": "ブースターパック／『ハリー・ポッターと賢者の石』 Part.1"
       }
     ],
     "qas": [],
@@ -4755,7 +4755,7 @@
   {
     "id": 175,
     "cardNumber": "MP-001",
-    "cardName": "MPCard",
+    "cardName": "MPカード",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -4768,7 +4768,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "ゲーム開始時、後攻のプレイヤーはMPCard1枚をMPフィールドに配置する。\r\nMPCardをゲームから取り除くことで1度だけコスト1を得る。",
+    "text": "ゲーム開始時、後攻のプレイヤーはMPカード1枚をMPフィールドに配置する。\r\nMPカードをゲームから取り除くことで1度だけコスト1を得る。",
     "parallel": false,
     "canAddToDeck": false,
     "tags": [],
@@ -4776,7 +4776,7 @@
     "products": [
       {
         "id": 2,
-        "value": "Starter Deck／Gryffindor"
+        "value": "スターターデッキ／グリフィンドール"
       }
     ],
     "qas": [],
@@ -4785,7 +4785,7 @@
   {
     "id": 42,
     "cardNumber": "Pt001",
-    "cardName": "Harry Potter",
+    "cardName": "ハリー・ポッター",
     "cardType": {
       "id": 7,
       "value": "Partner"
@@ -4798,35 +4798,35 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①⤵\n味方キャラ1枚までを、このDuel、+1/±0する。\n\n(Declare)(Opponent's Turn)(Duel)(Once Per Game)\n味方の[Gryffindor]Card2枚までを、活動状態にする。",
+    "text": "〔アシスト〕①⤵\n味方キャラ1枚までを、この決闘中、+1/±0する。\n\n〔宣言〕〔相手のターン〕〔決闘中〕〔ゲーム中1回〕\n味方の【グリフィンドール】カード2枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 2,
-        "value": "Starter Deck／Gryffindor"
+        "value": "スターターデッキ／グリフィンドール"
       }
     ],
     "qas": [
       {
         "id": 36,
-        "question": "(Duel)は、どのタイミングでUseできますか。",
-        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにAttackする」の項目の、「4：(Duel)のUseタイミング①」「7：(Duel)のUseタイミング②」でUseできます。",
+        "question": "〔決闘中〕は、どのタイミングで使用できますか。",
+        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにアタックする」の項目の、「4：〔決闘中〕の使用タイミング①」「7：〔決闘中〕の使用タイミング②」で使用できます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -4835,7 +4835,7 @@
   {
     "id": 59,
     "cardNumber": "S01-001",
-    "cardName": "Harry Potter",
+    "cardName": "ハリー・ポッター",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -4848,21 +4848,21 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter)(Attack)\nCardを2枚引き、手札2枚を捨て札にする。",
+    "text": "〔Pリンク【グリフィンドール】〕〔自動〕〔エントリー〕〔アタック〕\nカードを2枚引き、手札2枚を捨て札にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -4874,25 +4874,25 @@
     "products": [
       {
         "id": 2,
-        "value": "Starter Deck／Gryffindor"
+        "value": "スターターデッキ／グリフィンドール"
       }
     ],
     "qas": [
       {
         "id": 37,
-        "question": "S01-001「Harry Potter」とT01-001「Harry Potter」は別のCardとして扱いますか。",
-        "answer": "別のCardとして扱います。",
+        "question": "S01-001「ハリー・ポッター」とT01-001「ハリー・ポッター」は別のカードとして扱いますか。",
+        "answer": "別のカードとして扱います。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 48,
-        "question": "S01-001「Harry Potter」の「Cardを2枚引き、手札2枚を捨て札にする。」をUseする際、デッキの枚数が１枚の場合はどのような処理になりますか。",
-        "answer": "何も起こりません。デッキ1枚の場合は「Cardを2枚引き」を実行できません。また、「Cardを2枚引き」が実行できないため、「～手札2枚を捨て札にする。」も発動しません。",
+        "question": "S01-001「ハリー・ポッター」の「カードを2枚引き、手札2枚を捨て札にする。」を使用する際、デッキの枚数が１枚の場合はどのような処理になりますか。",
+        "answer": "何も起こりません。デッキ1枚の場合は「カードを2枚引き」を実行できません。また、「カードを2枚引き」が実行できないため、「～手札2枚を捨て札にする。」も発動しません。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 49,
-        "question": "S01-001「Harry Potter」の「Cardを2枚引き、手札2枚を捨て札にする。」は、手札が無い場合でも発動しますか。",
+        "question": "S01-001「ハリー・ポッター」の「カードを2枚引き、手札2枚を捨て札にする。」は、手札が無い場合でも発動しますか。",
         "answer": "発動します。",
         "updatedAt": "2026-04-24"
       }
@@ -4902,7 +4902,7 @@
   {
     "id": 60,
     "cardNumber": "S01-002",
-    "cardName": "Harry Potter",
+    "cardName": "ハリー・ポッター",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -4915,21 +4915,21 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(P-Link[Gryffindor])(Trigger)(Your End Phase)\n味方キャラ1枚までを活動状態にする。\n\n≪Break≫味方の[Gryffindor]Card1枚までを、活動状態にする。",
+    "text": "〔Pリンク【グリフィンドール】〕〔自動〕〔自分のターン終了時〕\n味方キャラ1枚までを活動状態にする。\n\n≪ブレイク≫味方の【グリフィンドール】カード1枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -4941,20 +4941,20 @@
     "products": [
       {
         "id": 2,
-        "value": "Starter Deck／Gryffindor"
+        "value": "スターターデッキ／グリフィンドール"
       }
     ],
     "qas": [
       {
         "id": 61,
-        "question": "Your Turn中、相手の01-022「Gregory Goyle」がDownし、「相手キャラ1枚までを、ターン終了時まで、-2/-2する。」によって、S01-002「Harry Potter」が-2/-2され、DPが0になったことで休息状態になりました。このターンの終了時、「(Trigger)(Your End Phase)味方キャラ1枚までを活動状態にする。」で、-2/-2されたS01-002「Harry Potter」を活動状態にする場合、どうなりますか。",
-        "answer": "まず、手番のプレイヤー（自分）から、ターン終了時の処理を行います。S01-002「Harry Potter」が一度活動状態になりますが、DPが0なので再度休息状態になります。次に手番ではないプレイヤー（相手）の01-022「Gregory Goyle」の「相手キャラ1枚までを、ターン終了時まで、-2/-2する。」の効果の継続が終了します。",
+        "question": "自分のターン中、相手の01-022「グレゴリー・ゴイル」がダウンし、「相手キャラ1枚までを、ターン終了時まで、-2/-2する。」によって、S01-002「ハリー・ポッター」が-2/-2され、DPが0になったことで休息状態になりました。このターンの終了時、「〔自動〕〔自分のターン終了時〕味方キャラ1枚までを活動状態にする。」で、-2/-2されたS01-002「ハリー・ポッター」を活動状態にする場合、どうなりますか。",
+        "answer": "まず、手番のプレイヤー（自分）から、ターン終了時の処理を行います。S01-002「ハリー・ポッター」が一度活動状態になりますが、DPが0なので再度休息状態になります。次に手番ではないプレイヤー（相手）の01-022「グレゴリー・ゴイル」の「相手キャラ1枚までを、ターン終了時まで、-2/-2する。」の効果の継続が終了します。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 89,
-        "question": "01-080「9と3/4番線」の効果で、S01-002「Harry Potter」がサポートフィールドからメインフィールドに移った場合、そのターンに「(Trigger)(Your End Phase)味方キャラ1枚までを活動状態にする。」は発動しますか。",
-        "answer": "発動しません。ターンの終了時に処理が発生する効果を解決する時点で、効果が発動できない状態のCardは、その後効果が発動できる状態になったとしても、効果を発動することはできません。",
+        "question": "01-080「9と3/4番線」の効果で、S01-002「ハリー・ポッター」がサポートフィールドからメインフィールドに移った場合、そのターンに「〔自動〕〔自分のターン終了時〕味方キャラ1枚までを活動状態にする。」は発動しますか。",
+        "answer": "発動しません。ターンの終了時に処理が発生する効果を解決する時点で、効果が発動できない状態のカードは、その後効果が発動できる状態になったとしても、効果を発動することはできません。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -4963,7 +4963,7 @@
   {
     "id": 61,
     "cardNumber": "S01-003",
-    "cardName": "Ron Weasley",
+    "cardName": "ロン・ウィーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -4976,21 +4976,21 @@
     "mp": 1,
     "ap": 1,
     "dp": 1,
-    "text": "≪Supporter≫\n(Declare)(Your Main Phase)⤵\n味方の[Gryffindor]Card1枚までを、ターン終了時まで、+1/+1する。\n\n≪Break≫味方の[Gryffindor]Card1枚までを、活動状態にする。",
+    "text": "≪サポーター≫\n〔宣言〕〔自分のメインフェイズ〕⤵\n味方の【グリフィンドール】カード1枚までを、ターン終了時まで、+1/+1する。\n\n≪ブレイク≫味方の【グリフィンドール】カード1枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -5002,13 +5002,13 @@
     "products": [
       {
         "id": 2,
-        "value": "Starter Deck／Gryffindor"
+        "value": "スターターデッキ／グリフィンドール"
       }
     ],
     "qas": [
       {
         "id": 70,
-        "question": "01-050\t「ロランダ・フーチ」の「(P-Link「Albus Dumbledore」)(Declare)(Duel)⤵　味方の[Professor]Card1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度(Declare)(Duel)⤵を発動することはできますか。",
+        "question": "01-050\t「ロランダ・フーチ」の「〔Pリンク「アルバス・ダンブルドア」〕〔宣言〕〔決闘中〕⤵　味方の【教師】カード1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度〔宣言〕〔決闘中〕⤵を発動することはできますか。",
         "answer": "可能です。",
         "updatedAt": "2026-04-24"
       }
@@ -5018,7 +5018,7 @@
   {
     "id": 62,
     "cardNumber": "S01-004",
-    "cardName": "Hermione Granger",
+    "cardName": "ハーマイオニー・グレンジャー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -5031,21 +5031,21 @@
     "mp": 1,
     "ap": 3,
     "dp": 5,
-    "text": "(Always)\r\nMagicCardがプレイされた場合、このCardを、ターン終了時まで、+1/+1する。",
+    "text": "〔常時〕\r\nMagicカードがプレイされた場合、このカードを、ターン終了時まで、+1/+1する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 13,
-        "value": "Witch"
+        "value": "魔女"
       }
     ],
     "specialIcons": [
@@ -5057,13 +5057,13 @@
     "products": [
       {
         "id": 2,
-        "value": "Starter Deck／Gryffindor"
+        "value": "スターターデッキ／グリフィンドール"
       }
     ],
     "qas": [
       {
         "id": 50,
-        "question": "「MagicCardがプレイされた場合」は、相手がプレイしたMagicCardでも効果が発動しますか。",
+        "question": "「Magicカードがプレイされた場合」は、相手がプレイしたMagicカードでも効果が発動しますか。",
         "answer": "発動します。",
         "updatedAt": "2026-04-24"
       }
@@ -5073,7 +5073,7 @@
   {
     "id": 63,
     "cardNumber": "S01-005",
-    "cardName": "Neville Longbottom",
+    "cardName": "ネビル・ロングボトム",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -5086,21 +5086,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Charge)\n※Chargeを持つキャラはEnterしたターンからキャラに攻撃できる。",
+    "text": "〔突進〕\n※突進を持つキャラはエントリーしたターンからキャラに攻撃できる。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -5112,7 +5112,7 @@
     "products": [
       {
         "id": 2,
-        "value": "Starter Deck／Gryffindor"
+        "value": "スターターデッキ／グリフィンドール"
       }
     ],
     "qas": [],
@@ -5121,7 +5121,7 @@
   {
     "id": 64,
     "cardNumber": "S01-006",
-    "cardName": "Seamus Finnigan",
+    "cardName": "シェーマス・フィネガン",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -5134,21 +5134,21 @@
     "mp": 1,
     "ap": 3,
     "dp": 2,
-    "text": "",
+    "text": null,
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -5160,7 +5160,7 @@
     "products": [
       {
         "id": 2,
-        "value": "Starter Deck／Gryffindor"
+        "value": "スターターデッキ／グリフィンドール"
       }
     ],
     "qas": [],
@@ -5169,7 +5169,7 @@
   {
     "id": 65,
     "cardNumber": "S01-007",
-    "cardName": "Dean Thomas",
+    "cardName": "ディーン・トーマス",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -5182,21 +5182,21 @@
     "mp": 1,
     "ap": 2,
     "dp": 3,
-    "text": "",
+    "text": null,
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -5208,7 +5208,7 @@
     "products": [
       {
         "id": 2,
-        "value": "Starter Deck／Gryffindor"
+        "value": "スターターデッキ／グリフィンドール"
       }
     ],
     "qas": [],
@@ -5217,7 +5217,7 @@
   {
     "id": 66,
     "cardNumber": "S01-008",
-    "cardName": "Fred Weasley",
+    "cardName": "フレッド・ウィーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -5230,21 +5230,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 3,
-    "text": "",
+    "text": null,
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -5256,7 +5256,7 @@
     "products": [
       {
         "id": 2,
-        "value": "Starter Deck／Gryffindor"
+        "value": "スターターデッキ／グリフィンドール"
       }
     ],
     "qas": [],
@@ -5265,7 +5265,7 @@
   {
     "id": 67,
     "cardNumber": "S01-009",
-    "cardName": "George Weasley",
+    "cardName": "ジョージ・ウィーズリー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -5278,21 +5278,21 @@
     "mp": 1,
     "ap": 3,
     "dp": 4,
-    "text": "",
+    "text": null,
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 11,
-        "value": "Gryffindor"
+        "value": "グリフィンドール"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -5304,7 +5304,7 @@
     "products": [
       {
         "id": 2,
-        "value": "Starter Deck／Gryffindor"
+        "value": "スターターデッキ／グリフィンドール"
       }
     ],
     "qas": [],
@@ -5313,7 +5313,7 @@
   {
     "id": 68,
     "cardNumber": "S01-010",
-    "cardName": "Hogwarts school of\n  Witchcraft & Wizardry",
+    "cardName": "ホグワーツ魔法魔術学校",
     "cardType": {
       "id": 9,
       "value": "Location"
@@ -5326,7 +5326,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Declare)(Your Main Phase)⤵\n味方の[ホグワーツ]Card1枚までを、ターン終了時まで、+2/+2する。\n\n≪Break≫このCardを、サポートフィールドに出す。",
+    "text": "〔宣言〕〔自分のメインフェイズ〕⤵\n味方の【ホグワーツ】カード1枚までを、ターン終了時まで、+2/+2する。\n\n≪ブレイク≫このカードを、サポートフィールドに出す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5334,18 +5334,18 @@
     "products": [
       {
         "id": 2,
-        "value": "Starter Deck／Gryffindor"
+        "value": "スターターデッキ／グリフィンドール"
       },
       {
         "id": 4,
-        "value": "Starter Deck／Slytherine"
+        "value": "スターターデッキ／スリザリン"
       }
     ],
     "qas": [
       {
         "id": 51,
-        "question": "「≪Break≫このCardを、サポートフィールドに出す。」のBreakをUseした場合、そのCardはサポートフィールドから捨て札に行きますか。",
-        "answer": "いいえ、Break効果の処理によって、ライフ以外の場所に移動したCardは、捨て札には行きません。",
+        "question": "「≪ブレイク≫このカードを、サポートフィールドに出す。」のブレイクを使用した場合、そのカードはサポートフィールドから捨て札に行きますか。",
+        "answer": "いいえ、ブレイク効果の処理によって、ライフ以外の場所に移動したカードは、捨て札には行きません。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -5354,7 +5354,7 @@
   {
     "id": 69,
     "cardNumber": "S01-011",
-    "cardName": "Reparo",
+    "cardName": "レパロ",
     "cardType": {
       "id": 10,
       "value": "Magic"
@@ -5367,7 +5367,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Opponent's Turn)(Duel)\n味方キャラ1枚までを活動状態にする。\n\n≪Break≫このCardを、無償でUseできる。",
+    "text": "〔使用〕〔相手のターン〕〔決闘中〕\n味方キャラ1枚までを活動状態にする。\n\n≪ブレイク≫このカードを、無償で使用できる。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5375,20 +5375,20 @@
     "products": [
       {
         "id": 2,
-        "value": "Starter Deck／Gryffindor"
+        "value": "スターターデッキ／グリフィンドール"
       }
     ],
     "qas": [
       {
         "id": 36,
-        "question": "(Duel)は、どのタイミングでUseできますか。",
-        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにAttackする」の項目の、「4：(Duel)のUseタイミング①」「7：(Duel)のUseタイミング②」でUseできます。",
+        "question": "〔決闘中〕は、どのタイミングで使用できますか。",
+        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにアタックする」の項目の、「4：〔決闘中〕の使用タイミング①」「7：〔決闘中〕の使用タイミング②」で使用できます。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 52,
-        "question": "S01-011「レパロ」のBreakをUseした場合、MagicCardをプレイした扱いになりますか。",
-        "answer": "はい。MagicCardをプレイした扱いになります。",
+        "question": "S01-011「レパロ」のブレイクを使用した場合、Magicカードをプレイした扱いになりますか。",
+        "answer": "はい。Magicカードをプレイした扱いになります。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -5397,7 +5397,7 @@
   {
     "id": 70,
     "cardNumber": "S01-012",
-    "cardName": "Wand",
+    "cardName": "杖",
     "cardType": {
       "id": 11,
       "value": "Item"
@@ -5410,7 +5410,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪装備≫(Always)\nこのCardを装備している[Wizard]または[Witch]のCardを、+2/±0する。",
+    "text": "≪装備≫〔常時〕\nこのカードを装備している【魔法使い】または【魔女】のカードを、+2/±0する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5418,25 +5418,25 @@
     "products": [
       {
         "id": 2,
-        "value": "Starter Deck／Gryffindor"
+        "value": "スターターデッキ／グリフィンドール"
       }
     ],
     "qas": [
       {
         "id": 53,
-        "question": "S01-012「Wand」は、[Wizard]または[Witch]以外のキャラにも装備することはできますか。",
+        "question": "S01-012「杖」は、【魔法使い】または【魔女】以外のキャラにも装備することはできますか。",
         "answer": "可能です。ただし、効果は得られません。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 54,
-        "question": "メインフィールドにキャラが3枚ある状態で、メインフィールドのキャラにアイテムCardを装備した場合、メインフィールドのCardを捨て札にする必要がありますか？",
-        "answer": "いいえ、必要ありません。Cardの下に重ねて置かれるCardは、メインフィールドやサポートフィールドの上限数に数えません。",
+        "question": "メインフィールドにキャラが3枚ある状態で、メインフィールドのキャラにアイテムカードを装備した場合、メインフィールドのカードを捨て札にする必要がありますか？",
+        "answer": "いいえ、必要ありません。カードの下に重ねて置かれるカードは、メインフィールドやサポートフィールドの上限数に数えません。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 69,
-        "question": "01-049「Severus Snape」をプレイして、相手がS01-012「Wand」を装備したキャラを手札に戻す場合、S01-012「Wand」はどうなりますか。",
+        "question": "01-049「セブルス・スネイプ」をプレイして、相手がS01-012「杖」を装備したキャラを手札に戻す場合、S01-012「杖」はどうなりますか。",
         "answer": "捨て札に移ります。",
         "updatedAt": "2026-04-24"
       }
@@ -5446,7 +5446,7 @@
   {
     "id": 71,
     "cardNumber": "S01-013",
-    "cardName": "Sorting Ceremony",
+    "cardName": "組分け儀式",
     "cardType": {
       "id": 12,
       "value": "Event"
@@ -5459,7 +5459,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Your Main Phase)\n自分のパートナーと同じ寮の味方キャラ全てを、ターン終了時まで、+2/+2する。\n※寮とは[Gryffindor][Slytherine][Ravenclaw][Hufflepuff]を示す。\n\n≪Break≫このCardを、無償でUseできる。",
+    "text": "〔使用〕〔自分のメインフェイズ〕\n自分のパートナーと同じ寮の味方キャラ全てを、ターン終了時まで、+2/+2する。\n※寮とは【グリフィンドール】【スリザリン】【レイブンクロー】【ハッフルパフ】を示す。\n\n≪ブレイク≫このカードを、無償で使用できる。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5467,14 +5467,14 @@
     "products": [
       {
         "id": 2,
-        "value": "Starter Deck／Gryffindor"
+        "value": "スターターデッキ／グリフィンドール"
       }
     ],
     "qas": [
       {
         "id": 55,
-        "question": "S01-013「Sorting Ceremony」の効果のタイミングは、(Use)(Your Main Phase)ですが、Duelにライフから公開された場合、「≪Break≫このCardを、無償でUseできる。」によって、このCardの効果をUseすることは可能ですか。",
-        "answer": "可能です。Breakによって、Cardに記載された効果をUseする場合は、(Your Main Phase)以外のタイミングでも、Cardの効果をUseできます。",
+        "question": "S01-013「組分け儀式」の効果のタイミングは、〔使用〕〔自分のメインフェイズ〕ですが、決闘中にライフから公開された場合、「≪ブレイク≫このカードを、無償で使用できる。」によって、このカードの効果を使用することは可能ですか。",
+        "answer": "可能です。ブレイクによって、カードに記載された効果を使用する場合は、〔自分のメインフェイズ〕以外のタイミングでも、カードの効果を使用できます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -5483,7 +5483,7 @@
   {
     "id": 176,
     "cardNumber": "MP-002",
-    "cardName": "MPCard",
+    "cardName": "MPカード",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -5496,7 +5496,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "ゲーム開始時、後攻のプレイヤーはMPCard1枚をMPフィールドに配置する。\r\nMPCardをゲームから取り除くことで1度だけコスト1を得る。",
+    "text": "ゲーム開始時、後攻のプレイヤーはMPカード1枚をMPフィールドに配置する。\r\nMPカードをゲームから取り除くことで1度だけコスト1を得る。",
     "parallel": false,
     "canAddToDeck": false,
     "tags": [],
@@ -5504,7 +5504,7 @@
     "products": [
       {
         "id": 4,
-        "value": "Starter Deck／Slytherine"
+        "value": "スターターデッキ／スリザリン"
       }
     ],
     "qas": [],
@@ -5513,7 +5513,7 @@
   {
     "id": 43,
     "cardNumber": "Pt002",
-    "cardName": "Draco Malfoy",
+    "cardName": "ドラコ・マルフォイ",
     "cardType": {
       "id": 7,
       "value": "Partner"
@@ -5526,35 +5526,35 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①⤵\n味方キャラ1枚までを、このDuel、+1/±0する。\n\n(Declare)(Opponent's Turn)(Duel)(Once Per Game)\n味方の[Slytherine]Card2枚までを、活動状態にする。",
+    "text": "〔アシスト〕①⤵\n味方キャラ1枚までを、この決闘中、+1/±0する。\n\n〔宣言〕〔相手のターン〕〔決闘中〕〔ゲーム中1回〕\n味方の【スリザリン】カード2枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [],
     "products": [
       {
         "id": 4,
-        "value": "Starter Deck／Slytherine"
+        "value": "スターターデッキ／スリザリン"
       }
     ],
     "qas": [
       {
         "id": 36,
-        "question": "(Duel)は、どのタイミングでUseできますか。",
-        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにAttackする」の項目の、「4：(Duel)のUseタイミング①」「7：(Duel)のUseタイミング②」でUseできます。",
+        "question": "〔決闘中〕は、どのタイミングで使用できますか。",
+        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにアタックする」の項目の、「4：〔決闘中〕の使用タイミング①」「7：〔決闘中〕の使用タイミング②」で使用できます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -5563,7 +5563,7 @@
   {
     "id": 68,
     "cardNumber": "S01-010",
-    "cardName": "Hogwarts School of Witchcraft and Wizardry",
+    "cardName": "ホグワーツ魔法魔術学校",
     "cardType": {
       "id": 9,
       "value": "Location"
@@ -5576,7 +5576,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Declare)(Your Main Phase)⤵\n味方の[ホグワーツ]Card1枚までを、ターン終了時まで、+2/+2する。\n\n≪Break≫このCardを、サポートフィールドに出す。",
+    "text": "〔宣言〕〔自分のメインフェイズ〕⤵\n味方の【ホグワーツ】カード1枚までを、ターン終了時まで、+2/+2する。\n\n≪ブレイク≫このカードを、サポートフィールドに出す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5584,18 +5584,18 @@
     "products": [
       {
         "id": 2,
-        "value": "Starter Deck／Gryffindor"
+        "value": "スターターデッキ／グリフィンドール"
       },
       {
         "id": 4,
-        "value": "Starter Deck／Slytherine"
+        "value": "スターターデッキ／スリザリン"
       }
     ],
     "qas": [
       {
         "id": 51,
-        "question": "「≪Break≫このCardを、サポートフィールドに出す。」のBreakをUseした場合、そのCardはサポートフィールドから捨て札に行きますか。",
-        "answer": "いいえ、Break効果の処理によって、ライフ以外の場所に移動したCardは、捨て札には行きません。",
+        "question": "「≪ブレイク≫このカードを、サポートフィールドに出す。」のブレイクを使用した場合、そのカードはサポートフィールドから捨て札に行きますか。",
+        "answer": "いいえ、ブレイク効果の処理によって、ライフ以外の場所に移動したカードは、捨て札には行きません。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -5604,7 +5604,7 @@
   {
     "id": 82,
     "cardNumber": "S01-012a",
-    "cardName": "Wand",
+    "cardName": "杖",
     "cardType": {
       "id": 11,
       "value": "Item"
@@ -5617,7 +5617,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪装備≫(Always)\nこのCardを装備している[Wizard]または[Witch]のCardを、+2/±0する。",
+    "text": "≪装備≫〔常時〕\nこのカードを装備している【魔法使い】または【魔女】のカードを、+2/±0する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5625,7 +5625,7 @@
     "products": [
       {
         "id": 4,
-        "value": "Starter Deck／Slytherine"
+        "value": "スターターデッキ／スリザリン"
       }
     ],
     "qas": [],
@@ -5634,7 +5634,7 @@
   {
     "id": 83,
     "cardNumber": "S01-013a",
-    "cardName": "Sorting Ceremony",
+    "cardName": "組分け儀式",
     "cardType": {
       "id": 12,
       "value": "Event"
@@ -5647,7 +5647,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Your Main Phase)\n自分のパートナーと同じ寮の味方キャラ全てを、ターン終了時まで、+2/+2する。\n※寮とは[Gryffindor][Slytherine][Ravenclaw][Hufflepuff]を示す。\n\n≪Break≫このCardを、無償でUseできる。",
+    "text": "〔使用〕〔自分のメインフェイズ〕\n自分のパートナーと同じ寮の味方キャラ全てを、ターン終了時まで、+2/+2する。\n※寮とは【グリフィンドール】【スリザリン】【レイブンクロー】【ハッフルパフ】を示す。\n\n≪ブレイク≫このカードを、無償で使用できる。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5655,7 +5655,7 @@
     "products": [
       {
         "id": 4,
-        "value": "Starter Deck／Slytherine"
+        "value": "スターターデッキ／スリザリン"
       }
     ],
     "qas": [],
@@ -5664,7 +5664,7 @@
   {
     "id": 72,
     "cardNumber": "S02-001",
-    "cardName": "Draco Malfoy",
+    "cardName": "ドラコ・マルフォイ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -5677,21 +5677,21 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(P-Link[Slytherine])(Trigger)(Enter)(Attack)\n相手キャラ1枚までを、ターン終了時まで、-1/-1する。",
+    "text": "〔Pリンク【スリザリン】〕〔自動〕〔エントリー〕〔アタック〕\n相手キャラ1枚までを、ターン終了時まで、-1/-1する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -5703,7 +5703,7 @@
     "products": [
       {
         "id": 4,
-        "value": "Starter Deck／Slytherine"
+        "value": "スターターデッキ／スリザリン"
       }
     ],
     "qas": [],
@@ -5712,7 +5712,7 @@
   {
     "id": 73,
     "cardNumber": "S02-002",
-    "cardName": "Draco Malfoy",
+    "cardName": "ドラコ・マルフォイ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -5725,21 +5725,21 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(P-Link[Slytherine])(Trigger)(Your End Phase)\n味方キャラ1枚までを活動状態にする。\n\n≪Break≫味方の[Slytherine]Card1枚までを、活動状態にする。",
+    "text": "〔Pリンク【スリザリン】〕〔自動〕〔自分のターン終了時〕\n味方キャラ1枚までを活動状態にする。\n\n≪ブレイク≫味方の【スリザリン】カード1枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -5751,7 +5751,7 @@
     "products": [
       {
         "id": 4,
-        "value": "Starter Deck／Slytherine"
+        "value": "スターターデッキ／スリザリン"
       }
     ],
     "qas": [],
@@ -5760,7 +5760,7 @@
   {
     "id": 74,
     "cardNumber": "S02-003",
-    "cardName": "Vincent Crabbe",
+    "cardName": "ビンセント・クラッブ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -5773,21 +5773,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Always)\n味方「Draco Malfoy」のCard全てを、+1/±0する。",
+    "text": "〔常時〕\n味方「ドラコ・マルフォイ」のカード全てを、+1/±0する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -5799,14 +5799,14 @@
     "products": [
       {
         "id": 4,
-        "value": "Starter Deck／Slytherine"
+        "value": "スターターデッキ／スリザリン"
       }
     ],
     "qas": [
       {
         "id": 41,
-        "question": "Pt003「Harry Potter」の「味方の[Gryffindor]Card1枚までを、活動状態にする。」によって、PartnerCardを活動状態にできますか。",
-        "answer": "できません。対象となる場所（MPフィールド、デッキなど）が指定されてない効果は、決闘場のCardのみを指定できます。",
+        "question": "Pt003「ハリー・ポッター」の「味方の【グリフィンドール】カード1枚までを、活動状態にする。」によって、Partnerカードを活動状態にできますか。",
+        "answer": "できません。対象となる場所（MPフィールド、デッキなど）が指定されてない効果は、決闘場のカードのみを指定できます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -5815,7 +5815,7 @@
   {
     "id": 75,
     "cardNumber": "S02-004",
-    "cardName": "Gregory Goyle",
+    "cardName": "グレゴリー・ゴイル",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -5828,21 +5828,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Always)\n味方「Draco Malfoy」のCard全てを±0/+1する。",
+    "text": "〔常時〕\n味方「ドラコ・マルフォイ」のカード全てを±0/+1する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -5854,14 +5854,14 @@
     "products": [
       {
         "id": 4,
-        "value": "Starter Deck／Slytherine"
+        "value": "スターターデッキ／スリザリン"
       }
     ],
     "qas": [
       {
         "id": 41,
-        "question": "Pt003「Harry Potter」の「味方の[Gryffindor]Card1枚までを、活動状態にする。」によって、PartnerCardを活動状態にできますか。",
-        "answer": "できません。対象となる場所（MPフィールド、デッキなど）が指定されてない効果は、決闘場のCardのみを指定できます。",
+        "question": "Pt003「ハリー・ポッター」の「味方の【グリフィンドール】カード1枚までを、活動状態にする。」によって、Partnerカードを活動状態にできますか。",
+        "answer": "できません。対象となる場所（MPフィールド、デッキなど）が指定されてない効果は、決闘場のカードのみを指定できます。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -5870,7 +5870,7 @@
   {
     "id": 76,
     "cardNumber": "S02-005",
-    "cardName": "Pansy Parkinson",
+    "cardName": "パンジー・パーキンソン",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -5883,21 +5883,21 @@
     "mp": 1,
     "ap": 1,
     "dp": 1,
-    "text": "≪Supporter≫\n(Declare)(Your Main Phase)⤵\n味方の[Slytherine]Card1枚までを、ターン終了時まで、+1/+1する。\n\n≪Break≫味方の[Slytherine]Card1枚までを活動状態にする。",
+    "text": "≪サポーター≫\n〔宣言〕〔自分のメインフェイズ〕⤵\n味方の【スリザリン】カード1枚までを、ターン終了時まで、+1/+1する。\n\n≪ブレイク≫味方の【スリザリン】カード1枚までを活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 13,
-        "value": "Witch"
+        "value": "魔女"
       }
     ],
     "specialIcons": [
@@ -5909,13 +5909,13 @@
     "products": [
       {
         "id": 4,
-        "value": "Starter Deck／Slytherine"
+        "value": "スターターデッキ／スリザリン"
       }
     ],
     "qas": [
       {
         "id": 70,
-        "question": "01-050\t「ロランダ・フーチ」の「(P-Link「Albus Dumbledore」)(Declare)(Duel)⤵　味方の[Professor]Card1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度(Declare)(Duel)⤵を発動することはできますか。",
+        "question": "01-050\t「ロランダ・フーチ」の「〔Pリンク「アルバス・ダンブルドア」〕〔宣言〕〔決闘中〕⤵　味方の【教師】カード1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度〔宣言〕〔決闘中〕⤵を発動することはできますか。",
         "answer": "可能です。",
         "updatedAt": "2026-04-24"
       }
@@ -5925,7 +5925,7 @@
   {
     "id": 77,
     "cardNumber": "S02-006",
-    "cardName": "Terrence Higgs",
+    "cardName": "テレンス・ヒッグス",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -5938,25 +5938,25 @@
     "mp": 1,
     "ap": 3,
     "dp": 2,
-    "text": "",
+    "text": null,
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 16,
-        "value": "Quiddich"
+        "value": "クィディッチ"
       },
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -5968,7 +5968,7 @@
     "products": [
       {
         "id": 4,
-        "value": "Starter Deck／Slytherine"
+        "value": "スターターデッキ／スリザリン"
       }
     ],
     "qas": [],
@@ -5977,7 +5977,7 @@
   {
     "id": 78,
     "cardNumber": "S02-007",
-    "cardName": "Adrian Pucey",
+    "cardName": "エイドリアン・ピュシー",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -5990,25 +5990,25 @@
     "mp": 1,
     "ap": 2,
     "dp": 3,
-    "text": "",
+    "text": null,
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 16,
-        "value": "Quiddich"
+        "value": "クィディッチ"
       },
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -6020,7 +6020,7 @@
     "products": [
       {
         "id": 4,
-        "value": "Starter Deck／Slytherine"
+        "value": "スターターデッキ／スリザリン"
       }
     ],
     "qas": [],
@@ -6029,7 +6029,7 @@
   {
     "id": 79,
     "cardNumber": "S02-008",
-    "cardName": "Draco Malfoy",
+    "cardName": "ドラコ・マルフォイ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -6042,21 +6042,21 @@
     "mp": 1,
     "ap": 4,
     "dp": 3,
-    "text": "",
+    "text": null,
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -6068,7 +6068,7 @@
     "products": [
       {
         "id": 4,
-        "value": "Starter Deck／Slytherine"
+        "value": "スターターデッキ／スリザリン"
       }
     ],
     "qas": [],
@@ -6077,7 +6077,7 @@
   {
     "id": 80,
     "cardNumber": "S02-009",
-    "cardName": "Severus Snape",
+    "cardName": "セブルス・スネイプ",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -6090,25 +6090,25 @@
     "mp": 1,
     "ap": 3,
     "dp": 4,
-    "text": "",
+    "text": null,
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
       {
         "id": 12,
-        "value": "Slytherine"
+        "value": "スリザリン"
       },
       {
         "id": 10,
-        "value": "Hogwarts"
+        "value": "ホグワーツ"
       },
       {
         "id": 14,
-        "value": "Professor"
+        "value": "教師"
       },
       {
         "id": 9,
-        "value": "Wizard"
+        "value": "魔法使い"
       }
     ],
     "specialIcons": [
@@ -6120,7 +6120,7 @@
     "products": [
       {
         "id": 4,
-        "value": "Starter Deck／Slytherine"
+        "value": "スターターデッキ／スリザリン"
       }
     ],
     "qas": [],
@@ -6129,7 +6129,7 @@
   {
     "id": 81,
     "cardNumber": "S02-010",
-    "cardName": "Up！",
+    "cardName": "上がれ！",
     "cardType": {
       "id": 10,
       "value": "Magic"
@@ -6142,7 +6142,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Duel)\nDuelの味方キャラ1枚までを、このDuel、+3/±0する。",
+    "text": "〔使用〕〔決闘中〕\n決闘中の味方キャラ1枚までを、この決闘中、+3/±0する。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -6150,14 +6150,14 @@
     "products": [
       {
         "id": 4,
-        "value": "Starter Deck／Slytherine"
+        "value": "スターターデッキ／スリザリン"
       }
     ],
     "qas": [
       {
         "id": 36,
-        "question": "(Duel)は、どのタイミングでUseできますか。",
-        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにAttackする」の項目の、「4：(Duel)のUseタイミング①」「7：(Duel)のUseタイミング②」でUseできます。",
+        "question": "〔決闘中〕は、どのタイミングで使用できますか。",
+        "answer": "ゲームマニュアルの20p「相手のキャラかパートナーにアタックする」の項目の、「4：〔決闘中〕の使用タイミング①」「7：〔決闘中〕の使用タイミング②」で使用できます。",
         "updatedAt": "2026-04-24"
       }
     ],

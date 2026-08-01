@@ -3,6 +3,7 @@
 import json
 import os
 import textwrap
+import re
 from io import BytesIO
 
 import requests
@@ -19,12 +20,12 @@ CACHE_DIR = "image_cache"
 # Use a TTF that supports your language
 FONT_FILE = "/System/Library/Fonts/ヒラギノ角ゴシック W6.ttc"
 
-TITLE_SIZE = 13
-TAG_SIZE =11
-BODY_SIZE = 10
+TITLE_SIZE = 13 * 2  # Scale up font size by 2x
+TAG_SIZE = 11 * 2    # Scale up font size by 2x
+BODY_SIZE = 10 * 2   # Scale up font size by 2x
 
 BORDER = 22
-OVERLAY_ALPHA = 200        # 0-255
+OVERLAY_ALPHA = 228        # 0-255
 TEXT_COLOUR = (0, 0, 0)
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -49,25 +50,23 @@ def download_image(url):
     return Image.open(filename).convert("RGBA")
 
 
-def wrap(draw, text, font, width):
-    words = text.split()
-
-    if not words:
-        return ""
-
-    lines = []
-    line = words[0]
-
-    for word in words[1:]:
-        test = line + " " + word
-        if draw.textlength(test, font=font) <= width:
-            line = test
-        else:
-            lines.append(line)
-            line = word
-
-    lines.append(line)
-    return "\n".join(lines)
+TOKEN_RE = re.compile(r"(〔[^〕]+〕|【[^】]+】|≪[^≫]+≫|\([^)]+\)|\S+)")
+def wrap(draw,text,font,width):
+    out=[]
+    for para in text.replace("\r","").split("\n"):
+        words=TOKEN_RE.findall(para)
+        if not words:
+            out.append("")
+            continue
+        line=words[0]
+        for w in words[1:]:
+            t=line+" "+w
+            if draw.textlength(t,font=font)<=width:
+                line=t
+            else:
+                out.append(line); line=w
+        out.append(line)
+    return "\n".join(out)
 
 
 with open(JSON_FILE, encoding="utf-8") as f:
@@ -77,10 +76,13 @@ for card in cards:
 
     try:
         img = download_image(card["imageUrl"])
-
+        
+        # Scale up the image by 2x
         width, height = img.size
-
-        overlay_top = height * 19 // 32
+        img = img.resize((width * 2, height * 2))
+        width, height = img.size
+        
+        overlay_top = height * 65 // 100
 
         overlay = Image.new("RGBA", img.size, (0, 0, 0, 0))
         odraw = ImageDraw.Draw(overlay)
@@ -95,6 +97,8 @@ for card in cards:
             radius=BORDER,
             fill=(255, 255, 255, OVERLAY_ALPHA),
         )
+        
+        
 
         img = Image.alpha_composite(img, overlay)
 
@@ -104,17 +108,16 @@ for card in cards:
         y = overlay_top + BORDER * 2
         text_width = width - x * 2
         
-        
         # Card name
-        draw.text(
-            (x, y),
-            card.get("cardName", ""),
+        title=card.get("cardName","")
+        draw.text((x,y),
+            title,
             fill=TEXT_COLOUR,
             font=title_font,
         )
 
-        y += TITLE_SIZE + 10
-
+        y += TITLE_SIZE + 8
+        
         # Tags
         tags = ", ".join(tag["value"] for tag in card.get("tags", []))
 
@@ -125,7 +128,7 @@ for card in cards:
             font=tag_font,
         )
 
-        y += TAG_SIZE + 15
+        bbox=draw.textbbox((x,y),tags,font=tag_font); y+=bbox[3]-bbox[1]+15
 
         # Rules text
         rules = wrap(
@@ -140,9 +143,20 @@ for card in cards:
             rules,
             fill=TEXT_COLOUR,
             font=body_font,
-            spacing=6,
-        )
+            spacing=int(body_font.getmetrics()[0]*0.35),
 
+        )
+        
+        # Draw the mp circle if it is not null
+        mp_value = card.get("mp", None)
+        
+        if mp_value is not None:
+            draw.ellipse(
+                (width/2-32,height-BORDER-54,width/2+32,height-BORDER+10),
+                fill=(77, 3, 99),  # Purple fill
+                outline=(0, 0, 0)    # Black outline (stroke)
+            )
+        
         outname = f'{card["cardNumber"]}.png'
         img.convert("RGB").save(os.path.join(OUTPUT_DIR, outname), quality=95)
 
