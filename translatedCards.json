@@ -5,7 +5,7 @@
     "cardName": "Albus Dumbledore",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 13,
@@ -15,7 +15,7 @@
     "mp": null,
     "ap": 10,
     "dp": 10,
-    "text": "(Always) Whenever you play a Magic Card, Ready this character",
+    "text": "(Always) Whenever you play a Magic Card, Ready this Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -53,7 +53,7 @@
     "cardName": "Rubeus Hagrid",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 13,
@@ -104,7 +104,7 @@
     "cardName": "Harry Potter",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 14,
@@ -114,7 +114,7 @@
     "mp": null,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Move up to one alllied Character with Cost 4 or less from the Supporter Zone to the Main Zone",
+    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Move up to one allied Character with Cost 4 or less from the Support Field to the Main Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -165,7 +165,7 @@
     "cardName": "Ron Weasley ＆ Hermione Granger",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 14,
@@ -175,7 +175,7 @@
     "mp": null,
     "ap": 5,
     "dp": 5,
-    "text": "(P-Link[Gryffindor])(Always) Gain(Haste)",
+    "text": "(P-Link[Gryffindor])(Always) Gain (Haste)",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -217,7 +217,7 @@
     "cardName": "Neville Longbottom",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 14,
@@ -227,7 +227,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "≪Supporter≫\n(P-Link[Gryffindor])(Declare)(Your Main Phase)(Rest) Give up to one allied character +2/+2 until End of Turn",
+    "text": "≪Supporter≫\n(P-Link[Gryffindor])(Declare)(Your Main Phase)(Rest) Give up to one allied Character +2/+2 until End of Turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -265,7 +265,7 @@
     "cardName": "Draco Malfoy",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 14,
@@ -275,7 +275,7 @@
     "mp": null,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link[Slytherine])(Trigger)(Enter) Down up to one character an opponent controls with cost 4 or less",
+    "text": "(P-Link[Slytherine])(Trigger)(Enter) Down up to one Character an opponent controls with cost 4 or less",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -313,7 +313,7 @@
     "cardName": "Draco Malfoy",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 14,
@@ -323,7 +323,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "≪Supporter≫\n(P-Link[Slytherine])(Declare)(Your Main Phase)(Rest) Give up to two characters an opponent controlls get -1/-1 until the end of the turn",
+    "text": "≪Supporter≫\n(P-Link[Slytherine])(Declare)(Your Main Phase)(Rest) Give up to two Character s an opponent controlls get -1/-1 until the end of the turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -361,7 +361,7 @@
     "cardName": "Albus Dumbledore",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 14,
@@ -416,7 +416,7 @@
     "cardName": "Minerva McGonagall",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 14,
@@ -426,7 +426,7 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Trigger)(Enter) Down up to one character an opponent controls with AP 4 or less",
+    "text": "(Trigger)(Enter) Down up to one Character an opponent controls with AP 4 or less",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -468,7 +468,7 @@
     "cardName": "Severus Snape",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 14,
@@ -478,7 +478,7 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Trigger)(Enter)(Attack) Send up to one character your opponent controls from the Support Zone to the Discard Pile",
+    "text": "(Trigger)(Enter)(Attack) Send up to one Character your opponent controls from the Support Field to the Discard Pile",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -520,7 +520,7 @@
     "cardName": "Severus Snape",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 14,
@@ -530,7 +530,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Slytherine])(Trigger)(Enter) Give up to one non-Syltherine character an opponent controls -3/-3 until End of Turn",
+    "text": "(P-Link[Slytherine])(Trigger)(Enter) Give up to one non-Syltherine Character an opponent controls -3/-3 until End of Turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -572,7 +572,7 @@
     "cardName": "Harry Potter",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 14,
@@ -582,7 +582,7 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Trigger)(Attack)(Once per Turn) You may Rest one Muggle Card in the Main Zone, Ready this Character",
+    "text": "(Trigger)(Attack)(Once per Turn) You may Rest one Muggle Card in the Main Field, Ready this Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -618,7 +618,7 @@
     "cardName": "Harry Potter",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -628,7 +628,7 @@
     "mp": 1,
     "ap": 5,
     "dp": 6,
-    "text": "(Trigger)(Your End Phase) Ready up to 2 Allied Gryffindor Characters",
+    "text": "(Trigger)(Your End Phase) Ready up to 2 Allied Gryffindor Character s",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -666,7 +666,7 @@
     "cardName": "Ron Weasley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -676,7 +676,7 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Give up to 2 allied characters +1/+1 until End of Turn",
+    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Give up to 2 allied Character s +1/+1 until End of Turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -714,7 +714,7 @@
     "cardName": "Ron Weasley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -762,7 +762,7 @@
     "cardName": "Hermione Granger",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -810,7 +810,7 @@
     "cardName": "Hermione Granger",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -820,7 +820,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Down up to one character an opponent controls with Original AP 2 or less.",
+    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Down up to one Character an opponent controls with Original AP 2 or less.",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -858,7 +858,7 @@
     "cardName": "Neville Longbottom",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -868,7 +868,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 4,
-    "text": "(P-Link[Gryffindor])(Trigger)(Down) Ready up to one allied character.",
+    "text": "(P-Link[Gryffindor])(Trigger)(Down) Ready up to one allied Character .",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -906,7 +906,7 @@
     "cardName": "Draco Malfoy",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -916,7 +916,7 @@
     "mp": 1,
     "ap": 5,
     "dp": 4,
-    "text": "(Trigger)(Enter) Send up to one character an opponent controls from the Support Zone to the Discard Pile.",
+    "text": "(Trigger)(Enter) Send up to one Character an opponent controls from the Support Field to the Discard Pile.",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -954,7 +954,7 @@
     "cardName": "Draco Malfoy",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -964,7 +964,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Slytherine])(Always)(Your Turn) When this character Duels, give both characters in the Duel get -2/-2 until End of Turn. \n\n  ≪Break≫Rest up to one character an opponent controls.",
+    "text": "(P-Link[Slytherine])(Always)(Your Turn) When this Character Duels, give both Character s in the Duel get -2/-2 until End of Turn. \n\n  ≪Break≫Rest up to one Character an opponent controls.",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1009,7 +1009,7 @@
     "cardName": "Vincent Crabbe",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -1057,7 +1057,7 @@
     "cardName": "Gregory Goyle",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -1067,7 +1067,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "(P-Link[Slytherine])(Trigger)(Down) Give up to one character an opponent controls -2/-2 until End of Turn. \r\r  ≪Break≫ Give up to one character an opponent controls -2/-2 until End of Turn ",
+    "text": "(P-Link[Slytherine])(Trigger)(Down) Give up to one Character an opponent controls -2/-2 until End of Turn. \n \n  ≪Break≫ Give up to one Character an opponent controls -2/-2 until End of Turn ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1112,7 +1112,7 @@
     "cardName": "Albus Dumbledore",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -1122,7 +1122,7 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link「Albus Dumbledore」)(Trigger)(Your End Phase) Ready this card \n\n≪Break≫ Ready up to one character you control",
+    "text": "(P-Link「Albus Dumbledore」)(Trigger)(Your End Phase) Ready this card \n\n≪Break≫ Ready up to one Character you control",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1160,7 +1160,7 @@
     "cardName": "Minerva McGonagall",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -1170,7 +1170,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 7,
-    "text": "(Trigger)(Block) Gain (Counterattack) \n\n  ≪Break≫ Give up to one character you control (Counterattack) until end of turn",
+    "text": "(Trigger)(Block) Gain (Counterattack) \n\n  ≪Break≫ Give up to one Character you control (Counterattack) until end of turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1219,7 +1219,7 @@
     "cardName": "Minerva McGonagall",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -1271,7 +1271,7 @@
     "cardName": "Severus Snape",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -1281,7 +1281,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Trigger)(Enter) Down up to one character controlled by an opponent with cost 2 or less",
+    "text": "(Trigger)(Enter) Down up to one Character controlled by an opponent with cost 2 or less",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1323,7 +1323,7 @@
     "cardName": "Quirinus Quirrell",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -1333,7 +1333,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Trigger)(Enter) Rest up to one Card in an Opponent's Mana Zone \n\n  ≪Break≫ Rest up to one Card in an Opponent's Mana Zone",
+    "text": "(Trigger)(Enter) Rest up to one Card in an Opponent's Mana Field \n\n  ≪Break≫ Rest up to one Card in an Opponent's Mana Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1378,7 +1378,7 @@
     "cardName": "Mrs. Norris",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -1388,7 +1388,7 @@
     "mp": 1,
     "ap": 0,
     "dp": 2,
-    "text": "(Trigger)(Enter) Rest up to one character controlled by an opponent with cost 2 or less\n\n≪Break≫ Rest up to one character controlled by an opponent ",
+    "text": "(Trigger)(Enter) Rest up to one Character controlled by an opponent with cost 2 or less\n\n≪Break≫ Rest up to one Character controlled by an opponent ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1417,7 +1417,7 @@
     "cardName": "Vernon Dursley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -1456,7 +1456,7 @@
     "cardName": "Petunia Dursley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -1495,7 +1495,7 @@
     "cardName": "Dudley Dursley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 17,
@@ -1623,7 +1623,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Your Main Phase) Move up to one [Hogwarts] Character from your Support Zone to your Main Zone\n\n≪Break≫ You may use this card without paying it's Cost",
+    "text": "(Use)(Your Main Phase) Move up to one [Hogwarts] Character from your Support Field to your Main Field\n\n≪Break≫ You may use this card without paying it's Cost",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -1690,7 +1690,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Always) If you control a [Muggle] character in the Main Zone, All allied 「Harry Potter」 have +0/+2",
+    "text": "(Always) If you control a [Muggle] Character in the Main Field, All allied 「Harry Potter」 have +0/+2",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -1710,7 +1710,7 @@
     "cardName": "Harry Potter",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -1720,7 +1720,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Gryffindor])(Trigger)(Attack) Give up to one allied Character +2/+2 until End of Turn \n\n  ≪Break≫ Read up to one Allied Character",
+    "text": "(P-Link[Gryffindor])(Trigger)(Attack) Give up to one allied Character +2/+2 until End of Turn \n\n  ≪Break≫ Read up to one Allied Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1758,7 +1758,7 @@
     "cardName": "Ron Weasley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -1768,7 +1768,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Gryffindor])(Trigger)(Attack) Give up to one allied character (Charge) until End of Turn\n\n≪Break≫ Ready up to one Allied Character",
+    "text": "(P-Link[Gryffindor])(Trigger)(Attack) Give up to one allied Character (Charge) until End of Turn\n\n≪Break≫ Ready up to one Allied Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1806,7 +1806,7 @@
     "cardName": "Hermione Granger",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -1816,7 +1816,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Gryffindor])(Trigger)(Attack) The next Magic Card you play has it's cost reduced by 2 \n\n≪Break≫ Ready up to 1 allied character",
+    "text": "(P-Link[Gryffindor])(Trigger)(Attack) The next Magic Card you play has it's cost reduced by 2 \n\n≪Break≫ Ready up to 1 allied Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1861,7 +1861,7 @@
     "cardName": "Percy Weasley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -1871,7 +1871,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "≪Break≫ Ready up to one allied character and return this card to your hand.",
+    "text": "≪Break≫ Ready up to one allied Character and return this card to your hand.",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1909,7 +1909,7 @@
     "cardName": "Fred Weasley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -1919,7 +1919,7 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(Always)If you control a 「George Weasley」 character on your main field while this card is in your hand, the cost to play this card is reduced by 2 \n\n≪Break≫ If you control a 「George Weasley」 in your Main Zone, move this Character to your Main Zone",
+    "text": "(Always)If you control a 「George Weasley」 Character on your main field while this card is in your hand, the cost to play this card is reduced by 2 \n\n≪Break≫ If you control a 「George Weasley」 in your Main Field, move this Character to your Main Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1964,7 +1964,7 @@
     "cardName": "George Weasley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -1974,7 +1974,7 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(Always) If you control a 「Fred Weasley」character on your main field while this card is in your hand, the cost to play this card is reduced by 2 \n\n≪Break≫ If you control a 「Fred Weasley」 in your Main Zone, move this Character to your Main Zone",
+    "text": "(Always) If you control a 「Fred Weasley」Character on your main field while this card is in your hand, the cost to play this card is reduced by 2 \n\n≪Break≫ If you control a 「Fred Weasley」 in your Main Field, move this Character to your Main Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2019,7 +2019,7 @@
     "cardName": "Draco Malfoy",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2029,7 +2029,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Slytherine])(Trigger)(Attack) Choose up to one character an opponent controls; its cost is reduced by 2 until End of Turn",
+    "text": "(P-Link[Slytherine])(Trigger)(Attack) Choose up to one Character an opponent controls; its cost is reduced by 2 until End of Turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2067,7 +2067,7 @@
     "cardName": "Draco Malfoy",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2115,7 +2115,7 @@
     "cardName": "Susan Bones",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2125,7 +2125,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "≪Break≫ Move up to 1 allied character in the Support Zone to the Main Zone, and return this card to your hand",
+    "text": "≪Break≫ Move up to 1 allied Character in the Support Field to the Main Field, and return this card to your hand",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2170,7 +2170,7 @@
     "cardName": "Albus Dumbledore",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2180,7 +2180,7 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Always) Whenever a Magic Card is played, this character gets +2/+2 until the end of the turn",
+    "text": "(Always) Whenever a Magic Card is played, this Character gets +2/+2 until the end of the turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2218,7 +2218,7 @@
     "cardName": "Albus Dumbledore",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2228,7 +2228,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Always)(Your Turn) All [Professor] characters you control have +1/+1",
+    "text": "(Always)(Your Turn) All [Professor] Character s you control have +1/+1",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2273,7 +2273,7 @@
     "cardName": "Minerva McGonagall",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2283,7 +2283,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Trigger)(Enter) Place one card from your hand into the Mana Zone",
+    "text": "(Trigger)(Enter) Place one card from your hand into the Mana Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2332,7 +2332,7 @@
     "cardName": "Severus Snape",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2342,7 +2342,7 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(P-Link[Slytherine])(Trigger)(Enter) Your opponent may return up to one Rested characters you control to your hand.",
+    "text": "(P-Link[Slytherine])(Trigger)(Enter) Your opponent may return up to one Rested Character s you control to your hand.",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2403,7 +2403,7 @@
     "cardName": "Rolanda Hooch",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2413,7 +2413,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "≪Supporter≫ \n(P-Link「Albus Dumbledore」)(Declare)(Duel)(Rest) GIve up to one [Professor] character you control +1/+1 until End of Turn",
+    "text": "≪Supporter≫ \n(P-Link「Albus Dumbledore」)(Declare)(Duel)(Rest) GIve up to one [Professor] Character you control +1/+1 until End of Turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2451,7 +2451,7 @@
       },
       {
         "id": 70,
-        "question": "01-050\t「ロランダ・フーチ」の「(P-Link「Albus Dumbledore」)(Declare)(Duel)⤵　味方の[Professor]Card1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度(Declare)(Duel)⤵を発動することはできますか。",
+        "question": "01-050\t「ロランダ・フーチ」の「(P-Link「Albus Dumbledore」)(Declare)(Duel)(Rest)　味方の[Professor]Card1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度(Declare)(Duel)(Rest)を発動することはできますか。",
         "answer": "可能です。",
         "updatedAt": "2026-04-24"
       }
@@ -2464,7 +2464,7 @@
     "cardName": "Filius Flitwick",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2474,7 +2474,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "(P-Link「Albus Dumbledore」)(Trigger)(Your End Phase) Ready up to one Allied Character\n\n≪Break≫Ready up to 1 allied [Professor] Character.",
+    "text": "(P-Link「Albus Dumbledore」)(Trigger)(Your End Phase) Ready up to one Allied Character \n\n≪Break≫Ready up to 1 allied [Professor] Character .",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2516,7 +2516,7 @@
     "cardName": "Quirinus Quirrell",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2526,7 +2526,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "≪Break≫ Rest up to one character an opponent controls, and return this card to your hand.",
+    "text": "≪Break≫ Rest up to one Character an opponent controls, and return this card to your hand.",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2571,7 +2571,7 @@
     "cardName": "Rubeus Hagrid",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2581,7 +2581,7 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Always)This character cannot attack Partners",
+    "text": "(Always)This Character cannot attack Partners",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2628,7 +2628,7 @@
     "cardName": "Argus Filch",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2670,7 +2670,7 @@
     "cardName": "Nearly Headless Nick",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2680,7 +2680,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate up to one[Gryffindor]Character you control \n\n≪Break≫ Activate one allied character",
+    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate up to one[Gryffindor]Character you control \n\n≪Break≫ Activate one allied Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2720,7 +2720,7 @@
     "cardName": "The Blood Baron",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2730,7 +2730,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate up to one[Slytherine]character you control \n\n≪Break≫ Activate up to one allied character",
+    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate up to one[Slytherine]Character you control \n\n≪Break≫ Activate up to one allied Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2770,7 +2770,7 @@
     "cardName": "The Gray Lady",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2780,7 +2780,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Ready up to one[Ravenclaw]character you control \n\n≪Break≫ Activate up to one allied Character",
+    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Ready up to one[Ravenclaw]Character you control \n\n≪Break≫ Activate up to one allied Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2820,7 +2820,7 @@
     "cardName": "The Fat Frier",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2830,7 +2830,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate up to one[Hufflepuff]character you control \n\n≪Break≫ Activate up to one allied character",
+    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate up to one[Hufflepuff]Character you control \n\n≪Break≫ Activate up to one allied Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2870,7 +2870,7 @@
     "cardName": "The Fat Lady",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2880,7 +2880,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate one card in your Mana Zone",
+    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate one card in your Mana Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2916,7 +2916,7 @@
     "cardName": "Harry Potter",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2926,7 +2926,7 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link[Dursleys])(Always)This Card's cost is reduce by 1 for each[Muggle]Character in your Support Zone",
+    "text": "(P-Link[Dursleys])(Always)This Card's cost is reduce by 1 for each[Muggle]Character in your Support Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2955,7 +2955,7 @@
     "cardName": "Harry Potter",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -2965,7 +2965,7 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Always)This card enters rested \n\n(Trigger)(Enter)You may return a[Muggle]Character from the Main Zone to your hand, if you did, Ready this character",
+    "text": "(Always)This card enters rested \n\n(Trigger)(Enter)You may return a[Muggle]Character from the Main Field to your hand, if you did, Ready this Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3013,7 +3013,7 @@
     "cardName": "Harry Potter",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -3023,7 +3023,7 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(P-Link[Dursleys])(Always)(Once per Turn)Whenever an allied[Muggle]character is downed, draw 1 Card",
+    "text": "(P-Link[Dursleys])(Always)(Once per Turn)Whenever an allied[Muggle]Character is downed, draw 1 Card",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3052,7 +3052,7 @@
     "cardName": "Vernon Dursley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -3062,7 +3062,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "(Trigger)(Attack)Move up to one[Muggle]Character from your hand to the Main Zone",
+    "text": "(Trigger)(Attack)Move up to one[Muggle]Character from your hand to the Main Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3091,7 +3091,7 @@
     "cardName": "Vernon Dursley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -3137,7 +3137,7 @@
     "cardName": "Petunia Dursley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -3183,7 +3183,7 @@
     "cardName": "Petunia Dursley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -3193,7 +3193,7 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(Trigger)(Block)Ready up to one allied[Muggle]character",
+    "text": "(Trigger)(Block)Ready up to one allied[Muggle]Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3222,7 +3222,7 @@
     "cardName": "Dudley Dursley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -3232,7 +3232,7 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(Always)(Your Turn)Give「Harry Potter」Characters controlled by an Opponent and this Card +3/+0",
+    "text": "(Always)(Your Turn)Give「Harry Potter」Character s controlled by an Opponent and this Card +3/+0",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3261,7 +3261,7 @@
     "cardName": "Dudley Dursley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -3271,7 +3271,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "(Trigger)(Start of Your Turn)(Your End Phase)If there is a「Harry Potter」character in the Main Zone, Down that character",
+    "text": "(Trigger)(Start of Your Turn)(Your End Phase)If there is a「Harry Potter」Character in the Main Field, Down that Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3307,7 +3307,7 @@
     "cardName": "Griphook",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -3351,7 +3351,7 @@
     "cardName": "Garrick Ollivander",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -3391,7 +3391,7 @@
     "cardName": "Troll",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -3430,7 +3430,7 @@
     "cardName": "Hedwig",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -3465,7 +3465,7 @@
     "cardName": "Fluffy",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -3475,7 +3475,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "(Always)If this card is added to your hand by a Magic Card, you may reveal this card; if you do, Place it in the Main Zone \n\n≪Break≫ Rest up to one Character controlled by an Opponent",
+    "text": "(Always)If this card is added to your hand by a Magic Card, you may reveal this card; if you do, Place it in the Main Field \n\n≪Break≫ Rest up to one Character controlled by an Opponent",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3517,7 +3517,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Duel)(During Your Turn)All characters in the Duel get +0/-5 until the End of your opponent's next Turn",
+    "text": "(Use)(Duel)(During Your Turn)All Character s in the Duel get +0/-5 until the End of your opponent's next Turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3670,7 +3670,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Trigger)(Enter)Place one 「Albus Dumbledore」Character from your hand to the Main Zone, at the beginning of your next turn, return that card to your hand",
+    "text": "(Trigger)(Enter)Place one 「Albus Dumbledore」Character from your hand to the Main Field, at the beginning of your next turn, return that card to your hand",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3707,7 +3707,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Declare)(Duel)⑤〈Discard one Card from your Hand〉Change the target of your Opponent's attack to a character you control of your choice",
+    "text": "(Declare)(Duel)⑤〈Discard one Card from your Hand〉Change the target of your Opponent's attack to a Character you control of your choice",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3750,7 +3750,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Trigger)(Your End Phase)Discard one card, then move one[Hogwarts]card to the Main Zone",
+    "text": "(Trigger)(Your End Phase)Discard one card, then move one[Hogwarts]card to the Main Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3848,7 +3848,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this duel \n\n(Declare)(Your Main Phase)(Once Per Game)Activate up to one allied[Gryffindor]character",
+    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this duel \n\n(Declare)(Your Main Phase)(Once Per Game)Activate up to one allied[Gryffindor]Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3910,7 +3910,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this Duel\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)Move two Magic Cards from your discard pile to the bottom of your deck, and move up to one allied Character from your Support Zone to your Main Zone.",
+    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this Duel\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)Move two Magic Cards from your discard pile to the bottom of your deck, and move up to one allied Character from your Support Field to your Main Field.",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -4084,7 +4084,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this Duel \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)if you control 3[Muggle]Cards in your Main Zone, draw 2 cards",
+    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this Duel \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)if you control 3[Muggle]Cards in your Main Field, draw 2 cards",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -4113,7 +4113,7 @@
     "cardName": "Harry Potter",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 15,
@@ -4123,7 +4123,7 @@
     "mp": null,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter)\r\nサポートフィールドにいる、コスト4以下の味方キャラ1枚までを、メインフィールドに移す。",
+    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Move up to one allied Character with Cost 4 or less from the Support Field to the Main Field",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4161,7 +4161,7 @@
     "cardName": "Harry Potter",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 16,
@@ -4171,7 +4171,7 @@
     "mp": null,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter)\r\nサポートフィールドにいる、コスト4以下の味方キャラ1枚までを、メインフィールドに移す。",
+    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Move up to one allied Character with Cost 4 or less from the Support Field to the Main Field",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4209,7 +4209,7 @@
     "cardName": "Ron Weasley＆Hermione Granger",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 15,
@@ -4219,7 +4219,7 @@
     "mp": null,
     "ap": 5,
     "dp": 5,
-    "text": "(P-Link[Gryffindor])(Always)\r\n(Haste)を得る。",
+    "text": "(P-Link[Gryffindor])(Always) Gain (Haste)",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4261,7 +4261,7 @@
     "cardName": "Albus Dumbledore",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 15,
@@ -4271,7 +4271,7 @@
     "mp": null,
     "ap": 7,
     "dp": 7,
-    "text": "(P-Link「Albus Dumbledore」)(Always)(Once per Turn)\r\n自分がMagicCardをプレイした場合、Cardを1枚引く。",
+    "text": "(P-Link「Albus Dumbledore」)(Always)(Once per Turn) Whenever you play a Magic Card, Draw 1 Card",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4309,7 +4309,7 @@
     "cardName": "Minerva McGonagall",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 15,
@@ -4361,7 +4361,7 @@
     "cardName": "Severus Snape",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 15,
@@ -4413,7 +4413,7 @@
     "cardName": "Mrs. Norris",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 18,
@@ -4755,10 +4755,10 @@
   {
     "id": 175,
     "cardNumber": "MP-001",
-    "cardName": "MPCard",
+    "cardName": "MP Card",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -4768,7 +4768,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "ゲーム開始時、後攻のプレイヤーはMPCard1枚をMPフィールドに配置する。\r\nMPCardをゲームから取り除くことで1度だけコスト1を得る。",
+    "text": "At the start of the game, the player going second may place one MP Card in the Mana Field. By removing the MP Card from the game, they gain 1 MP once.",
     "parallel": false,
     "canAddToDeck": false,
     "tags": [],
@@ -4798,7 +4798,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①⤵\n味方キャラ1枚までを、このDuel、+1/±0する。\n\n(Declare)(Opponent's Turn)(Duel)(Once Per Game)\n味方の[Gryffindor]Card2枚までを、活動状態にする。",
+    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this duel \n\n(Declare)(Opponent's Turn)(Duel)(Once Per Game) Ready up to 2 Allied [Gryffindor] Character s",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -4838,7 +4838,7 @@
     "cardName": "Harry Potter",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -4848,7 +4848,7 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter)(Attack)\nCardを2枚引き、手札2枚を捨て札にする。",
+    "text": "(P-Link[Gryffindor])(Trigger)(Enter)(Attack) Draw 2 Cards then Discard 2 Cards",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -4905,7 +4905,7 @@
     "cardName": "Harry Potter",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -4915,7 +4915,7 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(P-Link[Gryffindor])(Trigger)(Your End Phase)\n味方キャラ1枚までを活動状態にする。\n\n≪Break≫味方の[Gryffindor]Card1枚までを、活動状態にする。",
+    "text": "(P-Link[Gryffindor])(Trigger)(Your End Phase) Activate up to one Allied Character \n\n≪Break≫ Ready up to one allied [Gryffindor] Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -4966,7 +4966,7 @@
     "cardName": "Ron Weasley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -4976,7 +4976,7 @@
     "mp": 1,
     "ap": 1,
     "dp": 1,
-    "text": "≪Supporter≫\n(Declare)(Your Main Phase)⤵\n味方の[Gryffindor]Card1枚までを、ターン終了時まで、+1/+1する。\n\n≪Break≫味方の[Gryffindor]Card1枚までを、活動状態にする。",
+    "text": "≪Supporter≫\n(Declare)(Your Main Phase)(Rest) 味方の[Gryffindor]Card1枚までを、ターン終了時まで、+1/+1する。\n\n≪Break≫味方の[Gryffindor]Card1枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -5008,7 +5008,7 @@
     "qas": [
       {
         "id": 70,
-        "question": "01-050\t「ロランダ・フーチ」の「(P-Link「Albus Dumbledore」)(Declare)(Duel)⤵　味方の[Professor]Card1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度(Declare)(Duel)⤵を発動することはできますか。",
+        "question": "01-050\t「ロランダ・フーチ」の「(P-Link「Albus Dumbledore」)(Declare)(Duel)(Rest)　味方の[Professor]Card1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度(Declare)(Duel)(Rest)を発動することはできますか。",
         "answer": "可能です。",
         "updatedAt": "2026-04-24"
       }
@@ -5021,7 +5021,7 @@
     "cardName": "Hermione Granger",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -5076,7 +5076,7 @@
     "cardName": "Neville Longbottom",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -5124,7 +5124,7 @@
     "cardName": "Seamus Finnigan",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -5172,7 +5172,7 @@
     "cardName": "Dean Thomas",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -5220,7 +5220,7 @@
     "cardName": "Fred Weasley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -5268,7 +5268,7 @@
     "cardName": "George Weasley",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -5313,7 +5313,7 @@
   {
     "id": 68,
     "cardNumber": "S01-010",
-    "cardName": "Hogwarts school of\n  Witchcraft & Wizardry",
+    "cardName": "Hogwarts school of Witchcraft & Wizardry",
     "cardType": {
       "id": 9,
       "value": "Location"
@@ -5326,7 +5326,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Declare)(Your Main Phase)⤵\n味方の[ホグワーツ]Card1枚までを、ターン終了時まで、+2/+2する。\n\n≪Break≫このCardを、サポートフィールドに出す。",
+    "text": "(Declare)(Your Main Phase)(Rest)\n味方の[ホグワーツ]Card1枚までを、ターン終了時まで、+2/+2する。\n\n≪Break≫このCardを、サポートフィールドに出す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5483,10 +5483,10 @@
   {
     "id": 176,
     "cardNumber": "MP-002",
-    "cardName": "MPCard",
+    "cardName": "MP Card",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 19,
@@ -5496,7 +5496,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "ゲーム開始時、後攻のプレイヤーはMPCard1枚をMPフィールドに配置する。\r\nMPCardをゲームから取り除くことで1度だけコスト1を得る。",
+    "text": "At the start of the game, the player going second may place one MP Card in the Mana Field. By removing the MP Card from the game, they gain 1 MP once.",
     "parallel": false,
     "canAddToDeck": false,
     "tags": [],
@@ -5526,7 +5526,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①⤵\n味方キャラ1枚までを、このDuel、+1/±0する。\n\n(Declare)(Opponent's Turn)(Duel)(Once Per Game)\n味方の[Slytherine]Card2枚までを、活動状態にする。",
+    "text": "(Assist)①(Rest)\n味方キャラ1枚までを、このDuel、+1/±0する。\n\n(Declare)(Opponent's Turn)(Duel)(Once Per Game)\n味方の[Slytherine]Card2枚までを、活動状態にする。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -5576,7 +5576,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Declare)(Your Main Phase)⤵\n味方の[ホグワーツ]Card1枚までを、ターン終了時まで、+2/+2する。\n\n≪Break≫このCardを、サポートフィールドに出す。",
+    "text": "(Declare)(Your Main Phase)(Rest)\n味方の[ホグワーツ]Card1枚までを、ターン終了時まで、+2/+2する。\n\n≪Break≫このCardを、サポートフィールドに出す。",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5667,7 +5667,7 @@
     "cardName": "Draco Malfoy",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -5715,7 +5715,7 @@
     "cardName": "Draco Malfoy",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -5763,7 +5763,7 @@
     "cardName": "Vincent Crabbe",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -5818,7 +5818,7 @@
     "cardName": "Gregory Goyle",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -5873,7 +5873,7 @@
     "cardName": "Pansy Parkinson",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -5883,7 +5883,7 @@
     "mp": 1,
     "ap": 1,
     "dp": 1,
-    "text": "≪Supporter≫\n(Declare)(Your Main Phase)⤵\n味方の[Slytherine]Card1枚までを、ターン終了時まで、+1/+1する。\n\n≪Break≫味方の[Slytherine]Card1枚までを活動状態にする。",
+    "text": "≪Supporter≫\n(Declare)(Your Main Phase)(Rest) give up to one allied [Slytherine] Character +1/+1 until End of Turn \n\n≪Break≫ Ready up to one Allied [Slytherine] Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -5915,7 +5915,7 @@
     "qas": [
       {
         "id": 70,
-        "question": "01-050\t「ロランダ・フーチ」の「(P-Link「Albus Dumbledore」)(Declare)(Duel)⤵　味方の[Professor]Card1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度(Declare)(Duel)⤵を発動することはできますか。",
+        "question": "01-050\t「ロランダ・フーチ」の「(P-Link「Albus Dumbledore」)(Declare)(Duel)(Rest)　味方の[Professor]Card1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度(Declare)(Duel)(Rest)を発動することはできますか。",
         "answer": "可能です。",
         "updatedAt": "2026-04-24"
       }
@@ -5928,7 +5928,7 @@
     "cardName": "Terrence Higgs",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -5980,7 +5980,7 @@
     "cardName": "Adrian Pucey",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -6032,7 +6032,7 @@
     "cardName": "Draco Malfoy",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
@@ -6080,7 +6080,7 @@
     "cardName": "Severus Snape",
     "cardType": {
       "id": 8,
-      "value": "Character"
+      "value": "Character "
     },
     "rarity": {
       "id": 7,
