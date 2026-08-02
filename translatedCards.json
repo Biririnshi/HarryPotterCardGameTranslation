@@ -5677,7 +5677,7 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(P-Link[Slytherine])(Trigger)(Enter)(Attack)\n相手キャラ1枚までを、ターン終了時まで、-1/-1する。",
+    "text": "(P-Link[Slytherine])(Trigger)(Enter)(Attack) Give up to one Character controlled by an opponent -1/-1 until End of Turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
