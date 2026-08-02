@@ -323,7 +323,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "≪Supporter≫\n(P-Link[Slytherine])(Declare)(Your Main Phase)(Rest) Give up to two Character s an opponent controlls get -1/-1 until the end of the turn",
+    "text": "≪Supporter≫\n(P-Link[Slytherine])(Declare)(Your Main Phase)(Rest) Give up to two Characters an opponent controlls get -1/-1 until the end of the turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -628,7 +628,7 @@
     "mp": 1,
     "ap": 5,
     "dp": 6,
-    "text": "(Trigger)(Your End Phase) Ready up to 2 Allied Gryffindor Character s",
+    "text": "(Trigger)(Your End Phase) Ready up to 2 Allied Gryffindor Characters",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -676,7 +676,7 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Give up to 2 allied Character s +1/+1 until End of Turn",
+    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Give up to 2 allied Characters +1/+1 until End of Turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -964,7 +964,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Slytherine])(Always)(Your Turn) When this Character Duels, give both Character s in the Duel get -2/-2 until End of Turn. \n\n  ≪Break≫Rest up to one Character an opponent controls.",
+    "text": "(P-Link[Slytherine])(Always)(Your Turn) When this Character Duels, give both Characters in the Duel get -2/-2 until End of Turn. \n\n  ≪Break≫Rest up to one Character an opponent controls.",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2228,7 +2228,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Always)(Your Turn) All [Professor] Character s you control have +1/+1",
+    "text": "(Always)(Your Turn) All [Professor] Characters you control have +1/+1",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2342,7 +2342,7 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(P-Link[Slytherine])(Trigger)(Enter) Your opponent may return up to one Rested Character s you control to your hand.",
+    "text": "(P-Link[Slytherine])(Trigger)(Enter) Your opponent may return up to one Rested Characters you control to your hand.",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2390,7 +2390,7 @@
       },
       {
         "id": 69,
-        "question": "01-049「Severus Snape」をプレイして、相手がS01-012「Wand」を装備したキャラを手札に戻す場合、S01-012「Wand」はどうなりますか。",
+        "question": "01-049「Severus Snape」をプレイして、相手がS01-012「Wand」をEquipしたキャラを手札に戻す場合、S01-012「Wand」はどうなりますか。",
         "answer": "捨て札に移ります。",
         "updatedAt": "2026-04-24"
       }
@@ -3147,7 +3147,7 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(Trigger)(Enter)Reveak the top card of your opponent's deck, if a Magic Card is revealed, your opponent discards 1 card \n\n≪Break≫Your Opponent discards 1 card",
+    "text": "(Trigger)(Enter) Reveal the top card of your opponent's deck, if a Magic Card is revealed, your opponent discards 1 card \n\n≪Break≫Your Opponent discards 1 card",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3232,7 +3232,7 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(Always)(Your Turn)Give「Harry Potter」Character s controlled by an Opponent and this Card +3/+0",
+    "text": "(Always)(Your Turn)Give「Harry Potter」Characters controlled by an Opponent and this Card +3/+0",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3517,7 +3517,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Duel)(During Your Turn)All Character s in the Duel get +0/-5 until the End of your opponent's next Turn",
+    "text": "(Use)(Duel)(During Your Turn) All Characters in the Duel get +0/-5 until the End of your opponent's next Turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3825,8 +3825,8 @@
       },
       {
         "id": 91,
-        "question": "01-081「オリバンダーの店」は、「Wand」を装備できる味方キャラがいない場合でも、「Wand」を抜き出すことはできますか。",
-        "answer": "できません。「Wand」を装備できる味方キャラがいない場合は、デッキの上から10枚の中に戻ります。",
+        "question": "01-081「オリバンダーの店」は、「Wand」をEquipできる味方キャラがいない場合でも、「Wand」を抜き出すことはできますか。",
+        "answer": "できません。「Wand」をEquipできる味方キャラがいない場合は、デッキの上から10枚の中に戻ります。",
         "updatedAt": "2026-04-24"
       }
     ],
@@ -4319,7 +4319,7 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Trigger)(Enter)\r\n相手メインフィールドにいる、元々のAPが4以下のキャラ1枚までを、Downさせる。",
+    "text": "(Trigger)(Enter) Down up to one Character an opponent controls with AP 4 or less",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4371,7 +4371,7 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Trigger)(Enter)(Attack)\r\n相手サポートフィールドにいる、コスト2以下のキャラ1枚までを、捨て札にする。",
+    "text": "(Trigger)(Enter)(Attack) Send up to one Character your opponent controls from the Support Field to the Discard Pile",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4423,7 +4423,7 @@
     "mp": 1,
     "ap": 0,
     "dp": 2,
-    "text": "(Trigger)(Enter)\r\nコスト2以下の相手キャラ1枚までを、休息状態にする。\r\n\r\n≪Break≫相手キャラ1枚までを、休息状態にする。",
+    "text": "(Trigger)(Enter) Rest up to one Character controlled by an opponent with cost 2 or less\n\n≪Break≫ Rest up to one Character controlled by an opponent ",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4462,7 +4462,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Duel)\r\nDuelの相手キャラ1枚までを、このDuel、-3/-3する。\r\n\r\n≪Break≫相手キャラ1枚までを、休息状態にする。",
+    "text": "(Use)(Duel) Give up to one Character controlled by an opponent -3/-3 for this Duel \n\n≪Break≫ Rest up to one Character controlled by an opponent until End of Turn",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [],
@@ -4492,7 +4492,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Your Main Phase)\r\nデッキの上から2枚を見て、その中から[Wizard]または[Witch]のCard1枚までを公開し、手札に移す。その後、残りのCardを任意の順番でデッキの下に移す。\r\n\r\n≪Break≫Cardを1枚引く。",
+    "text": "(Use)(Your Main Phase) Look at the top 2 cards of your Deck, You may reveal one [Wizard] or [Witch] from among them and add it to your hand, then place the other cards on the bottom of your deck in any order \n\n≪Break≫ Draw 1 card",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4527,7 +4527,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Your Main Phase)\r\nサポートフィールドにいる、味方の[ホグワーツ]Card1枚までを、メインフィールドに移す。\r\n\r\n≪Break≫このCardを、無償でUseできる。",
+    "text": "(Use)(Your Main Phase) Move up to one [Hogwarts] Character from your Support Field to your Main Field\n\n≪Break≫ You may use this card without paying it's Cost",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [],
@@ -4557,7 +4557,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest)\r\n味方キャラ1枚までを、このDuel、+1/±0する。\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)\r\n味方の[Gryffindor]Card1枚までを、活動状態にする。",
+    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this duel \n\n(Declare)(Your Main Phase)(Once Per Game)Activate up to one allied[Gryffindor]Character ",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4600,7 +4600,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest)\r\n味方キャラ1枚までを、このDuel、+1/±0する。\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)\r\n自分の捨て札からMagicCard2枚をデッキの下に移し、サポートフィールドにいる、味方キャラ1枚までを、メインフィールドに移す。",
+    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this Duel\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)Move two Magic Cards from your discard pile to the bottom of your deck, and move up to one allied Character from your Support Field to your Main Field.",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4643,7 +4643,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest)\r\n味方キャラ1枚までを、このDuel、+1/±0する。\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)\r\n相手キャラ1枚までを、ターン終了時まで、コスト-3する。",
+    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 until end of turn \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)Reduce the cost of up to one Character controlled by an opponent by 3 until End of Turn",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4686,7 +4686,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest)\r\n味方キャラ1枚までを、このDuel、+1/±0する。\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)\r\n自分が次にプレイする[Professor]のCard1枚は、コスト-1を得る。",
+    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this Duel \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)The next[Professor]Card you play has it's cost reduced by 1",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4729,7 +4729,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest)\r\n味方キャラ1枚までを、このDuel、+1/±0する。\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)\r\n自分のメインフィールドに[Muggle]のCardが3枚いる場合、Cardを2枚引く。",
+    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this Duel \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)if you control 3[Muggle]Cards in your Main Field, draw 2 cards",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4798,7 +4798,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this duel \n\n(Declare)(Opponent's Turn)(Duel)(Once Per Game) Ready up to 2 Allied [Gryffindor] Character s",
+    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this duel \n\n(Declare)(Opponent's Turn)(Duel)(Once Per Game) Ready up to 2 Allied [Gryffindor] Characters",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -4976,7 +4976,7 @@
     "mp": 1,
     "ap": 1,
     "dp": 1,
-    "text": "≪Supporter≫\n(Declare)(Your Main Phase)(Rest) 味方の[Gryffindor]Card1枚までを、ターン終了時まで、+1/+1する。\n\n≪Break≫味方の[Gryffindor]Card1枚までを、活動状態にする。",
+    "text": "≪Supporter≫\n(Declare)(Your Main Phase)(Rest) Give up to one allied [Gryffindor] Character  +1/+1 until End of Turn \n\n≪Break≫ Ready up to one allied [Gryffindor] Character",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -5031,7 +5031,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 5,
-    "text": "(Always)\r\nMagicCardがプレイされた場合、このCardを、ターン終了時まで、+1/+1する。",
+    "text": "(Always) Whenever you play a Magic Card, give this Character +1/+1 until End of Turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -5086,7 +5086,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Charge)\n※Chargeを持つキャラはEnterしたターンからキャラに攻撃できる。",
+    "text": "(Charge)\n ※ Characters with Charge may Attack rested Characters controlled by an opponent the turn they enter play",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -5326,7 +5326,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Declare)(Your Main Phase)(Rest)\n味方の[ホグワーツ]Card1枚までを、ターン終了時まで、+2/+2する。\n\n≪Break≫このCardを、サポートフィールドに出す。",
+    "text": "(Declare)(Your Main Phase)(Rest) Give up to one [Hogwarts] Character you control +2/+2 until End of Turn \n\n≪Break≫ You may place this Card into the Support Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5367,7 +5367,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Opponent's Turn)(Duel)\n味方キャラ1枚までを活動状態にする。\n\n≪Break≫このCardを、無償でUseできる。",
+    "text": "(Use)(Opponent's Turn)(Duel) Ready up to one allied Character \n\n≪Break≫ You may play this card for free",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5410,7 +5410,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪装備≫(Always)\nこのCardを装備している[Wizard]または[Witch]のCardを、+2/±0する。",
+    "text": "≪Equip≫(Always) A [Wizard] or [Witch] character equipped with this item has +2/+0",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5424,19 +5424,19 @@
     "qas": [
       {
         "id": 53,
-        "question": "S01-012「Wand」は、[Wizard]または[Witch]以外のキャラにも装備することはできますか。",
+        "question": "S01-012「Wand」は、[Wizard]または[Witch]以外のキャラにもEquipすることはできますか。",
         "answer": "可能です。ただし、効果は得られません。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 54,
-        "question": "メインフィールドにキャラが3枚ある状態で、メインフィールドのキャラにアイテムCardを装備した場合、メインフィールドのCardを捨て札にする必要がありますか？",
+        "question": "メインフィールドにキャラが3枚ある状態で、メインフィールドのキャラにアイテムCardをEquipした場合、メインフィールドのCardを捨て札にする必要がありますか？",
         "answer": "いいえ、必要ありません。Cardの下に重ねて置かれるCardは、メインフィールドやサポートフィールドの上限数に数えません。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 69,
-        "question": "01-049「Severus Snape」をプレイして、相手がS01-012「Wand」を装備したキャラを手札に戻す場合、S01-012「Wand」はどうなりますか。",
+        "question": "01-049「Severus Snape」をプレイして、相手がS01-012「Wand」をEquipしたキャラを手札に戻す場合、S01-012「Wand」はどうなりますか。",
         "answer": "捨て札に移ります。",
         "updatedAt": "2026-04-24"
       }
@@ -5459,7 +5459,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Your Main Phase)\n自分のパートナーと同じ寮の味方キャラ全てを、ターン終了時まで、+2/+2する。\n※寮とは[Gryffindor][Slytherine][Ravenclaw][Hufflepuff]を示す。\n\n≪Break≫このCardを、無償でUseできる。",
+    "text": "(Use)(Your Main Phase) All Characters you control which share a House with your Partner gain +2/+2 until End of Turn\n ※Houses are [Gryffindor][Slytherine][Ravenclaw][Hufflepuff]\n\n≪Break≫ You can Use this card for free",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5526,7 +5526,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest)\n味方キャラ1枚までを、このDuel、+1/±0する。\n\n(Declare)(Opponent's Turn)(Duel)(Once Per Game)\n味方の[Slytherine]Card2枚までを、活動状態にする。",
+    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this duel \n\n(Declare)(Opponent's Turn)(Duel)(Once Per Game)\n Ready up to 2 allied [Slytherine] Characters",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -5576,7 +5576,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Declare)(Your Main Phase)(Rest)\n味方の[ホグワーツ]Card1枚までを、ターン終了時まで、+2/+2する。\n\n≪Break≫このCardを、サポートフィールドに出す。",
+    "text": "(Declare)(Your Main Phase)(Rest) Give up to one [Hogwarts] Character you control +2/+2 until End of Turn \n\n≪Break≫ You may place this Card into the Support Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5617,7 +5617,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪装備≫(Always)\nこのCardを装備している[Wizard]または[Witch]のCardを、+2/±0する。",
+    "text": "≪Equip≫(Always) A [Wizard] or [Witch] character equipped with this item has +2/+0",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5647,7 +5647,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Your Main Phase)\n自分のパートナーと同じ寮の味方キャラ全てを、ターン終了時まで、+2/+2する。\n※寮とは[Gryffindor][Slytherine][Ravenclaw][Hufflepuff]を示す。\n\n≪Break≫このCardを、無償でUseできる。",
+    "text": "(Use)(Your Main Phase) All Characters you control which share a House with your Partner gain +2/+2 until End of Turn\n ※Houses are [Gryffindor][Slytherine][Ravenclaw][Hufflepuff]\n\n≪Break≫ You can Use this card for free",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5725,7 +5725,7 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(P-Link[Slytherine])(Trigger)(Your End Phase)\n味方キャラ1枚までを活動状態にする。\n\n≪Break≫味方の[Slytherine]Card1枚までを、活動状態にする。",
+    "text": "(P-Link[Slytherine])(Trigger)(Your End Phase) Ready up to one allied Character \n\n≪Break≫ Ready up to one allied [Slytherine] Character",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -5773,7 +5773,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Always)\n味方「Draco Malfoy」のCard全てを、+1/±0する。",
+    "text": "(Always) Your「Draco Malfoy」Characters have +1/+0",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -5828,7 +5828,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Always)\n味方「Draco Malfoy」のCard全てを±0/+1する。",
+    "text": "(Always) Your「Draco Malfoy」Characters have +0/+1",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -6142,7 +6142,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Duel)\nDuelの味方キャラ1枚までを、このDuel、+3/±0する。",
+    "text": "(Use)(Duel) Give up to one allied Character +3/+0 during this Duel",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
