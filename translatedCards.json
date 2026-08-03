@@ -91,7 +91,7 @@
     "qas": [
       {
         "id": 41,
-        "question": "Pt003「Harry Potter」の「味方の[Gryffindor]Card1枚までを、活動状態にする。」によって、PartnerCardを活動状態にできますか。",
+        "question": "Pt003「Harry Potter」の「味方の[Gryffindor] Card1枚までを、活動状態にする。」によって、PartnerCardを活動状態にできますか。",
         "answer": "できません。対象となる場所（MPフィールド、デッキなど）が指定されてない効果は、決闘場のCardのみを指定できます。",
         "updatedAt": "2026-04-24"
       }
@@ -114,7 +114,7 @@
     "mp": null,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Move up to one allied Character with Cost 4 or less from the Support Field to the Main Field",
+    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Move up to one Allied Character with Cost 4 or less from the Support Field to the Main Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -227,7 +227,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "≪Supporter≫\n(P-Link[Gryffindor])(Declare)(Your Main Phase)(Rest) Give up to one allied Character +2/+2 until End of Turn",
+    "text": "≪Supporter≫\n(P-Link[Gryffindor])(Declare)(Your Main Phase)(Rest) Give up to one Allied Character +2/+2 until End of Turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -530,7 +530,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Slytherine])(Trigger)(Enter) Give up to one non-Syltherine Character controlled by an opponent -3/-3 until End of Turn",
+    "text": "(P-Link[Slytherine])(Trigger)(Enter) Give up to one non-[Slytherine] Character controlled by an opponent -3/-3 until End of Turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -605,7 +605,7 @@
     "qas": [
       {
         "id": 59,
-        "question": "01-012「Harry Potter」の「メインフィールドにいる、味方の[Muggle]Card1枚を休息状態にし、このCardを活動状態にする。」は、このターンにメインフィールドに出た味方[Muggle]Cardも休息にできますか。",
+        "question": "01-012「Harry Potter」の「メインフィールドにいる、味方の[Muggle] Card1枚を休息状態にし、このCardを活動状態にする。」は、このターンにメインフィールドに出た味方[Muggle] Cardも休息にできますか。",
         "answer": "可能です。",
         "updatedAt": "2026-04-24"
       }
@@ -628,7 +628,7 @@
     "mp": 1,
     "ap": 5,
     "dp": 6,
-    "text": "(Trigger)(Your End Phase) Ready up to 2 Allied Gryffindor Characters",
+    "text": "(Trigger)(Your End Phase) Ready up to 2 Allied [Gryffindor] Characters",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -676,7 +676,7 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Give up to 2 allied Characters +1/+1 until End of Turn",
+    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Give up to 2 Allied Characters +1/+1 until End of Turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -868,7 +868,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 4,
-    "text": "(P-Link[Gryffindor])(Trigger)(Down) Ready up to one allied Character .",
+    "text": "(P-Link[Gryffindor])(Trigger)(Down) Ready up to one Allied Character .",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1122,7 +1122,7 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link「Albus Dumbledore」)(Trigger)(Your End Phase) Ready this card \n\n≪Break≫ Ready up to one allied Character",
+    "text": "(P-Link「Albus Dumbledore」)(Trigger)(Your End Phase) Ready this card \n\n≪Break≫ Ready up to one Allied Character",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1170,7 +1170,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 7,
-    "text": "(Trigger)(Block) Gain (Counterattack) \n\n  ≪Break≫ Give up to one allied Character (Counterattack) until end of turn",
+    "text": "(Trigger)(Block) Gain (Counterattack) \n\n  ≪Break≫ Give up to one Allied Character (Counterattack) until end of turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1660,7 +1660,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Trigger)(Your End Phase) Ready up to 1 Character with the same House as your Partner \n\n  Houses are: [Gryffindor][Slytherine][Ravenclaw][Hufflepuff]",
+    "text": "(Trigger)(Your End Phase) Ready up to 1 Character with the same House as your Partner \n\n  Houses are: [Gryffindor] [Slytherine] [Ravenclaw] [Hufflepuff]",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -1690,7 +1690,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Always) If you control a [Muggle] Character in the Main Field, All allied 「Harry Potter」 have +0/+2",
+    "text": "(Always) If you control a [Muggle] Character in the Main Field, All Allied 「Harry Potter」 have +0/+2",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -1720,7 +1720,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Gryffindor])(Trigger)(Attack) Give up to one allied Character +2/+2 until End of Turn \n\n  ≪Break≫ Read up to one Allied Character ",
+    "text": "(P-Link[Gryffindor])(Trigger)(Attack) Give up to one Allied Character +2/+2 until End of Turn \n\n  ≪Break≫ Read up to one Allied Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1768,7 +1768,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Gryffindor])(Trigger)(Attack) Give up to one allied Character (Charge) until End of Turn\n\n≪Break≫ Ready up to one Allied Character ",
+    "text": "(P-Link[Gryffindor])(Trigger)(Attack) Give up to one Allied Character (Charge) until End of Turn\n\n≪Break≫ Ready up to one Allied Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1816,7 +1816,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Gryffindor])(Trigger)(Attack) The next Magic Card you play has it's cost reduced by 2 \n\n≪Break≫ Ready up to 1 allied Character ",
+    "text": "(P-Link[Gryffindor])(Trigger)(Attack) The next Magic Card you play has it's cost reduced by 2 \n\n≪Break≫ Ready up to 1 Allied Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1871,7 +1871,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "≪Break≫ Ready up to one allied Character and return this card to your hand.",
+    "text": "≪Break≫ Ready up to one Allied Character and return this card to your hand.",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2125,7 +2125,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "≪Break≫ Move up to 1 allied Character in the Support Field to the Main Field, and return this card to your hand",
+    "text": "≪Break≫ Move up to 1 Allied Character in the Support Field to the Main Field, and return this card to your hand",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2228,7 +2228,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Always)(Your Turn) All [Professor] allied Characters have +1/+1",
+    "text": "(Always)(Your Turn) All [Professor] Allied Characters have +1/+1",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2260,7 +2260,7 @@
     "qas": [
       {
         "id": 65,
-        "question": "01-047「Albus Dumbledore」の「味方の[Professor]Card全てを、+1/+1する。」は、01-047「Albus Dumbledore」自身も対象になりますか。",
+        "question": "01-047「Albus Dumbledore」の「味方の[Professor] Card全てを、+1/+1する。」は、01-047「Albus Dumbledore」自身も対象になりますか。",
         "answer": "対象になります。",
         "updatedAt": "2026-04-24"
       }
@@ -2342,7 +2342,7 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(P-Link[Slytherine])(Trigger)(Enter) Your opponent may return up to one Rested allied Characters to your hand.",
+    "text": "(P-Link[Slytherine])(Trigger)(Enter) Your opponent may return up to one Rested Allied Characters to your hand.",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2413,7 +2413,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "≪Supporter≫ \n(P-Link「Albus Dumbledore」)(Declare)(Duel)(Rest) GIve up to one [Professor] allied Character +1/+1 until End of Turn",
+    "text": "≪Supporter≫ \n(P-Link「Albus Dumbledore」)(Declare)(Duel)(Rest) GIve up to one [Professor] Allied Character +1/+1 until End of Turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2451,7 +2451,7 @@
       },
       {
         "id": 70,
-        "question": "01-050\t「ロランダ・フーチ」の「(P-Link「Albus Dumbledore」)(Declare)(Duel)(Rest)　味方の[Professor]Card1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度(Declare)(Duel)(Rest)を発動することはできますか。",
+        "question": "01-050\t「ロランダ・フーチ」の「(P-Link「Albus Dumbledore」)(Declare)(Duel)(Rest)　味方の[Professor] Card1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度(Declare)(Duel)(Rest)を発動することはできますか。",
         "answer": "可能です。",
         "updatedAt": "2026-04-24"
       }
@@ -2474,7 +2474,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "(P-Link「Albus Dumbledore」)(Trigger)(Your End Phase) Ready up to one Allied Character \n\n≪Break≫Ready up to 1 allied [Professor] Character .",
+    "text": "(P-Link「Albus Dumbledore」)(Trigger)(Your End Phase) Ready up to one Allied Character \n\n≪Break≫Ready up to 1 Allied [Professor] Character .",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2680,7 +2680,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate up to one[Gryffindor]allied Character \n\n≪Break≫ Activate one allied Character ",
+    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate up to one [Gryffindor] Allied Character \n\n≪Break≫ Activate one Allied Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2730,7 +2730,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate up to one[Slytherine]allied Character \n\n≪Break≫ Activate up to one allied Character ",
+    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate up to one [Slytherine] Allied Character \n\n≪Break≫ Activate up to one Allied Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2780,7 +2780,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Ready up to one[Ravenclaw]allied Character \n\n≪Break≫ Activate up to one allied Character ",
+    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Ready up to one [Ravenclaw] Allied Character \n\n≪Break≫ Activate up to one Allied Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2830,7 +2830,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate up to one[Hufflepuff]allied Character \n\n≪Break≫ Activate up to one allied Character ",
+    "text": "≪Supporter≫\n(Declare)(Opponent's Turn)(Duel)〈Discard this Card〉Activate up to one [Hufflepuff] Allied Character \n\n≪Break≫ Activate up to one Allied Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2926,7 +2926,7 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link[Dursleys])(Always)This Card's cost is reduce by 1 for each[Muggle]Character in your Support Field",
+    "text": "(P-Link[Dursleys])(Always)This Card's cost is reduce by 1 for each [Muggle] Character in your Support Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2965,7 +2965,7 @@
     "mp": 1,
     "ap": 6,
     "dp": 6,
-    "text": "(Always)This card enters rested \n\n(Trigger)(Enter)You may return a[Muggle]Character from the Main Field to your hand, if you did, Ready this Character ",
+    "text": "(Always)This card enters rested \n\n(Trigger)(Enter)You may return a [Muggle] Character from the Main Field to your hand, if you did, Ready this Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -2988,13 +2988,13 @@
     "qas": [
       {
         "id": 74,
-        "question": "01-061「Harry Potter」の「(Trigger)(Enter)　メインフィールドにいる味方の[Muggle]Card1枚を手札に移し、このCardを活動状態にする。」は、メインフィールドに味方の[Muggle]Cardがある場合、必ず手札に戻す必要はありますか。",
-        "answer": "メインフィールドに味方の[Muggle]Cardがある場合、必ず手札に戻す必要があります。また、メインフィールドに味方の[Muggle]Cardがない場合、「このCardを活動状態にする。」は発動しません。",
+        "question": "01-061「Harry Potter」の「(Trigger)(Enter)　メインフィールドにいる味方の[Muggle] Card1枚を手札に移し、このCardを活動状態にする。」は、メインフィールドに味方の[Muggle] Cardがある場合、必ず手札に戻す必要はありますか。",
+        "answer": "メインフィールドに味方の[Muggle] Cardがある場合、必ず手札に戻す必要があります。また、メインフィールドに味方の[Muggle] Cardがない場合、「このCardを活動状態にする。」は発動しません。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 75,
-        "question": "メインフィールドに味方の[Muggle]Cardが無い場合、01-061「Harry Potter」の「このCardを活動状態にする。」は、発動しますか。",
+        "question": "メインフィールドに味方の[Muggle] Cardが無い場合、01-061「Harry Potter」の「このCardを活動状態にする。」は、発動しますか。",
         "answer": "発動しません。",
         "updatedAt": "2026-04-24"
       },
@@ -3023,7 +3023,7 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(P-Link[Dursleys])(Always)(Once per Turn)Whenever an allied[Muggle]Character is downed, draw 1 Card",
+    "text": "(P-Link[Dursleys])(Always)(Once per Turn)Whenever an Allied [Muggle] Character is downed, draw 1 Card",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3062,7 +3062,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "(Trigger)(Attack)Move up to one[Muggle]Character from your hand to the Main Field",
+    "text": "(Trigger)(Attack)Move up to one [Muggle] Character from your hand to the Main Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3101,7 +3101,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "(Trigger)(Enter)Discard one[Letter]Card then your opponent discards one Card",
+    "text": "(Trigger)(Enter)Discard one [Letter] Card then your opponent discards one Card",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3124,7 +3124,7 @@
     "qas": [
       {
         "id": 77,
-        "question": "01-064「Vernon Dursley」をプレイし、手札から[Letter]Card1枚を捨て札にできない場合、「その後、相手は手札1枚を捨て札にする。」は発動しますか。",
+        "question": "01-064「Vernon Dursley」をプレイし、手札から[Letter] Card1枚を捨て札にできない場合、「その後、相手は手札1枚を捨て札にする。」は発動しますか。",
         "answer": "発動しません。",
         "updatedAt": "2026-04-24"
       }
@@ -3193,7 +3193,7 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(Trigger)(Block)Ready up to one allied[Muggle]Character ",
+    "text": "(Trigger)(Block)Ready up to one Allied [Muggle] Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3440,7 +3440,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "≪Supporter≫(Always)Reduce the cost of[Letter]Cards you play by 1 \n\n≪Break≫ Move up to one[Letter]Card from your Discard Pile to your Hand",
+    "text": "≪Supporter≫(Always)Reduce the cost of[Letter] Cards you play by 1 \n\n≪Break≫ Move up to one [Letter] Card from your Discard Pile to your Hand",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3707,7 +3707,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Declare)(Duel)⑤〈Discard one Card from your Hand〉Change the target of your Opponent's attack to a allied Character of your choice",
+    "text": "(Declare)(Duel)⑤〈Discard one Card from your Hand〉Change the target of your Opponent's attack to a Allied Character of your choice",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3750,7 +3750,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Trigger)(Your End Phase)Discard one card, then move one[Hogwarts]card to the Main Field",
+    "text": "(Trigger)(Your End Phase)Discard one card, then move one [Hogwarts] Card to the Main Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3764,14 +3764,14 @@
     "qas": [
       {
         "id": 87,
-        "question": "01-080「9と3/4番線」の「(Trigger)(Your End Phase)　手札1枚を捨て札にし、味方の[ホグワーツ]Card1枚までをメインフィールドに移す。」は、どこからメインフィールドに移しますか。",
-        "answer": "サポートフィールドから、味方の[ホグワーツ]Card1枚までをメインフィールドに移します。",
+        "question": "01-080「9と3/4番線」の「(Trigger)(Your End Phase)　手札1枚を捨て札にし、味方の[ホグワーツ] Card1枚までをメインフィールドに移す。」は、どこからメインフィールドに移しますか。",
+        "answer": "サポートフィールドから、味方の[ホグワーツ] Card1枚までをメインフィールドに移します。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 88,
         "question": "01-080「9と3/4番線」は、ターン終了時に、手札を捨てず、メインフィールドに移さないことも選べますか。",
-        "answer": "選べません。(Trigger)(Your End Phase)は必ず発動しなければなりません。サポートフィールドに味方の[ホグワーツ]Card1枚がない場合でも、手札1枚を捨てる必要があります。",
+        "answer": "選べません。(Trigger)(Your End Phase)は必ず発動しなければなりません。サポートフィールドに味方の[ホグワーツ] Card1枚がない場合でも、手札1枚を捨てる必要があります。",
         "updatedAt": "2026-04-24"
       },
       {
@@ -3782,7 +3782,7 @@
       },
       {
         "id": 90,
-        "question": "自分の手札が無い場合、01-080「9と3/4番線」の「味方の[ホグワーツ]Card1枚までをメインフィールドに移す。」を発動できますか。",
+        "question": "自分の手札が無い場合、01-080「9と3/4番線」の「味方の[ホグワーツ] Card1枚までをメインフィールドに移す。」を発動できますか。",
         "answer": "できません。",
         "updatedAt": "2026-04-24"
       }
@@ -3805,7 +3805,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Declare)(Your Main Phase)① (Rest) Look at the top 10 cards of your Deck, you may equip a 「Wand」card from among them to a allied Character, then shuffle the Deck",
+    "text": "(Declare)(Your Main Phase)① (Rest) Look at the top 10 cards of your Deck, you may equip a 「Wand」card from among them to a Allied Character, then shuffle the Deck",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3848,7 +3848,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this duel \n\n(Declare)(Your Main Phase)(Once Per Game)Activate up to one allied[Gryffindor]Character ",
+    "text": "(Assist)①(Rest) Give up to one Allied Character +1/+0 during this duel \n\n(Declare)(Your Main Phase)(Once Per Game)Activate up to one Allied [Gryffindor] Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3875,19 +3875,19 @@
     "qas": [
       {
         "id": 39,
-        "question": "Pt003「Harry Potter」の「味方の[Gryffindor]Card1枚までを、活動状態にする。」によって、このターン既にAttackしたキャラを活動状態にした場合、そのキャラクターはAttackすることは可能ですか。",
+        "question": "Pt003「Harry Potter」の「味方の[Gryffindor] Card1枚までを、活動状態にする。」によって、このターン既にAttackしたキャラを活動状態にした場合、そのキャラクターはAttackすることは可能ですか。",
         "answer": "可能です。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 40,
-        "question": "Pt003「Harry Potter」の「味方の[Gryffindor]Card1枚までを、活動状態にする。」によって、このターン既に(Trigger)(Attack)を発動したキャラを活動状態にして再度Attackを行う場合、(Trigger)(Attack)は発動しますか。",
+        "question": "Pt003「Harry Potter」の「味方の[Gryffindor] Card1枚までを、活動状態にする。」によって、このターン既に(Trigger)(Attack)を発動したキャラを活動状態にして再度Attackを行う場合、(Trigger)(Attack)は発動しますか。",
         "answer": "(Once per Turn)等の条件が無い限り、発動します。",
         "updatedAt": "2026-04-24"
       },
       {
         "id": 41,
-        "question": "Pt003「Harry Potter」の「味方の[Gryffindor]Card1枚までを、活動状態にする。」によって、PartnerCardを活動状態にできますか。",
+        "question": "Pt003「Harry Potter」の「味方の[Gryffindor] Card1枚までを、活動状態にする。」によって、PartnerCardを活動状態にできますか。",
         "answer": "できません。対象となる場所（MPフィールド、デッキなど）が指定されてない効果は、決闘場のCardのみを指定できます。",
         "updatedAt": "2026-04-24"
       }
@@ -3910,7 +3910,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this Duel\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)Move two Magic Cards from your discard pile to the bottom of your deck, and move up to one allied Character from your Support Field to your Main Field.",
+    "text": "(Assist)①(Rest) Give up to one Allied Character +1/+0 during this Duel\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)Move two Magic Cards from your discard pile to the bottom of your deck, and move up to one Allied Character from your Support Field to your Main Field.",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3972,7 +3972,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 until end of turn \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)Reduce the cost of up to one Character controlled by an opponent by 3 until End of Turn",
+    "text": "(Assist)①(Rest) Give up to one Allied Character +1/+0 until end of turn \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)Reduce the cost of up to one Character controlled by an opponent by 3 until End of Turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -4028,7 +4028,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this Duel \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)The next[Professor]Card you play has it's cost reduced by 1",
+    "text": "(Assist)①(Rest) Give up to one Allied Character +1/+0 during this Duel \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)The next[Professor] Card you play has it's cost reduced by 1",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -4084,7 +4084,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this Duel \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)if you control 3[Muggle]Cards in your Main Field, draw 2 cards",
+    "text": "(Assist)①(Rest) Give up to one Allied Character +1/+0 during this Duel \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)if you control 3 [Muggle] Cards in your Main Field, draw 2 cards",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -4123,7 +4123,7 @@
     "mp": null,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Move up to one allied Character with Cost 4 or less from the Support Field to the Main Field",
+    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Move up to one Allied Character with Cost 4 or less from the Support Field to the Main Field",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4171,7 +4171,7 @@
     "mp": null,
     "ap": 6,
     "dp": 6,
-    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Move up to one allied Character with Cost 4 or less from the Support Field to the Main Field",
+    "text": "(P-Link[Gryffindor])(Trigger)(Enter) Move up to one Allied Character with Cost 4 or less from the Support Field to the Main Field",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4557,7 +4557,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this duel \n\n(Declare)(Your Main Phase)(Once Per Game)Activate up to one allied[Gryffindor]Character ",
+    "text": "(Assist)①(Rest) Give up to one Allied Character +1/+0 during this duel \n\n(Declare)(Your Main Phase)(Once Per Game)Activate up to one Allied[Gryffindor] Character ",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4600,7 +4600,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this Duel\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)Move two Magic Cards from your discard pile to the bottom of your deck, and move up to one allied Character from your Support Field to your Main Field.",
+    "text": "(Assist)①(Rest) Give up to one Allied Character +1/+0 during this Duel\r\n\r\n(Declare)(Your Main Phase)(Once Per Game)Move two Magic Cards from your discard pile to the bottom of your deck, and move up to one Allied Character from your Support Field to your Main Field.",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4643,7 +4643,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 until end of turn \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)Reduce the cost of up to one Character controlled by an opponent by 3 until End of Turn",
+    "text": "(Assist)①(Rest) Give up to one Allied Character +1/+0 until end of turn \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)Reduce the cost of up to one Character controlled by an opponent by 3 until End of Turn",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4686,7 +4686,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this Duel \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)The next[Professor]Card you play has it's cost reduced by 1",
+    "text": "(Assist)①(Rest) Give up to one Allied Character +1/+0 during this Duel \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)The next[Professor] Card you play has it's cost reduced by 1",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4729,7 +4729,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this Duel \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)if you control 3[Muggle]Cards in your Main Field, draw 2 cards",
+    "text": "(Assist)①(Rest) Give up to one Allied Character +1/+0 during this Duel \r\n\r\n(Declare)(Your Main Phase)(Once Per Game)if you control 3 [Muggle] Cards in your Main Field, draw 2 cards",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4798,7 +4798,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this duel \n\n(Declare)(Opponent's Turn)(Duel)(Once Per Game) Ready up to 2 Allied [Gryffindor] Characters",
+    "text": "(Assist)①(Rest) Give up to one Allied Character +1/+0 during this duel \n\n(Declare)(Opponent's Turn)(Duel)(Once Per Game) Ready up to 2 Allied [Gryffindor] Characters",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -4915,7 +4915,7 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(P-Link[Gryffindor])(Trigger)(Your End Phase) Activate up to one Allied Character \n\n≪Break≫ Ready up to one allied [Gryffindor] Character ",
+    "text": "(P-Link[Gryffindor])(Trigger)(Your End Phase) Activate up to one Allied Character \n\n≪Break≫ Ready up to one Allied [Gryffindor] Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -4976,7 +4976,7 @@
     "mp": 1,
     "ap": 1,
     "dp": 1,
-    "text": "≪Supporter≫\n(Declare)(Your Main Phase)(Rest) Give up to one allied [Gryffindor] Character  +1/+1 until End of Turn \n\n≪Break≫ Ready up to one allied [Gryffindor] Character",
+    "text": "≪Supporter≫\n(Declare)(Your Main Phase)(Rest) Give up to one Allied [Gryffindor] Character  +1/+1 until End of Turn \n\n≪Break≫ Ready up to one Allied [Gryffindor] Character",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -5008,7 +5008,7 @@
     "qas": [
       {
         "id": 70,
-        "question": "01-050\t「ロランダ・フーチ」の「(P-Link「Albus Dumbledore」)(Declare)(Duel)(Rest)　味方の[Professor]Card1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度(Declare)(Duel)(Rest)を発動することはできますか。",
+        "question": "01-050\t「ロランダ・フーチ」の「(P-Link「Albus Dumbledore」)(Declare)(Duel)(Rest)　味方の[Professor] Card1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度(Declare)(Duel)(Rest)を発動することはできますか。",
         "answer": "可能です。",
         "updatedAt": "2026-04-24"
       }
@@ -5326,7 +5326,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Declare)(Your Main Phase)(Rest) Give up to one [Hogwarts] allied Character +2/+2 until End of Turn \n\n≪Break≫ You may place this Card into the Support Field",
+    "text": "(Declare)(Your Main Phase)(Rest) Give up to one [Hogwarts] Allied Character +2/+2 until End of Turn \n\n≪Break≫ You may place this Card into the Support Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5367,7 +5367,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Opponent's Turn)(Duel) Ready up to one allied Character \n\n≪Break≫ You may play this card for free",
+    "text": "(Use)(Opponent's Turn)(Duel) Ready up to one Allied Character \n\n≪Break≫ You may play this card for free",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5459,7 +5459,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Your Main Phase) All allied Characters which share a House with your Partner gain +2/+2 until End of Turn\n ※Houses are [Gryffindor][Slytherine][Ravenclaw][Hufflepuff]\n\n≪Break≫ You can Use this card for free",
+    "text": "(Use)(Your Main Phase) All Allied Characters which share a House with your Partner gain +2/+2 until End of Turn\n ※Houses are [Gryffindor] [Slytherine] [Ravenclaw] [Hufflepuff]\n\n≪Break≫ You can Use this card for free",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5526,7 +5526,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)①(Rest) Give up to one allied Character +1/+0 during this duel \n\n(Declare)(Opponent's Turn)(Duel)(Once Per Game)\n Ready up to 2 allied [Slytherine] Characters",
+    "text": "(Assist)①(Rest) Give up to one Allied Character +1/+0 during this duel \n\n(Declare)(Opponent's Turn)(Duel)(Once Per Game)\n Ready up to 2 Allied [Slytherine] Characters",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -5576,7 +5576,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Declare)(Your Main Phase)(Rest) Give up to one [Hogwarts] allied Character +2/+2 until End of Turn \n\n≪Break≫ You may place this Card into the Support Field",
+    "text": "(Declare)(Your Main Phase)(Rest) Give up to one [Hogwarts] Allied Character +2/+2 until End of Turn \n\n≪Break≫ You may place this Card into the Support Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5647,7 +5647,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Your Main Phase) All allied Characters which share a House with your Partner gain +2/+2 until End of Turn\n ※Houses are [Gryffindor][Slytherine][Ravenclaw][Hufflepuff]\n\n≪Break≫ You can Use this card for free",
+    "text": "(Use)(Your Main Phase) All Allied Characters which share a House with your Partner gain +2/+2 until End of Turn\n ※Houses are [Gryffindor] [Slytherine] [Ravenclaw] [Hufflepuff]\n\n≪Break≫ You can Use this card for free",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5725,7 +5725,7 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(P-Link[Slytherine])(Trigger)(Your End Phase) Ready up to one allied Character \n\n≪Break≫ Ready up to one allied [Slytherine] Character",
+    "text": "(P-Link[Slytherine])(Trigger)(Your End Phase) Ready up to one Allied Character \n\n≪Break≫ Ready up to one Allied [Slytherine] Character",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -5805,7 +5805,7 @@
     "qas": [
       {
         "id": 41,
-        "question": "Pt003「Harry Potter」の「味方の[Gryffindor]Card1枚までを、活動状態にする。」によって、PartnerCardを活動状態にできますか。",
+        "question": "Pt003「Harry Potter」の「味方の[Gryffindor] Card1枚までを、活動状態にする。」によって、PartnerCardを活動状態にできますか。",
         "answer": "できません。対象となる場所（MPフィールド、デッキなど）が指定されてない効果は、決闘場のCardのみを指定できます。",
         "updatedAt": "2026-04-24"
       }
@@ -5860,7 +5860,7 @@
     "qas": [
       {
         "id": 41,
-        "question": "Pt003「Harry Potter」の「味方の[Gryffindor]Card1枚までを、活動状態にする。」によって、PartnerCardを活動状態にできますか。",
+        "question": "Pt003「Harry Potter」の「味方の[Gryffindor] Card1枚までを、活動状態にする。」によって、PartnerCardを活動状態にできますか。",
         "answer": "できません。対象となる場所（MPフィールド、デッキなど）が指定されてない効果は、決闘場のCardのみを指定できます。",
         "updatedAt": "2026-04-24"
       }
@@ -5883,7 +5883,7 @@
     "mp": 1,
     "ap": 1,
     "dp": 1,
-    "text": "≪Supporter≫\n(Declare)(Your Main Phase)(Rest) give up to one allied [Slytherine] Character +1/+1 until End of Turn \n\n≪Break≫ Ready up to one Allied [Slytherine] Character ",
+    "text": "≪Supporter≫\n(Declare)(Your Main Phase)(Rest) give up to one Allied [Slytherine] Character +1/+1 until End of Turn \n\n≪Break≫ Ready up to one Allied [Slytherine] Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -5915,7 +5915,7 @@
     "qas": [
       {
         "id": 70,
-        "question": "01-050\t「ロランダ・フーチ」の「(P-Link「Albus Dumbledore」)(Declare)(Duel)(Rest)　味方の[Professor]Card1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度(Declare)(Duel)(Rest)を発動することはできますか。",
+        "question": "01-050\t「ロランダ・フーチ」の「(P-Link「Albus Dumbledore」)(Declare)(Duel)(Rest)　味方の[Professor] Card1枚までを、ターン終了時まで+1/+1する。」を発動した後、そのターン中に01-050「ロランダ・フーチ」が活動状態になった場合、再度(Declare)(Duel)(Rest)を発動することはできますか。",
         "answer": "可能です。",
         "updatedAt": "2026-04-24"
       }
@@ -6142,7 +6142,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Use)(Duel) Give up to one allied Character +3/+0 during this Duel",
+    "text": "(Use)(Duel) Give up to one Allied Character +3/+0 during this Duel",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
