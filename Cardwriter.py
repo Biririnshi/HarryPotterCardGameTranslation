@@ -132,7 +132,7 @@ def build_card_html(card: dict, image_path: str) -> str:
       margin-bottom: 10px;
     }}
     .title {{
-      font-size: 36px;
+      font-size: 34px;
       font-weight: 800;
       line-height: 1.15;
       margin: 0;
@@ -141,14 +141,14 @@ def build_card_html(card: dict, image_path: str) -> str:
     }}
     .keyword {{
       display: inline-block;
-      padding: 3px 8px;
+      padding: 4px 8px 4px 8px;
       border-radius: 999px;
-      font-size: 20px;
+      font-size: 22px;
       font-weight: 650;
-      letter-spacing: 0.04em;
       text-transform: uppercase;
       background: rgba(227, 189, 0,0.8);
       white-space: nowrap;
+      align-items: center;
     }}
     .meta {{
       display: flex;
@@ -158,19 +158,18 @@ def build_card_html(card: dict, image_path: str) -> str:
     }}
     .tag-chip {{
       display: inline-block;
-      padding: 2px 8px;
+      padding: 4px 8px 4px 8px;
       border-radius: 999px;
-      font-size: 20px;
+      font-size: 22px;
       font-weight: 650;
-      letter-spacing: 0.04em;
       text-transform: uppercase;
       background: rgba(255, 255, 255,0.6);
       white-space: nowrap;
+      align-items: center;
     }}
     .effect {{
-      font-size: 20px;
+      font-size: 24px;
       font-weight: 600;
-      line-height: 1.55;
       margin: 0;
       white-space: pre-wrap;
       color: black;
@@ -179,10 +178,10 @@ def build_card_html(card: dict, image_path: str) -> str:
     }}
     .mp-badge {{
       position: absolute;
-      right: 32px;
-      bottom: 18px;
-      width: 60px;
-      height: 60px;
+      right: 16px;
+      bottom: 16px;
+      width: 64px;
+      height: 64px;
       border-radius: 50%;
       background: linear-gradient(135deg, #7b2cbf, #4c1d95);
       color: white;
