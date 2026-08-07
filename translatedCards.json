@@ -964,7 +964,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Slytherine]) (Always) (Your Turn) When this Character Duels, give both Characters in the Duel -2/-2 until End of Turn. \n\n (BREAK)Rest up to one Character controlled by an opponent.",
+    "text": "(P-Link[Slytherine]) (Always) (Your Turn) When this Character Duels, give both Characters in the Duel -2/-2 until End of Turn. \n\n(BREAK)Rest up to one Character controlled by an opponent.",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1019,7 +1019,7 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(P-Link[Slytherine]) (Trigger) (Enter) Draw 1 Card. \n\n (BREAK) Draw 2 Cards then discard 1 Card.",
+    "text": "(P-Link[Slytherine]) (Trigger) (Enter) Draw 1 Card. \n\n(BREAK) Draw 2 Cards then discard 1 Card.",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1067,7 +1067,7 @@
     "mp": 1,
     "ap": 3,
     "dp": 3,
-    "text": "(P-Link[Slytherine]) (Trigger) (Down) Give up to one Character controlled by an opponent -2/-2 until End of Turn. \n\n (BREAK) Give up to one Character controlled by an opponent -2/-2 until End of Turn ",
+    "text": "(P-Link[Slytherine]) (Trigger) (Down) Give up to one Character controlled by an opponent -2/-2 until End of Turn. \n\n(BREAK) Give up to one Character controlled by an opponent -2/-2 until End of Turn ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1170,7 +1170,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 7,
-    "text": "(Trigger) (Block) Gain (Counterattack) \n\n (BREAK) Give up to one Allied Character (Counterattack) until end of turn",
+    "text": "(Trigger) (Block) Gain (Counterattack) \n\n(BREAK) Give up to one Allied Character (Counterattack) until end of turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1333,7 +1333,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(Trigger) (Enter) Rest up to one Card in an Opponent's Mana Field \n\n (BREAK) Rest up to one Card in an Opponent's Mana Field",
+    "text": "(Trigger) (Enter) Rest up to one Card in an Opponent's Mana Field \n\n(BREAK) Rest up to one Card in an Opponent's Mana Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1466,7 +1466,7 @@
     "mp": 1,
     "ap": 2,
     "dp": 2,
-    "text": "(P-Link[Dursleys]) (Always) Magic Cards in all player's hands costs are increased by 1 \n\n (BREAK) Rest up to one [Wizard] or [Witch] Card controlled by an opponent",
+    "text": "(P-Link[Dursleys]) (Always) Magic Cards in all player's hands costs are increased by 1 \n\n(BREAK) Rest up to one [Wizard] or [Witch] Card controlled by an opponent",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1505,7 +1505,7 @@
     "mp": 1,
     "ap": 1,
     "dp": 1,
-    "text": "(P-Link[Dursleys]) (Trigger) (Enter) Give up to one [Wizard] or [Witch] Character controlled by an opponent -2/-2 until End of Turn \n\n (BREAK) Give up to one [Wizard]or [Witch] Character controlled by an opponent -2/-2 until End of Turn ",
+    "text": "(P-Link[Dursleys]) (Trigger) (Enter) Give up to one [Wizard] or [Witch] Character controlled by an opponent -2/-2 until End of Turn \n\n(BREAK) Give up to one [Wizard]or [Witch] Character controlled by an opponent -2/-2 until End of Turn ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1660,7 +1660,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Trigger) (Your End Phase) Ready up to 1 Character with the same House as your Partner \n\n Houses are: [Gryffindor] [Slytherine] [Ravenclaw] [Hufflepuff]",
+    "text": "(Trigger) (Your End Phase) Ready up to 1 Character with the same House as your Partner \n\nHouses are: [Gryffindor] [Slytherine] [Ravenclaw] [Hufflepuff]",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -1720,7 +1720,7 @@
     "mp": 1,
     "ap": 4,
     "dp": 4,
-    "text": "(P-Link[Gryffindor]) (Trigger) (Attack) Give up to one Allied Character +2/+2 until End of Turn \n\n (BREAK) Ready up to one Allied Character ",
+    "text": "(P-Link[Gryffindor]) (Trigger) (Attack) Give up to one Allied Character +2/+2 until End of Turn \n\n(BREAK) Ready up to one Allied Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -1919,7 +1919,7 @@
     "mp": 1,
     "ap": 5,
     "dp": 5,
-    "text": "(Always)If you control a 「George Weasley」 Character on your main field while this card is in your hand, the cost to play this card is reduced by 2 \n\n(BREAK) If you control a 「George Weasley」 in your Main Field, move this Character to your Main Field",
+    "text": "(Always) If you control a 「George Weasley」 Character on your main field while this card is in your hand, the cost to play this card is reduced by 2 \n\n(BREAK) If you control a 「George Weasley」 in your Main Field, move this Character to your Main Field",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3707,7 +3707,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Declare) (Duel)(5 MP)Discard one Card from your Hand〉Change the target of your Opponent's attack to a Allied Character of your choice",
+    "text": "(Declare) (Duel) (5 MP)Discard one Card from your Hand〉Change the target of your Opponent's attack to a Allied Character of your choice",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3805,7 +3805,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(Declare) (Your Main Phase)(1 MP) (Rest) Look at the top 10 cards of your Deck, you may equip a 「Wand」card from among them to a Allied Character, then shuffle the Deck",
+    "text": "(Declare) (Your Main Phase) (1 MP) (Rest) Look at the top 10 cards of your Deck, you may equip a 「Wand」card from among them to a Allied Character, then shuffle the Deck",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -3848,7 +3848,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)(1 MP)(Rest) Give up to one Allied Character +1/+0 during this duel \n\n(Declare) (Your Main Phase) (Once Per Game)Activate up to one Allied [Gryffindor] Character ",
+    "text": "(Assist) (1 MP) (Rest) Give up to one Allied Character +1/+0 during this duel \n\n(Declare) (Your Main Phase) (Once Per Game)Activate up to one Allied [Gryffindor] Character ",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3910,7 +3910,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)(1 MP)(Rest) Give up to one Allied Character +1/+0 during this Duel\r\n\r\n(Declare) (Your Main Phase) (Once Per Game)Move two Magic Cards from your discard pile to the bottom of your deck, and move up to one Allied Character from your Support Field to your Main Field.",
+    "text": "(Assist) (1 MP) (Rest) Give up to one Allied Character +1/+0 during this Duel\r\n\r\n(Declare) (Your Main Phase) (Once Per Game)Move two Magic Cards from your discard pile to the bottom of your deck, and move up to one Allied Character from your Support Field to your Main Field.",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -3972,7 +3972,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)(1 MP)(Rest) Give up to one Allied Character +1/+0 until end of turn \r\n\r\n(Declare) (Your Main Phase) (Once Per Game)Reduce the cost of up to one Character controlled by an opponent by 3 until End of Turn",
+    "text": "(Assist) (1 MP) (Rest) Give up to one Allied Character +1/+0 until end of turn \r\n\r\n(Declare) (Your Main Phase) (Once Per Game)Reduce the cost of up to one Character controlled by an opponent by 3 until End of Turn",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -4028,7 +4028,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)(1 MP)(Rest) Give up to one Allied Character +1/+0 during this Duel \r\n\r\n(Declare) (Your Main Phase) (Once Per Game)The next[Professor] Card you play has it's cost reduced by 1",
+    "text": "(Assist) (1 MP) (Rest) Give up to one Allied Character +1/+0 during this Duel \r\n\r\n(Declare) (Your Main Phase) (Once Per Game)The next[Professor] Card you play has it's cost reduced by 1",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -4084,7 +4084,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)(1 MP)(Rest) Give up to one Allied Character +1/+0 during this Duel \r\n\r\n(Declare) (Your Main Phase) (Once Per Game)if you control 3 [Muggle] Cards in your Main Field, draw 2 cards",
+    "text": "(Assist) (1 MP) (Rest) Give up to one Allied Character +1/+0 during this Duel \r\n\r\n(Declare) (Your Main Phase) (Once Per Game)if you control 3 [Muggle] Cards in your Main Field, draw 2 cards",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -4206,7 +4206,7 @@
   {
     "id": 90,
     "cardNumber": "01-004a",
-    "cardName": "Ron Weasley＆Hermione Granger",
+    "cardName": "Ron Weasley ＆ Hermione Granger",
     "cardType": {
       "id": 8,
       "value": "Character"
@@ -4557,7 +4557,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)(1 MP)(Rest) Give up to one Allied Character +1/+0 during this duel \n\n(Declare) (Your Main Phase) (Once Per Game)Activate up to one Allied[Gryffindor] Character ",
+    "text": "(Assist) (1 MP) (Rest) Give up to one Allied Character +1/+0 during this duel \n\n(Declare) (Your Main Phase) (Once Per Game)Activate up to one Allied[Gryffindor] Character ",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4600,7 +4600,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)(1 MP)(Rest) Give up to one Allied Character +1/+0 during this Duel\r\n\r\n(Declare) (Your Main Phase) (Once Per Game)Move two Magic Cards from your discard pile to the bottom of your deck, and move up to one Allied Character from your Support Field to your Main Field.",
+    "text": "(Assist) (1 MP) (Rest) Give up to one Allied Character +1/+0 during this Duel\r\n\r\n(Declare) (Your Main Phase) (Once Per Game)Move two Magic Cards from your discard pile to the bottom of your deck, and move up to one Allied Character from your Support Field to your Main Field.",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4643,7 +4643,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)(1 MP)(Rest) Give up to one Allied Character +1/+0 until end of turn \r\n\r\n(Declare) (Your Main Phase) (Once Per Game)Reduce the cost of up to one Character controlled by an opponent by 3 until End of Turn",
+    "text": "(Assist) (1 MP) (Rest) Give up to one Allied Character +1/+0 until end of turn \r\n\r\n(Declare) (Your Main Phase) (Once Per Game)Reduce the cost of up to one Character controlled by an opponent by 3 until End of Turn",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4686,7 +4686,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)(1 MP)(Rest) Give up to one Allied Character +1/+0 during this Duel \r\n\r\n(Declare) (Your Main Phase) (Once Per Game)The next[Professor] Card you play has it's cost reduced by 1",
+    "text": "(Assist) (1 MP) (Rest) Give up to one Allied Character +1/+0 during this Duel \r\n\r\n(Declare) (Your Main Phase) (Once Per Game)The next[Professor] Card you play has it's cost reduced by 1",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4729,7 +4729,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)(1 MP)(Rest) Give up to one Allied Character +1/+0 during this Duel \r\n\r\n(Declare) (Your Main Phase) (Once Per Game)if you control 3 [Muggle] Cards in your Main Field, draw 2 cards",
+    "text": "(Assist) (1 MP) (Rest) Give up to one Allied Character +1/+0 during this Duel \r\n\r\n(Declare) (Your Main Phase) (Once Per Game)if you control 3 [Muggle] Cards in your Main Field, draw 2 cards",
     "parallel": true,
     "canAddToDeck": true,
     "tags": [
@@ -4798,7 +4798,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)(1 MP)(Rest) Give up to one Allied Character +1/+0 during this duel \n\n(Declare) (Opponent's Turn) (Duel) (Once Per Game) Ready up to 2 Allied [Gryffindor] Characters",
+    "text": "(Assist) (1 MP) (Rest) Give up to one Allied Character +1/+0 during this duel \n\n(Declare) (Opponent's Turn) (Duel) (Once Per Game) Ready up to 2 Allied [Gryffindor] Characters",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -5410,7 +5410,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(EQUIP)(Always) A [Wizard] or [Witch] character equipped with this item has +2/+0",
+    "text": "(EQUIP) (Always) A [Wizard] or [Witch] character equipped with this item has +2/+0",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],
@@ -5526,7 +5526,7 @@
     "mp": null,
     "ap": null,
     "dp": null,
-    "text": "(Assist)(1 MP)(Rest) Give up to one Allied Character +1/+0 during this duel \n\n(Declare) (Opponent's Turn) (Duel) (Once Per Game)\nReady up to 2 Allied [Slytherine] Characters",
+    "text": "(Assist) (1 MP) (Rest) Give up to one Allied Character +1/+0 during this duel \n\n(Declare) (Opponent's Turn) (Duel) (Once Per Game)\nReady up to 2 Allied [Slytherine] Characters",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [
@@ -5617,7 +5617,7 @@
     "mp": 1,
     "ap": null,
     "dp": null,
-    "text": "(EQUIP)(Always) A [Wizard] or [Witch] character equipped with this item has +2/+0",
+    "text": "(EQUIP) (Always) A [Wizard] or [Witch] character equipped with this item has +2/+0",
     "parallel": false,
     "canAddToDeck": true,
     "tags": [],

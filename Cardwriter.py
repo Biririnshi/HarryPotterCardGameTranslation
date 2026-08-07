@@ -53,7 +53,6 @@ def build_card_html(card: dict, image_path: str) -> str:
     title = escape_text(card.get("cardName", ""))
     tags = [escape_text(tag.get("value", "")) for tag in card.get("tags", []) if tag.get("value")]
     effect_text = format_effect_text(card.get("text", ""))
-    card_type = card.get("cardType", {}).get("value", "")
     mp_value = card.get("mp")
 
     with open(image_path, "rb") as handle:
@@ -76,7 +75,7 @@ def build_card_html(card: dict, image_path: str) -> str:
   <style>
     :root {{
       color-scheme: dark;
-      font-family: 'Hiragino Sans', 'Yu Gothic', 'Arial Unicode MS', 'Noto Sans CJK JP', sans-serif;
+      font-family: 'Stix Two Text', serif;
     }}
     html, body {{
       margin: 0;
@@ -113,15 +112,15 @@ def build_card_html(card: dict, image_path: str) -> str:
       display: flex;
       flex-direction: column;
       justify-content: flex-end;
-      padding: 36px 30px 28px;
       box-sizing: border-box;
+      padding: 12px 12px 12px;
     }}
     .content {{
       background: rgba(255,255,255,0.35);
       backdrop-filter: blur(14px);
       border: 1px solid rgba(255,255,255,0.22);
-      border-radius: 24px;
-      padding: 18px 18px 16px;
+      border-radius: 20px;
+      padding: 12px 12px 12px;
       height: 30%;
       box-shadow: inset 0 1px 0 rgba(255,255,255,0.22);
     }}
@@ -144,7 +143,7 @@ def build_card_html(card: dict, image_path: str) -> str:
       display: inline-block;
       padding: 3px 8px;
       border-radius: 999px;
-      font-size: 18px;
+      font-size: 20px;
       font-weight: 650;
       letter-spacing: 0.04em;
       text-transform: uppercase;
@@ -159,9 +158,9 @@ def build_card_html(card: dict, image_path: str) -> str:
     }}
     .tag-chip {{
       display: inline-block;
-      padding: 3px 8px;
+      padding: 2px 8px;
       border-radius: 999px;
-      font-size: 16px;
+      font-size: 20px;
       font-weight: 650;
       letter-spacing: 0.04em;
       text-transform: uppercase;
@@ -169,9 +168,9 @@ def build_card_html(card: dict, image_path: str) -> str:
       white-space: nowrap;
     }}
     .effect {{
-      font-size: 18px;
+      font-size: 20px;
       font-weight: 600;
-      line-height: 1.65;
+      line-height: 1.55;
       margin: 0;
       white-space: pre-wrap;
       color: black;
@@ -202,7 +201,7 @@ def build_card_html(card: dict, image_path: str) -> str:
       justify-content: space-between;
       align-items: center;
       margin-top: 12px;
-      font-size: 20px;
+      font-size: 22px;
       color: black;
       text-transform: uppercase;
       letter-spacing: 0.08em;
@@ -216,7 +215,6 @@ def build_card_html(card: dict, image_path: str) -> str:
       <div class=\"content\">
         <div class=\"header\">
           <h1 class=\"title\">{title}</h1>
-          <span>{escape_text(card_type)}</span>
         </div>
         <div class=\"meta\">
           {tags_markup}
