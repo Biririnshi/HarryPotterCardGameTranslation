@@ -116,36 +116,37 @@ def build_card_html(card: dict, image_path: str) -> str:
       padding: 12px 12px 12px;
     }}
     .content {{
-      background: rgba(255,255,255,0.35);
+      background: rgba(255,255,255,0.65);
       backdrop-filter: blur(14px);
       border: 1px solid rgba(255,255,255,0.22);
       border-radius: 20px;
       padding: 12px 12px 12px;
       height: 30%;
       box-shadow: inset 0 1px 0 rgba(255,255,255,0.22);
+      line-height:1.3;
     }}
     .header {{
       display: flex;
       justify-content: space-between;
       align-items: center;
-      gap: 8px;
-      margin-bottom: 10px;
+      gap: 6px;
+      margin-bottom: 8px;
     }}
     .title {{
-      font-size: 36px;
+      font-size: 34px;
       font-weight: 800;
-      line-height: 1.15;
+      line-height: 1.1;
       margin: 0;
       text-shadow: 0 2px 10px rgba(255,255,255,0.3);
       word-break: break-word;
     }}
     .keyword {{
+      line-height: 1.1;
       display: inline-block;
-      padding: 3px 8px;
-      border-radius: 999px;
-      font-size: 20px;
+      padding: 0.4rem 1rem 0.1rem 1rem;
+      border-radius: 20%;
+      font-size: 22px;
       font-weight: 650;
-      letter-spacing: 0.04em;
       text-transform: uppercase;
       background: rgba(227, 189, 0,0.8);
       white-space: nowrap;
@@ -157,20 +158,20 @@ def build_card_html(card: dict, image_path: str) -> str:
       margin-bottom: 10px;
     }}
     .tag-chip {{
+      line-height: 1.1;
       display: inline-block;
-      padding: 2px 8px;
-      border-radius: 999px;
-      font-size: 20px;
+      padding: 0.4rem 1rem 0.1rem 1rem;
+      border-radius: 20%;
+      font-size: 22px;
       font-weight: 650;
-      letter-spacing: 0.04em;
       text-transform: uppercase;
       background: rgba(255, 255, 255,0.6);
       white-space: nowrap;
     }}
     .effect {{
-      font-size: 20px;
+      line-height: 1.1;
+      font-size: 24px;
       font-weight: 600;
-      line-height: 1.55;
       margin: 0;
       white-space: pre-wrap;
       color: black;
@@ -179,10 +180,10 @@ def build_card_html(card: dict, image_path: str) -> str:
     }}
     .mp-badge {{
       position: absolute;
-      right: 32px;
-      bottom: 18px;
-      width: 60px;
-      height: 60px;
+      right: 16px;
+      bottom: 16px;
+      width: 64px;
+      height: 64px;
       border-radius: 50%;
       background: linear-gradient(135deg, #7b2cbf, #4c1d95);
       color: white;
