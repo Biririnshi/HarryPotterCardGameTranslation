@@ -150,6 +150,7 @@ def build_card_html(card: dict, image_path: str) -> str:
       text-transform: uppercase;
       background: rgba(227, 189, 0,0.8);
       white-space: nowrap;
+      align-items: center;
     }}
     .meta {{
       display: flex;
@@ -167,6 +168,7 @@ def build_card_html(card: dict, image_path: str) -> str:
       text-transform: uppercase;
       background: rgba(255, 255, 255,0.6);
       white-space: nowrap;
+      align-items: center;
     }}
     .effect {{
       line-height: 1.1;

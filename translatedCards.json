@@ -92,6 +92,7 @@
       {
         "id": 41,
         "question": "Pt003 [[Harry Potter]] の [[味方の[Gryffindor] Card1枚までを、活動状態にする。]] によって、PartnerCardを活動状態にできますか。",
+        "question": "Pt003[[Harry Potter]]の[[味方の[Gryffindor] Card1枚までを、活動状態にする。]]によって、PartnerCardを活動状態にできますか。",
         "answer": "できません。対象となる場所（MPフィールド、デッキなど）が指定されてない効果は、決闘場のCardのみを指定できます。",
         "updatedAt": "2026-04-24"
       }
